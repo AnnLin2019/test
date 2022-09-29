@@ -1,0 +1,11 @@
+开始type(relevant_dict_global) <class 'dict'>
+type(case_value): <class 'str'>
+case_value: {}
+is_relevant: []
+relevant_params_before: {"roomID":${roomID}, "unameType":1, "userID":1459746, "checkPwd":0, "terminalType":0,"roomPassword":""}
+type(case_value): <class 'str'>
+case_value: {"roomID":${roomID}, "unameType":1, "userID":1459746, "checkPwd":0, "terminalType":0,"roomPassword":""}
+is_relevant: ['${roomID}']
+找不到关联参数
+type(params): <class 'str'>
+params: {"roomID":${roomID}, "unameType":1, "userID":1459746, "checkPwd":0, "terminalType":0,"roomPassword":""}

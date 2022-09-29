@@ -1,0 +1,22 @@
+{
+  "3b937c286e09ada1273f7ab0f2130058" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ecb102425ce1dc88",
+      "status" : "broken",
+      "statusDetails" : "SystemExit: 1",
+      "time" : {
+        "start" : 1663754773784,
+        "stop" : 1663754773788,
+        "duration" : 4
+      }
+    } ]
+  }
+}

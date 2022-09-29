@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "SystemExit: 1",
+      "children" : [ {
+        "name" : "test_api_all[data0]",
+        "uid" : "ecb102425ce1dc88",
+        "parentUid" : "e6772d24fd1380cbae857db41637cde3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1663754773784,
+          "stop" : 1663754773788,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ "{'编号': 1, 'CaseName(用例名称)': 'VerifyRoomUser2服务', 'Importance（用例级别）': None, 'Keywords（可以不填）': None, 'Preconditions（前置条件）': None, 'StepActions（步骤）': None, 'ExpectedResults（期望结果）': None, 'ip': '47.113.118.87', 'port': 33001, 'uri': \"'\", 'request_mode': 'ICE', 'headers': '{}', 'PaIsMoCl': 1, 'rootService': 'roomService', 'model': 'com.fastonz.fmserver.roomMgr', 'proxy_name': 'RoomServicePrx', 'othermodel': 'com.fastonz.fmserver.model', 'ModelClass_name': 'VerifyRoomUserRequestModel2', 'iceservice': 'VerifyRoomUser2', 'params': '{\"roomID\":235015, \"unameType\":0, \"userID\":0, \"checkPwd\":0, \"terminalType\":0,\"roomPassword\":\"\"}', 'varname': '{}', 'checkPoint_subIn': 'result = 0', 'checkPoint_subOut': '40', 'relevant': '${roomID}=[roomID]', 'automatic': 'Yes', 'testcase_result': None, 'response_data': None, 'response_time': None, 'relevant_value': None}" ]
+      } ],
+      "uid" : "e6772d24fd1380cbae857db41637cde3"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

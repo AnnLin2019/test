@@ -1,0 +1,21 @@
+[ {
+  "uid" : "37dd656e19dfc22d",
+  "name" : "test_api_all[data1]",
+  "time" : {
+    "start" : 1663748102291,
+    "stop" : 1663748102292,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "97034a6fdbbddd5c",
+  "name" : "测试标题",
+  "time" : {
+    "start" : 1663753946429,
+    "stop" : 1663753946439,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

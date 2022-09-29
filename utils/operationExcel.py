@@ -10,6 +10,9 @@ import openpyxl
 import pathlib
 import logging
 #读取excel表数据
+from utils.excelVarles import excelVarles
+
+
 class operationExcel():
     def __init__(self,filename):
         # self.workbook = None
@@ -97,12 +100,33 @@ class operationExcel():
                     # print("字典是{}".format(temp_dict))
                     yield temp_dict
 
+    def get_cell_column(self,row,value):
+        for name in self.sheets:
+            sheet = self.get_sheet(name)
+            columns = sheet.max_column
+            for i in range(1,columns+1):
+                cell_value=sheet.cell(row=row, column=i).value
+                if cell_value==value:
+                  return i
+
+    def write_value(self,row,column,value):
+        if value is not None:
+            self.sheet.cell(row=row, column=column).value=value
+            self.workbook.save(self.filename)
+        else:
+            pass
+
+    def write_result(self,row,column,value):
+       self.sheet.cell(row=row, column=column).value = value
+       self.workbook.save(self.filename)
+
+
 if __name__ == '__main__':
-    filepath='H:\\Program Files (x86)\\Python_Project\\Api_Pytest\\data\\b.xlsx'
+    filepath='H:\\Program Files (x86)\\Python_Project\\Api_Pytest\\data\\Room_1.xlsx'
     excel=operationExcel(filepath)
     # for i in excel.get_allvalue():
     #   print(i)
-    print(excel.get_excel_datas())
+
 
 
 

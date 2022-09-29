@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Sep 21 18:06:13 CST 2022","Wed Sep 21 18:06:13 CST 2022","4","","test_allure","","","","test_api_all[data0]",""

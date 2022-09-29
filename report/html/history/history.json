@@ -1,0 +1,42 @@
+{
+  "2e6ada17e3816b19be551ec137fd64e0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "37dd656e19dfc22d",
+      "status" : "broken",
+      "statusDetails" : "  File \"<string>\", line 1\n    {\"roomID\":${roomID}, \"unameType\":1, \"userID\":1459746, \"checkPwd\":0, \"terminalType\":0,\"roomPassword\":\"\"}\n              ^\nSyntaxError: invalid syntax",
+      "time" : {
+        "start" : 1663748102291,
+        "stop" : 1663748102292,
+        "duration" : 1
+      }
+    } ]
+  },
+  "404787d8a5def1a619735335e5e95a96" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "97034a6fdbbddd5c",
+      "status" : "broken",
+      "statusDetails" : "SystemExit: 1",
+      "time" : {
+        "start" : 1663753946429,
+        "stop" : 1663753946439,
+        "duration" : 10
+      }
+    } ]
+  }
+}
