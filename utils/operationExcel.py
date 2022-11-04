@@ -9,6 +9,7 @@
 import openpyxl
 import pathlib
 import logging
+from common.public import File
 #读取excel表数据
 from utils.excelVarles import excelVarles
 
@@ -87,8 +88,14 @@ class operationExcel():
         temp_dict={}
         temp_value=None
         temp_key=None
+        fileName = File().file_name(self.filename)
+        # temp_dict["fileName"] = fileName
+        print("当前sheet页：", fileName)
         for name in self.sheets:
             sheet=self.get_sheet(name)
+
+            # temp_dict["sheetName"]=name
+            # print("当前temp_dict：", temp_dict)
             for value in sheet.values:
                 # print(value)
                 if type(value[0]) is not int:
@@ -97,6 +104,9 @@ class operationExcel():
                 else:
                     temp_value=value
                     temp_dict = dict(zip(temp_key, temp_value))
+                    temp_dict["sheetName"] = name
+                    temp_dict["fileName"] = fileName
+                    # temp_dict.update(dict(zip(temp_key, temp_value)))
                     # print("字典是{}".format(temp_dict))
                     yield temp_dict
 
@@ -120,12 +130,32 @@ class operationExcel():
        self.sheet.cell(row=row, column=column).value = value
        self.workbook.save(self.filename)
 
+class Pathsexcel:
+    def get_all_values(self,paths):
+        for path in paths:
+            self.operationexcel = operationExcel(path)
+            excel = self.operationexcel.get_allvalue()
+            fileName = File().file_name(path)
+            for value in excel:
+                yield value
+
+    def write_values(self,row, column, value):
+        self.operationexcel.write_value(row, column, value)
 
 if __name__ == '__main__':
-    filepath='H:\\Program Files (x86)\\Python_Project\\Api_Pytest\\data\\Room_1.xlsx'
-    excel=operationExcel(filepath)
-    # for i in excel.get_allvalue():
+    # filepath='F:\\Test\\Interface\\Python自动化\\git_api\\test\\data\\boss_ice_1.xlsx'
+    # excel=operationExcel(filepath)
+    # el = excel.get_allvalue()
+    # for i in el:
     #   print(i)
+      paths = ['F:\\Test\\Interface\\Python自动化\\git_api\\test\\data\\boss_ice_1.xlsx',
+               'F:\\Test\\Interface\\Python自动化\\git_api\\test\\data\\Room_1.xlsx']
+      for path in paths:
+          operationexcel = operationExcel(path)
+          excel = operationexcel.get_allvalue()
+          fileName = File().file_name(path)
+          for i in excel:
+              print("这是excel：",i)
 
 
 

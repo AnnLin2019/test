@@ -1,0 +1,136 @@
+{
+  "uid" : "cdab55710db6443c",
+  "name" : "查询下级部门，keyCode错误，返回失败",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "8b822f3e55cac91a89820081d492a1ac",
+  "time" : {
+    "start" : 1667388920316,
+    "stop" : 1667388920404,
+    "duration" : 88
+  },
+  "description" : "请求方法是GET，请求url是/companies/departments/550867/sub-departments,请求头是{\"content-type\":\"application/json\",\"Key-Code\":\"a0627b08e6adb8d9df67562e003ebcb9fd733e211ab63a6dd89ea0fb732c8c4618cb521d8f59ce6158dd68f4bede016359f991420ffe1ece7b0a21220ff0b44d445\"}",
+  "descriptionHtml" : "<p>请求方法是GET，请求url是/companies/departments/550867/sub-departments,请求头是{&quot;content-type&quot;:&quot;application/json&quot;,&quot;Key-Code&quot;:&quot;a0627b08e6adb8d9df67562e003ebcb9fd733e211ab63a6dd89ea0fb732c8c4618cb521d8f59ce6158dd68f4bede016359f991420ffe1ece7b0a21220ff0b44d445&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1667388886189,
+      "stop" : 1667388886286,
+      "duration" : 97
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "请求方法是GET，请求url是/companies/departments/550867/sub-departments,请求头是{\"content-type\":\"application/json\",\"Key-Code\":\"a0627b08e6adb8d9df67562e003ebcb9fd733e211ab63a6dd89ea0fb732c8c4618cb521d8f59ce6158dd68f4bede016359f991420ffe1ece7b0a21220ff0b44d445\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d51c8044cd3a61ae",
+      "name" : "请求参数",
+      "source" : "d51c8044cd3a61ae.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "d8c26003b6a3c8d0",
+      "name" : "请求方法",
+      "source" : "d8c26003b6a3c8d0.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "672944f355a46fb1",
+      "name" : "请求url",
+      "source" : "672944f355a46fb1.txt",
+      "type" : "text/plain",
+      "size" : 78
+    }, {
+      "uid" : "4c183a05a78dbbca",
+      "name" : "请求头",
+      "source" : "4c183a05a78dbbca.txt",
+      "type" : "text/plain",
+      "size" : 183
+    }, {
+      "uid" : "dbfa1a15e6f8e684",
+      "name" : "提取参数",
+      "source" : "dbfa1a15e6f8e684.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "3550be3c4bc2e898",
+      "name" : "关联参数",
+      "source" : "3550be3c4bc2e898.txt",
+      "type" : "text/plain",
+      "size" : 727
+    }, {
+      "uid" : "e47571b4946475a8",
+      "name" : "断言内容",
+      "source" : "e47571b4946475a8.txt",
+      "type" : "text/plain",
+      "size" : 39
+    }, {
+      "uid" : "9b2dccb9f5cef09",
+      "name" : "返回结果",
+      "source" : "9b2dccb9f5cef09.txt",
+      "type" : "text/plain",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "boss_api_新增多个部门和用户.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "查询下一级子部门"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "19712-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cdab55710db6443c.json",
+  "parameterValues" : [ ]
+}

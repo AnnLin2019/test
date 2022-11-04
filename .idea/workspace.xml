@@ -9,57 +9,93 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/test$method.coverage" NAME="method Coverage Results" MODIFIED="1663588436370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/test$toSql.coverage" NAME="toSql Coverage Results" MODIFIED="1667282756709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/test$case_assert.coverage" NAME="case_assert Coverage Results" MODIFIED="1667295114557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/test$operationExcel.coverage" NAME="operationExcel Coverage Results" MODIFIED="1665387561968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/test$test_report.coverage" NAME="test_report Coverage Results" MODIFIED="1663754516807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$pytest_for_test_api_all_test_api_all.coverage" NAME="pytest for test_api_all.test_api_all Coverage Results" MODIFIED="1664447706957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
-    <SUITE FILE_PATH="coverage/test$pytest_in_test_api_all_py.coverage" NAME="pytest in test_api_all.py Coverage Results" MODIFIED="1664447590679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
-    <SUITE FILE_PATH="coverage/test$login.coverage" NAME="login Coverage Results" MODIFIED="1663133812004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/test$test_222.coverage" NAME="test_222 Coverage Results" MODIFIED="1664447834233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
-    <SUITE FILE_PATH="coverage/test$test_allure.coverage" NAME="test_allure Coverage Results" MODIFIED="1663754772255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$pytest_for_test_api_all_test_api_all.coverage" NAME="pytest for test_api_all.test_api_all Coverage Results" MODIFIED="1665306984313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
+    <SUITE FILE_PATH="coverage/test$test_222.coverage" NAME="test_222 Coverage Results" MODIFIED="1666166584395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
+    <SUITE FILE_PATH="coverage/test$test_333.coverage" NAME="test_333 Coverage Results" MODIFIED="1667282300824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
     <SUITE FILE_PATH="coverage/test$test_111.coverage" NAME="test_111 Coverage Results" MODIFIED="1664331348656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
+    <SUITE FILE_PATH="coverage/test$method.coverage" NAME="method Coverage Results" MODIFIED="1663588436370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/test$toFunction.coverage" NAME="toFunction Coverage Results" MODIFIED="1667207538024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/test$public.coverage" NAME="public Coverage Results" MODIFIED="1665310423012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/test$operationSql.coverage" NAME="operationSql Coverage Results" MODIFIED="1667207920543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/test$pytest_in_test_api_all_py.coverage" NAME="pytest in test_api_all.py Coverage Results" MODIFIED="1665309130249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
+    <SUITE FILE_PATH="coverage/test$login.coverage" NAME="login Coverage Results" MODIFIED="1663133812004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/test$test_api_all.coverage" NAME="test_api_all Coverage Results" MODIFIED="1667388871315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
+    <SUITE FILE_PATH="coverage/test$processingRelevant.coverage" NAME="processingRelevant Coverage Results" MODIFIED="1667369580384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/test$operationSSH.coverage" NAME="operationSSH Coverage Results" MODIFIED="1666778260283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/test$test_allure.coverage" NAME="test_allure Coverage Results" MODIFIED="1663754772255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_pytest/test_api_all.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="69" column="16" lean-forward="true" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="47" />
-              <folding>
-                <element signature="e#129#142#0" expanded="true" />
-                <element signature="e#7362#7480#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils/excelVarles.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="14" />
+            <state relative-caret-position="275">
+              <caret line="41" column="12" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_allure.py">
+        <entry file="file://$PROJECT_DIR$/common/toSql.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="178" selection-start-line="178" selection-end-line="180" selection-end-column="43" />
+            <state relative-caret-position="405">
+              <caret line="34" column="25" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_pytest/test_api_all.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="76" column="22" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="22" />
               <folding>
                 <element signature="e#129#142#0" expanded="true" />
-                <element signature="e#1071#6330#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_pytest/test_111.py">
+        <entry file="file://$PROJECT_DIR$/common/toFunction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="37" />
+            <state relative-caret-position="-727">
+              <caret line="52" column="21" selection-start-line="11" selection-start-column="3" selection-end-line="52" selection-end-column="21" />
+              <folding>
+                <element signature="e#128#147#0" expanded="true" />
+                <element signature="e#224#2048#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/public.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/send_mail/mail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_pytest/test_333.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="18" selection-start-line="18" selection-end-line="20" selection-end-column="22" />
               <folding>
                 <element signature="e#125#138#0" expanded="true" />
               </folding>
@@ -68,40 +104,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_pytest/test_222.py">
+        <entry file="file://$PROJECT_DIR$/utils/processingRelevant.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+            <state relative-caret-position="876">
+              <caret line="144" column="47" selection-start-line="144" selection-start-column="47" selection-end-line="144" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/operationSql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="44" column="63" selection-start-line="44" selection-start-column="63" selection-end-line="44" selection-end-column="63" />
               <folding>
-                <element signature="e#229#242#0" expanded="true" />
+                <element signature="e#130#171#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_pytest/test_333.py">
+        <entry file="file://$PROJECT_DIR$/utils/operationExcel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/Python37/Lib/subprocess.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="333" column="14" selection-start-line="333" selection-start-column="4" selection-end-line="333" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils/processingRelevant.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="879">
-              <caret line="96" column="23" lean-forward="true" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
+            <state relative-caret-position="291">
+              <caret line="106" column="40" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="40" />
+              <folding>
+                <element signature="e#114#129#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,24 +148,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>prin</find>
-      <find>relevant_dict_global:</find>
-      <find>find</find>
-      <find>login_toke</find>
-      <find>pri</find>
-      <find>list</find>
-      <find>relevant_dict_global</find>
       <find>befor_relevant_dict</find>
       <find>relevant_list</find>
       <find>GetCompanyLicenseCount</find>
       <find>relevant_lists</find>
       <find>ConfLogModel</find>
       <find>case_ip</find>
-      <find>pr</find>
       <find>sssssssssssssssssssssssssss</find>
-      <find>case_name</find>
       <find>python1</find>
+      <find>case_name</find>
+      <find>update</find>
+      <find>请求参数</find>
+      <find>执行用例</find>
+      <find>接口用例请求参数</find>
+      <find>type</find>
+      <find>relevant</find>
+      <find>replacement</find>
+      <find>pri</find>
+      <find>pr</find>
+      <find>prin</find>
+      <find>method</find>
+      <find>params</find>
+      <find>report_attached_data</find>
+      <find>case_method</find>
+      <find>headers</find>
+      <find>url</find>
+      <find>case_subout</find>
+      <find>result_almost_asserts</find>
       <find>print</find>
+      <find>relevant_dict_global</find>
+      <find>是否自动化</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -145,25 +187,35 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/utils/operationExcel.py" />
         <option value="$PROJECT_DIR$/base/ICE.py" />
         <option value="$PROJECT_DIR$/slicepy2/CommonService_ice.py" />
         <option value="$PROJECT_DIR$/slicepy2/CompanyService_ice.py" />
-        <option value="$PROJECT_DIR$/utils/excelVarles.py" />
-        <option value="$PROJECT_DIR$/base/method.py" />
         <option value="$PROJECT_DIR$/common/login.py" />
         <option value="$PROJECT_DIR$/test_report.py" />
         <option value="$PROJECT_DIR$/test_allure.py" />
         <option value="$PROJECT_DIR$/test_pytest/test_111.py" />
-        <option value="$PROJECT_DIR$/test_pytest/test_333.py" />
-        <option value="$PROJECT_DIR$/test_pytest/test_api_all.py" />
-        <option value="$PROJECT_DIR$/utils/processingRelevant.py" />
+        <option value="$PROJECT_DIR$/common/case_assert.py" />
+        <option value="$PROJECT_DIR$/base/method.py" />
+        <option value="D:/Python37/Lib/site-packages/allure_pytest/listener.py" />
         <option value="$PROJECT_DIR$/test_pytest/test_222.py" />
+        <option value="$PROJECT_DIR$/utils/operationExcel.py" />
+        <option value="$PROJECT_DIR$/utils/operationSSH.py" />
+        <option value="$PROJECT_DIR$/common/RSA_encrypt.py" />
+        <option value="$PROJECT_DIR$/utils/toFunction.py" />
+        <option value="$PROJECT_DIR$/test_pytest/test_333.py" />
+        <option value="$PROJECT_DIR$/utils/operationSql.py" />
+        <option value="$PROJECT_DIR$/utils/excelVarles.py" />
+        <option value="$PROJECT_DIR$/common/toSql.py" />
+        <option value="$PROJECT_DIR$/utils/case_assert.py" />
+        <option value="$PROJECT_DIR$/utils/processingRelevant.py" />
+        <option value="$PROJECT_DIR$/common/public.py" />
+        <option value="$PROJECT_DIR$/utils/mail.py" />
+        <option value="$PROJECT_DIR$/test_pytest/test_api_all.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -173,6 +225,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,18 +236,40 @@
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="send_mail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="test_pytest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="test_pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="allure_report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="test_pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="allure_report" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,7 +277,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project_new" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Test\Interface\Python自动化\git_api\test\common" />
+      <recent name="F:\Test\Interface\Python自动化\git_api\test\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Test\Interface\Python自动化\git_api\test\send_mail" />
+      <recent name="F:\Test\Interface\Python自动化\git_api\test\common" />
+      <recent name="F:\Test\Interface\Python自动化\git_api\test\utils" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -216,8 +302,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_222">
-    <configuration name="test_111" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test_api_all">
+    <configuration name="case_assert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/case_assert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="processingRelevant" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/processingRelevant.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_333" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,7 +360,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_pytest/test_111.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_pytest/test_333.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,7 +369,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_222" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_api_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,7 +382,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_pytest/test_222.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_pytest/test_api_all.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,7 +391,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_allure" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="toSql" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,12 +399,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_allure.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/toSql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,45 +413,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_api_all.test_api_all" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_pytest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_api_all.test_api_all&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_api_all.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_pytest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_pytest/test_api_all.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="Python.test_api_all" />
+      <item itemvalue="Python.toSql" />
+      <item itemvalue="Python.test_333" />
+      <item itemvalue="Python.case_assert" />
+      <item itemvalue="Python.processingRelevant" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_222" />
-        <item itemvalue="Python tests.pytest for test_api_all.test_api_all" />
-        <item itemvalue="Python tests.pytest in test_api_all.py" />
-        <item itemvalue="Python.test_111" />
-        <item itemvalue="Python.test_allure" />
+        <item itemvalue="Python.test_api_all" />
+        <item itemvalue="Python.processingRelevant" />
+        <item itemvalue="Python.case_assert" />
+        <item itemvalue="Python.toSql" />
+        <item itemvalue="Python.test_333" />
       </list>
     </recent_temporary>
   </component>
@@ -339,56 +444,56 @@
       <workItem from="1663553916141" duration="27954000" />
       <workItem from="1663745731340" duration="57000" />
       <workItem from="1663746183460" duration="9907000" />
-      <workItem from="1663825583796" duration="15514000" />
+      <workItem from="1663825583796" duration="43931000" />
+      <workItem from="1665975074931" duration="85890000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_api_all_py - 2022.09.21 at 17h 35m 19s.xml">
-      <configuration name="pytest in test_api_all.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_api_all_py - 2022.09.21 at 17h 36m 33s.xml">
-      <configuration name="pytest in test_api_all.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_api_all_py - 2022.09.21 at 18h 09m 09s.xml">
-      <configuration name="pytest in test_api_all.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_api_all_test_api_all - 2022.09.21 at 18h 18m 03s.xml">
+    <history-entry file="pytest_for_test_api_all_test_api_all - 2022.10.09 at 17h 08m 55s.xml">
       <configuration name="pytest for test_api_all.test_api_all" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_api_all_test_api_all - 2022.09.21 at 18h 21m 05s.xml">
+    <history-entry file="pytest_for_test_api_all_test_api_all - 2022.10.09 at 17h 12m 59s.xml">
       <configuration name="pytest for test_api_all.test_api_all" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_api_all_py - 2022.09.21 at 18h 27m 19s.xml">
-      <configuration name="pytest in test_api_all.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_api_all_py - 2022.09.29 at 18h 30m 55s.xml">
-      <configuration name="pytest in test_api_all.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_api_all_py - 2022.09.29 at 18h 33m 12s.xml">
-      <configuration name="pytest in test_api_all.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_api_all_test_api_all - 2022.09.29 at 18h 34m 40s.xml">
+    <history-entry file="pytest_for_test_api_all_test_api_all - 2022.10.09 at 17h 13m 40s.xml">
       <configuration name="pytest for test_api_all.test_api_all" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_api_all_test_api_all - 2022.09.29 at 18h 35m 08s.xml">
+    <history-entry file="pytest_for_test_api_all_test_api_all - 2022.10.09 at 17h 14m 42s.xml">
       <configuration name="pytest for test_api_all.test_api_all" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_api_all_test_api_all - 2022.10.09 at 17h 16m 26s.xml">
+      <configuration name="pytest for test_api_all.test_api_all" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_api_all_py - 2022.10.09 at 17h 17m 04s.xml">
+      <configuration name="pytest in test_api_all.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_api_all_py - 2022.10.09 at 17h 18m 03s.xml">
+      <configuration name="pytest in test_api_all.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_api_all_py - 2022.10.09 at 17h 50m 11s.xml">
+      <configuration name="pytest in test_api_all.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_api_all_py - 2022.10.09 at 17h 51m 21s.xml">
+      <configuration name="pytest in test_api_all.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_api_all_py - 2022.10.09 at 17h 52m 12s.xml">
+      <configuration name="pytest in test_api_all.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132649000" />
+    <option name="totallyTimeSpent" value="246956000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.4164859" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.43058568" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.37527114" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.4262473" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -431,6 +536,51 @@
           <line>95</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_pytest/test_api_all.py</url>
+          <line>156</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_pytest/test_222.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/operationSSH.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/common/toFunction.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/common/toFunction.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/processingRelevant.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/processingRelevant.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/processingRelevant.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/processingRelevant.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -456,13 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python37/Lib/site-packages/pluggy/_manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Python37/Lib/site-packages/pluggy/_hooks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
@@ -483,9 +626,6 @@
           <caret line="347" selection-start-line="347" selection-end-line="347" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/public.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://D:/Python37/Lib/site-packages/_pytest/runner.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -564,36 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding>
-            <element signature="e#123#136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/operationExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2800">
-          <caret line="116" column="16" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="16" />
-          <folding>
-            <element signature="e#114#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2100">
-          <caret line="91" column="67" selection-start-line="91" selection-start-column="67" selection-end-line="91" selection-end-column="67" />
-          <folding>
-            <element signature="e#107#122#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/slicepy2/ConfLogModel_ice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="925">
@@ -615,27 +725,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_pytest/test_111.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="37" />
-          <folding>
-            <element signature="e#125#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1201333238/aiohttp/_http_parser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="411" column="8" selection-start-line="411" selection-start-column="8" selection-end-line="411" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python37/Lib/subprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="333" column="14" selection-start-line="333" selection-start-column="4" selection-end-line="333" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -646,9 +739,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/_pytest/outcomes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="254" column="4" selection-start-line="254" selection-start-column="4" selection-end-line="254" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="333" column="14" selection-start-line="333" selection-start-column="4" selection-end-line="333" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/allure_pytest/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="112" column="24" selection-start-line="112" selection-start-column="12" selection-end-line="112" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/_pytest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="844">
+          <caret line="267" selection-start-line="267" selection-end-line="267" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_allure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
+        <state relative-caret-position="1350">
           <caret line="178" selection-start-line="178" selection-end-line="180" selection-end-column="43" />
           <folding>
             <element signature="e#129#142#0" expanded="true" />
@@ -657,44 +778,198 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/excelVarles.py">
+    <entry file="file://D:/Python37/Lib/site-packages/allure_pytest/listener.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="14" />
+        <state relative-caret-position="1775">
+          <caret line="94" selection-start-line="94" selection-end-line="95" selection-end-column="121" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_pytest/test_333.py">
+    <entry file="file://$PROJECT_DIR$/base/method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="129">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#107#122#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/processingRelevant.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1201333238/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="879">
-          <caret line="96" column="23" lean-forward="true" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
+        <state relative-caret-position="434">
+          <caret line="4984" column="8" selection-start-line="4984" selection-start-column="8" selection-end-line="4984" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/operationSSH.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="105" column="28" selection-start-line="105" selection-start-column="28" selection-end-line="105" selection-end-column="28" />
+          <folding>
+            <element signature="e#130#139#0" expanded="true" />
+            <element signature="e#1809#2703#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/allure_commons/_allure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="208" column="15" selection-start-line="208" selection-start-column="15" selection-end-line="208" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/pluggy/_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="332" selection-start-line="332" selection-end-line="332" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_exec2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#123#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/encrypt.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/RSA_encrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="52" column="223" selection-start-line="52" selection-start-column="223" selection-end-line="52" selection-end-column="223" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_pytest/test_111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="e#125#138#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_pytest/test_222.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        <state relative-caret-position="-435">
+          <caret line="128" selection-start-line="128" selection-end-line="128" selection-end-column="39" />
           <folding>
             <element signature="e#229#242#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_pytest/test_333.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="18" selection-start-line="18" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="e#125#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/operationSql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="44" column="63" selection-start-line="44" selection-start-column="63" selection-end-line="44" selection-end-column="63" />
+          <folding>
+            <element signature="e#130#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/excelVarles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/toSql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/case_assert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/toFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-727">
+          <caret line="52" column="21" selection-start-line="11" selection-start-column="3" selection-end-line="52" selection-end-column="21" />
+          <folding>
+            <element signature="e#128#147#0" expanded="true" />
+            <element signature="e#224#2048#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/operationExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="106" column="40" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="40" />
+          <folding>
+            <element signature="e#114#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/processingRelevant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="876">
+          <caret line="144" column="47" selection-start-line="144" selection-start-column="47" selection-end-line="144" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/public.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_mail/mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_pytest/test_api_all.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="69" column="16" lean-forward="true" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="47" />
+        <state relative-caret-position="165">
+          <caret line="76" column="22" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="22" />
           <folding>
             <element signature="e#129#142#0" expanded="true" />
-            <element signature="e#7362#7480#0" />
           </folding>
         </state>
       </provider>

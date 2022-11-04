@@ -1,0 +1,136 @@
+{
+  "uid" : "8a6f30139a35abf7",
+  "name" : "查询在线的注册用户",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "3dc887653ffbdcf3f21428941567497c",
+  "time" : {
+    "start" : 1667388908592,
+    "stop" : 1667388908689,
+    "duration" : 97
+  },
+  "description" : "请求方法是GET，请求url是/companies/rooms/235015/online-users?currentPage=1&pageSize=15,请求头是{\"content-type\":\"application/json\",\"Key-Code\":\"${keycode}\"}",
+  "descriptionHtml" : "<p>请求方法是GET，请求url是/companies/rooms/235015/online-users?currentPage=1&amp;pageSize=15,请求头是{&quot;content-type&quot;:&quot;application/json&quot;,&quot;Key-Code&quot;:&quot;${keycode}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1667388886189,
+      "stop" : 1667388886286,
+      "duration" : 97
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "请求方法是GET，请求url是/companies/rooms/235015/online-users?currentPage=1&pageSize=15,请求头是{\"content-type\":\"application/json\",\"Key-Code\":\"${keycode}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f8e8cab11a249da1",
+      "name" : "请求参数",
+      "source" : "f8e8cab11a249da1.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "fadb9047bca20037",
+      "name" : "请求方法",
+      "source" : "fadb9047bca20037.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "b43737f4340ef5fa",
+      "name" : "请求url",
+      "source" : "b43737f4340ef5fa.txt",
+      "type" : "text/plain",
+      "size" : 95
+    }, {
+      "uid" : "5e30d3aad2ac5882",
+      "name" : "请求头",
+      "source" : "5e30d3aad2ac5882.txt",
+      "type" : "text/plain",
+      "size" : 212
+    }, {
+      "uid" : "635c5022360b0c2b",
+      "name" : "提取参数",
+      "source" : "635c5022360b0c2b.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "e3dafb16eff4a26c",
+      "name" : "关联参数",
+      "source" : "e3dafb16eff4a26c.txt",
+      "type" : "text/plain",
+      "size" : 663
+    }, {
+      "uid" : "62abbed86f9b2ec4",
+      "name" : "断言内容",
+      "source" : "62abbed86f9b2ec4.txt",
+      "type" : "text/plain",
+      "size" : 13
+    }, {
+      "uid" : "4051f1490655064f",
+      "name" : "返回结果",
+      "source" : "4051f1490655064f.txt",
+      "type" : "text/plain",
+      "size" : 107
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "boss_api_Room_testcase.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "查询在线的注册用户"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "19712-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a6f30139a35abf7.json",
+  "parameterValues" : [ ]
+}

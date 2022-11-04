@@ -1,0 +1,136 @@
+{
+  "uid" : "cac7f935c00b7fd",
+  "name" : "删除非本企业会议室，删除失败",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "eff131228a01ef2a57581007c769bf89",
+  "time" : {
+    "start" : 1667388910849,
+    "stop" : 1667388910950,
+    "duration" : 101
+  },
+  "description" : "请求方法是DELETE，请求url是/companies/rooms/948427,请求头是{\"content-type\":\"application/x-www-form-urlencoded\",\"Key-Code\":\"${keycode}\"}",
+  "descriptionHtml" : "<p>请求方法是DELETE，请求url是/companies/rooms/948427,请求头是{&quot;content-type&quot;:&quot;application/x-www-form-urlencoded&quot;,&quot;Key-Code&quot;:&quot;${keycode}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1667388886189,
+      "stop" : 1667388886286,
+      "duration" : 97
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "请求方法是DELETE，请求url是/companies/rooms/948427,请求头是{\"content-type\":\"application/x-www-form-urlencoded\",\"Key-Code\":\"${keycode}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8223c74d058143b4",
+      "name" : "请求参数",
+      "source" : "8223c74d058143b4.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "575ccec87e27d7e7",
+      "name" : "请求方法",
+      "source" : "575ccec87e27d7e7.txt",
+      "type" : "text/plain",
+      "size" : 6
+    }, {
+      "uid" : "af3df52737a813af",
+      "name" : "请求url",
+      "source" : "af3df52737a813af.txt",
+      "type" : "text/plain",
+      "size" : 56
+    }, {
+      "uid" : "d6f6ca19dbc28bf0",
+      "name" : "请求头",
+      "source" : "d6f6ca19dbc28bf0.txt",
+      "type" : "text/plain",
+      "size" : 229
+    }, {
+      "uid" : "5a4c4346714b3349",
+      "name" : "提取参数",
+      "source" : "5a4c4346714b3349.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "3fc4f64d2f745477",
+      "name" : "关联参数",
+      "source" : "3fc4f64d2f745477.txt",
+      "type" : "text/plain",
+      "size" : 663
+    }, {
+      "uid" : "11368029bd8261a7",
+      "name" : "断言内容",
+      "source" : "11368029bd8261a7.txt",
+      "type" : "text/plain",
+      "size" : 13
+    }, {
+      "uid" : "117529d74e993a5b",
+      "name" : "返回结果",
+      "source" : "117529d74e993a5b.txt",
+      "type" : "text/plain",
+      "size" : 52
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "boss_api_Room_testcase.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "删除会议"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "19712-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cac7f935c00b7fd.json",
+  "parameterValues" : [ ]
+}

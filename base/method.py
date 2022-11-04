@@ -33,9 +33,9 @@ class ApiRequest(object):
 
 
     def upload(self,method,url,files,data=None,params=None,headers=None,cookies=None,json=None,auth=None,timeout=None,proxies=None,verify=None,cert=None):
-        print("upload.files:", type(files))
-        print("method:{}.url:{},files:{}".format(method,url,files))
-        print("headers:{}".format(headers))
+        # print("upload.files:", type(files))
+        # print("method:{}.url:{},files:{}".format(method,url,files))
+        # print("headers:{}".format(headers))
         fileparam = eval(files)
         for key in fileparam:
             openfile = open(fileparam[key], 'rb')

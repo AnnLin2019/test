@@ -1,0 +1,3581 @@
+[ {
+  "uid" : "dd590a1f48c60e39",
+  "name" : "按会议室查询会议日志",
+  "time" : {
+    "start" : 1667388903301,
+    "stop" : 1667388903403,
+    "duration" : 102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7976ae18a854e11",
+  "name" : "3",
+  "time" : {
+    "start" : 1667388891577,
+    "stop" : 1667388891577,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cf050dc037648860",
+  "name" : "注册批量用户，密码不输入，不能成功注册",
+  "time" : {
+    "start" : 1667388913634,
+    "stop" : 1667388913634,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e8a35b22ae5df723",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388921124,
+    "stop" : 1667388921124,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1dba9eef542f2376",
+  "name" : "查询下级部门，参数输入正确的部门ID，返回成功",
+  "time" : {
+    "start" : 1667388890207,
+    "stop" : 1667388890313,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "223d2788bdd6a02b",
+  "name" : "会议权限不存在",
+  "time" : {
+    "start" : 1667388902598,
+    "stop" : 1667388902704,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d1954684a47091e",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388921144,
+    "stop" : 1667388921144,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "bacbc7b8bf714a79",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388902818,
+    "stop" : 1667388902916,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a0d502df021d64d",
+  "name" : "不可用服务",
+  "time" : {
+    "start" : 1667388897291,
+    "stop" : 1667388897387,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c35038e6a358f87e",
+  "name" : "删除用户授权",
+  "time" : {
+    "start" : 1667388901487,
+    "stop" : 1667388901585,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f358420f1e830eef",
+  "name" : "组合查询",
+  "time" : {
+    "start" : 1667388908409,
+    "stop" : 1667388908524,
+    "duration" : 115
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "292745c158aaea87",
+  "name" : "查询下级部门，参数输入正确的部门ID，返回成功",
+  "time" : {
+    "start" : 1667388919943,
+    "stop" : 1667388920030,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dbe3661175db79e",
+  "name" : "周例会模式，填写不匹配的时间模式",
+  "time" : {
+    "start" : 1667388897199,
+    "stop" : 1667388897288,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab156f6e8610daa9",
+  "name" : "创建即时会议",
+  "time" : {
+    "start" : 1667388908941,
+    "stop" : 1667388909107,
+    "duration" : 166
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c770b9d4f4b2a1e3",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388891563,
+    "stop" : 1667388891563,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "666ad36cdfdbe38e",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895296,
+    "stop" : 1667388895296,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "493e1f15e6df3c7b",
+  "name" : "多条件查询",
+  "time" : {
+    "start" : 1667388903969,
+    "stop" : 1667388904076,
+    "duration" : 107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0a9b18723502ae1",
+  "name" : "注册单个用户，keyCode过期，不能成功注册",
+  "time" : {
+    "start" : 1667388912439,
+    "stop" : 1667388912526,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "185f042dec6ead36",
+  "name" : "注册单个用户，参数输入用户名过长，不能成功注册",
+  "time" : {
+    "start" : 1667388911585,
+    "stop" : 1667388911711,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42d7ae347566a733",
+  "name" : "按用户查询会议日志",
+  "time" : {
+    "start" : 1667388903204,
+    "stop" : 1667388903299,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7d5ec8737246737",
+  "name" : "查询下级部门，keyCode过期，返回失败",
+  "time" : {
+    "start" : 1667388920406,
+    "stop" : 1667388920501,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e76880556689255a",
+  "name" : "修改用户，修改昵称输入超长，不能成功修改",
+  "time" : {
+    "start" : 1667388916051,
+    "stop" : 1667388916163,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37d88ea0da1230a4",
+  "name" : "修改用户，不输入其他参数，可以成功修改",
+  "time" : {
+    "start" : 1667388915317,
+    "stop" : 1667388915317,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f6962f6d588547d1",
+  "name" : "按用户名删除用户，返回成功",
+  "time" : {
+    "start" : 1667388918050,
+    "stop" : 1667388918159,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9de8975966546401",
+  "name" : "查询为空",
+  "time" : {
+    "start" : 1667388904079,
+    "stop" : 1667388904182,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9af050e1ec650e8c",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910968,
+    "stop" : 1667388910968,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7f619015d561f84e",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910966,
+    "stop" : 1667388910966,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6d1f520fa6ad0850",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388921135,
+    "stop" : 1667388921135,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "53eecd0f28dbb60c",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388893856,
+    "stop" : 1667388893953,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5adb1d820efd2e3b",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388919939,
+    "stop" : 1667388919939,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "37efef2d26fc9c5c",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388901372,
+    "stop" : 1667388901485,
+    "duration" : 113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcf0b2fa4a866adb",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895324,
+    "stop" : 1667388895324,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9353f20b090bbc51",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388901912,
+    "stop" : 1667388902021,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d32aa9cac47d234d",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388891556,
+    "stop" : 1667388891556,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6af1f8796f1f52f1",
+  "name" : "会议室验证模式不存在，创建失败",
+  "time" : {
+    "start" : 1667388896260,
+    "stop" : 1667388896365,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa777255cfd717a4",
+  "name" : "查询会议日程",
+  "time" : {
+    "start" : 1667388894576,
+    "stop" : 1667388894683,
+    "duration" : 107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9fef7c5bdd4acaf",
+  "name" : "输入部门名称过长,批量新增部门",
+  "time" : {
+    "start" : 1667388887948,
+    "stop" : 1667388888056,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "759500550828f2b6",
+  "name" : "参数正确，查询根部门信息",
+  "time" : {
+    "start" : 1667388889996,
+    "stop" : 1667388890102,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f9553e5dfde1661",
+  "name" : "最大人数为空，创建成功",
+  "time" : {
+    "start" : 1667388895107,
+    "stop" : 1667388895192,
+    "duration" : 85
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fcb0382948be70d",
+  "name" : "会议室邀请人Id为空，创建成功",
+  "time" : {
+    "start" : 1667388909109,
+    "stop" : 1667388909259,
+    "duration" : 150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2335a5b95f966508",
+  "name" : "删除用户，输入用户ID参数正确，keyCode错误，返回失败",
+  "time" : {
+    "start" : 1667388917421,
+    "stop" : 1667388917526,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8780a9f02ec3f1b",
+  "name" : "按用户名修改用户，用户名错误，不能修改",
+  "time" : {
+    "start" : 1667388916651,
+    "stop" : 1667388916753,
+    "duration" : 102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c910bf82aeb683e6",
+  "name" : "测试1",
+  "time" : {
+    "start" : 1667388891573,
+    "stop" : 1667388891573,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "95b75cd09636b5c0",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388893375,
+    "stop" : 1667388893468,
+    "duration" : 93
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3183b4088679f7b6",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910955,
+    "stop" : 1667388910955,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ccdd0fcade6ee7d1",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388893562,
+    "stop" : 1667388893649,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c00ce216f882c0bf",
+  "name" : "分页查询，输入正确用户名错误的翻页，返回失败",
+  "time" : {
+    "start" : 1667388919290,
+    "stop" : 1667388919386,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f43d657f99e9260f",
+  "name" : "按时间查询会议日志",
+  "time" : {
+    "start" : 1667388903405,
+    "stop" : 1667388903516,
+    "duration" : 111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eadf318656c49a11",
+  "name" : "查询会议日程",
+  "time" : {
+    "start" : 1667388908692,
+    "stop" : 1667388908825,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37b015bd2e0c97c3",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388921137,
+    "stop" : 1667388921137,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3dfd8b549f0cda2b",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388919919,
+    "stop" : 1667388919919,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a43512abc96ec30",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388919923,
+    "stop" : 1667388919923,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fa415f98c37a6de8",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388891566,
+    "stop" : 1667388891566,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "987df7034a7b4348",
+  "name" : "注册用户登录模式，设置最大人数",
+  "time" : {
+    "start" : 1667388895899,
+    "stop" : 1667388896015,
+    "duration" : 116
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d2e5c56bf657359",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910986,
+    "stop" : 1667388910986,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "eb2d3c311beac69c",
+  "name" : "分页查询，输入正确用户ID错误的翻页，返回失败",
+  "time" : {
+    "start" : 1667388919589,
+    "stop" : 1667388919694,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f633584c1842ea4d",
+  "name" : "会议名称超长，创建失败",
+  "time" : {
+    "start" : 1667388909472,
+    "stop" : 1667388909560,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ddcab2a807bdac",
+  "name" : "按用户名删除用户，返回成功",
+  "time" : {
+    "start" : 1667388917723,
+    "stop" : 1667388917821,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "574c81224ff08252",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388921128,
+    "stop" : 1667388921128,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "eb1f898ea402301d",
+  "name" : "注册批量用户，keyCode过期，不能成功注册",
+  "time" : {
+    "start" : 1667388914185,
+    "stop" : 1667388914275,
+    "duration" : 90
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67ee1060324878aa",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910957,
+    "stop" : 1667388910957,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a9861a5dcd3fd003",
+  "name" : "周例会模式，未填写时间",
+  "time" : {
+    "start" : 1667388899358,
+    "stop" : 1667388899462,
+    "duration" : 104
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3a9992ae6b0c9d7",
+  "name" : "部门名称过长新增部门",
+  "time" : {
+    "start" : 1667388887111,
+    "stop" : 1667388887212,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f9dde151780291",
+  "name" : "keyCode过期查询根部门ID",
+  "time" : {
+    "start" : 1667388890104,
+    "stop" : 1667388890205,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "136eda3afb50a6ba",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910984,
+    "stop" : 1667388910984,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4cf848a1e480bc52",
+  "name" : "按用户名删除用户，返回成功",
+  "time" : {
+    "start" : 1667388918161,
+    "stop" : 1667388918253,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e6d6cfe30877492",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895294,
+    "stop" : 1667388895294,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a7f435167216d785",
+  "name" : "修改会议室名称",
+  "time" : {
+    "start" : 1667388897590,
+    "stop" : 1667388897716,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c0e744df2a603d6",
+  "name" : "注册批量用户，数量输入0或负数，不能成功注册",
+  "time" : {
+    "start" : 1667388913745,
+    "stop" : 1667388913833,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dba5ae716f4cf180",
+  "name" : "周例会模式，填写不匹配的时间模式",
+  "time" : {
+    "start" : 1667388899578,
+    "stop" : 1667388899669,
+    "duration" : 91
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85ffe03624735c30",
+  "name" : "授予用户会议室权限",
+  "time" : {
+    "start" : 1667388893651,
+    "stop" : 1667388893750,
+    "duration" : 99
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0ec9fbfd69d2e1e",
+  "name" : "2",
+  "time" : {
+    "start" : 1667388891575,
+    "stop" : 1667388891575,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "198ab8a7b22bd42c",
+  "name" : "修改周例会时间为每周",
+  "time" : {
+    "start" : 1667388898623,
+    "stop" : 1667388898726,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "597a5d46c182a1dd",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895310,
+    "stop" : 1667388895310,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "440df65a08a691ca",
+  "name" : "按用户查询会议日志",
+  "time" : {
+    "start" : 1667388903617,
+    "stop" : 1667388903760,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42ab571bbb201306",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388919941,
+    "stop" : 1667388919941,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "be533d6e57fc1dd",
+  "name" : "按用户名修改用户，输入密码错误，不能成功修改",
+  "time" : {
+    "start" : 1667388916844,
+    "stop" : 1667388916932,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f285e18cdaac2dd5",
+  "name" : "查询未授权用户的会议室",
+  "time" : {
+    "start" : 1667388902919,
+    "stop" : 1667388903014,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6fc3b2424b4bc715",
+  "name" : "设置为讨论模式",
+  "time" : {
+    "start" : 1667388899900,
+    "stop" : 1667388899997,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "807062368c45d20d",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388919932,
+    "stop" : 1667388919932,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fc089c12f8abd9b1",
+  "name" : "注册批量用户，keyCode不输入，不能成功注册",
+  "time" : {
+    "start" : 1667388914082,
+    "stop" : 1667388914182,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3e4cd2ca7f32556",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910962,
+    "stop" : 1667388910962,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ce20e68aaf48174d",
+  "name" : "修改部门后查询",
+  "time" : {
+    "start" : 1667388888383,
+    "stop" : 1667388888537,
+    "duration" : 154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5219b46119f7ce92",
+  "name" : "用户id为空",
+  "time" : {
+    "start" : 1667388901080,
+    "stop" : 1667388901183,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "726eff5d9705ddf9",
+  "name" : "批量新增在根部门下查询",
+  "time" : {
+    "start" : 1667388887593,
+    "stop" : 1667388887756,
+    "duration" : 163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85136d0e8fc3f1fb",
+  "name" : "批量创建用户，不输入密码参数，返回失败",
+  "time" : {
+    "start" : 1667388914636,
+    "stop" : 1667388914725,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f97df9d66d10bc13",
+  "name" : "会议权限不存在",
+  "time" : {
+    "start" : 1667388901185,
+    "stop" : 1667388901277,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5bbc928670edf747",
+  "name" : "按用户名删除用户，输入用户名参数正确，keyCode错误，返回失败",
+  "time" : {
+    "start" : 1667388918346,
+    "stop" : 1667388918429,
+    "duration" : 83
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc4b0aa26cc01e23",
+  "name" : "按用户名删除用户，返回成功",
+  "time" : {
+    "start" : 1667388917823,
+    "stop" : 1667388917924,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f22aaec21c40ada4",
+  "name" : "最大用户数超过10000",
+  "time" : {
+    "start" : 1667388896459,
+    "stop" : 1667388896566,
+    "duration" : 107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c34717eba9e9d6a",
+  "name" : "会议室名称超过64位，创建失败",
+  "time" : {
+    "start" : 1667388898962,
+    "stop" : 1667388899059,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7ed9aa90ff14d05",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388892859,
+    "stop" : 1667388892977,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "365746923bc3b8ba",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388891570,
+    "stop" : 1667388891570,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8363831a2111a656",
+  "name" : "修改部门，不输入部门名称，返回失败",
+  "time" : {
+    "start" : 1667388888635,
+    "stop" : 1667388888737,
+    "duration" : 102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "517a03004d7e6bc7",
+  "name" : "查询部门，不输入上级部门名称，输入参数正确的部门名称查询部门，返回成功",
+  "time" : {
+    "start" : 1667388889614,
+    "stop" : 1667388889749,
+    "duration" : 135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "23e93931b404464c",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388921130,
+    "stop" : 1667388921130,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ba0a066353f9736b",
+  "name" : "删除部门，参数输入正确的部门ID不级联删除，但有下级部门，返回失败",
+  "time" : {
+    "start" : 1667388890818,
+    "stop" : 1667388890931,
+    "duration" : 113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "304488168d432721",
+  "name" : "授予用户会议室权限",
+  "time" : {
+    "start" : 1667388900197,
+    "stop" : 1667388900318,
+    "duration" : 121
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34cf1cfbd5ac5356",
+  "name" : "会议权限不存在",
+  "time" : {
+    "start" : 1667388893183,
+    "stop" : 1667388893273,
+    "duration" : 90
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a27378dfd1142356",
+  "name" : "查询部门，输入参数正确的上级部门名称和部门名称查询部门，返回成功",
+  "time" : {
+    "start" : 1667388889444,
+    "stop" : 1667388889612,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b2622692ad70f05",
+  "name" : "查询部门，输入部门名称参数错误，返回成功，查询不到结果",
+  "time" : {
+    "start" : 1667388889851,
+    "stop" : 1667388889993,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45559e6773291291",
+  "name" : "设置主席密码，主席密码为空",
+  "time" : {
+    "start" : 1667388899261,
+    "stop" : 1667388899356,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e325b9abed0d68f5",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388891568,
+    "stop" : 1667388891568,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "64ad491c61e3776d",
+  "name" : "注册批量用户，前缀输入过长，不能成功注册",
+  "time" : {
+    "start" : 1667388913331,
+    "stop" : 1667388913416,
+    "duration" : 85
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "343750ed8c681007",
+  "name" : "删除部门，keyCode过期，返回失败",
+  "time" : {
+    "start" : 1667388891434,
+    "stop" : 1667388891542,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cec4be1ae7a02ee3",
+  "name" : "删除用户，输入用户ID参数正确，成功删除用户",
+  "time" : {
+    "start" : 1667388917209,
+    "stop" : 1667388917315,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ac5539d7058cafd",
+  "name" : "3",
+  "time" : {
+    "start" : 1667388895332,
+    "stop" : 1667388895332,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "12c462a6f2d97173",
+  "name" : "创建预约会议室",
+  "time" : {
+    "start" : 1667388895427,
+    "stop" : 1667388895544,
+    "duration" : 117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33a397a58669f352",
+  "name" : "查询下级部门，keyCode错误，返回失败",
+  "time" : {
+    "start" : 1667388890635,
+    "stop" : 1667388890727,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f707ce050a0a72a3",
+  "name" : "批量创建用户重复用户名，返回失败",
+  "time" : {
+    "start" : 1667388914415,
+    "stop" : 1667388914509,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d0268a4efaa2b7d",
+  "name" : "按用户名删除用户，返回成功",
+  "time" : {
+    "start" : 1667388917625,
+    "stop" : 1667388917720,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99e5e3ea6799fd6c",
+  "name" : "设置模式为空",
+  "time" : {
+    "start" : 1667388900098,
+    "stop" : 1667388900195,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "539c429233c8ef08",
+  "name" : "会议权限为空",
+  "time" : {
+    "start" : 1667388893275,
+    "stop" : 1667388893373,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87e3067321953546",
+  "name" : "查询部门，不输入参数部门名称，返回失败",
+  "time" : {
+    "start" : 1667388889752,
+    "stop" : 1667388889849,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "23d75cd2f7b81869",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388921120,
+    "stop" : 1667388921120,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "699213e08461e371",
+  "name" : "查询用户，输入用户ID参数正确，keyCode错误，返回失败",
+  "time" : {
+    "start" : 1667388918620,
+    "stop" : 1667388918709,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dbb15e30a48bc82d",
+  "name" : "修改会议室验证模式",
+  "time" : {
+    "start" : 1667388897843,
+    "stop" : 1667388897951,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2ce2555bd5821c9",
+  "name" : "登录，获取token",
+  "time" : {
+    "start" : 1667388891580,
+    "stop" : 1667388891706,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3539b40c24de678",
+  "name" : "注册批量用户，部门不输入，成功注册，用户在根部门下",
+  "time" : {
+    "start" : 1667388913836,
+    "stop" : 1667388913978,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7bd7300ba76313e",
+  "name" : "修改用户，参数输入正确，keyCode过期，不能成功修改",
+  "time" : {
+    "start" : 1667388916446,
+    "stop" : 1667388916551,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cf543af3976988",
+  "name" : "修改会议类型-周例会议",
+  "time" : {
+    "start" : 1667388898513,
+    "stop" : 1667388898621,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8aedf30440d66bfe",
+  "name" : "授权用户登录模式，设置会议密码和管理员密码的会议室",
+  "time" : {
+    "start" : 1667388895768,
+    "stop" : 1667388895897,
+    "duration" : 129
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f09aebb49d3eebef",
+  "name" : "有父部门ID，批量新增部门",
+  "time" : {
+    "start" : 1667388887215,
+    "stop" : 1667388887327,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "478e75c27f7eeef6",
+  "name" : "多条件查询",
+  "time" : {
+    "start" : 1667388903519,
+    "stop" : 1667388903615,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ac65c8c20cc8d87",
+  "name" : "修改周例会时间为每月",
+  "time" : {
+    "start" : 1667388898729,
+    "stop" : 1667388898840,
+    "duration" : 111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3406f828ecaa8ef",
+  "name" : "删除会议室2",
+  "time" : {
+    "start" : 1667388909697,
+    "stop" : 1667388909850,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84aca68a6867e634",
+  "name" : "授予用户参会人角色",
+  "time" : {
+    "start" : 1667388902023,
+    "stop" : 1667388902119,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53262d4d8f308e41",
+  "name" : "查询部门，参数输入错误的部门ID，返回失败",
+  "time" : {
+    "start" : 1667388889162,
+    "stop" : 1667388889254,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6814fb57c5ea10a7",
+  "name" : "删除部门，参数输入错误的部门ID，返回失败",
+  "time" : {
+    "start" : 1667388891093,
+    "stop" : 1667388891183,
+    "duration" : 90
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68f32ad61696d5b9",
+  "name" : "注册单个用户，部门输入错误，不能成功注册",
+  "time" : {
+    "start" : 1667388911922,
+    "stop" : 1667388912029,
+    "duration" : 107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1b31bf1d4f37e36",
+  "name" : "查询下级部门，参数输入错误的部门ID，返回失败",
+  "time" : {
+    "start" : 1667388920136,
+    "stop" : 1667388920224,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1d2e3cb7a49b9ad",
+  "name" : "授权旁听",
+  "time" : {
+    "start" : 1667388900762,
+    "stop" : 1667388900883,
+    "duration" : 121
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5848a790e930b088",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910959,
+    "stop" : 1667388910959,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "302ec9badcad3336",
+  "name" : "会议名称超长，创建失败",
+  "time" : {
+    "start" : 1667388895194,
+    "stop" : 1667388895285,
+    "duration" : 91
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ec9294b983327b9",
+  "name" : "周期会议时间设置每周",
+  "time" : {
+    "start" : 1667388896018,
+    "stop" : 1667388896139,
+    "duration" : 121
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cb5b27e05c4bfb4",
+  "name" : "获取录制任务列表",
+  "time" : {
+    "start" : 1667388891708,
+    "stop" : 1667388891860,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40ad15492d4255cf",
+  "name" : "批量新增在部门下查询",
+  "time" : {
+    "start" : 1667388887329,
+    "stop" : 1667388887467,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4906bf678e5a8ebe",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895307,
+    "stop" : 1667388895307,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1832dcfcbb98754e",
+  "name" : "删除会议室9",
+  "time" : {
+    "start" : 1667388910701,
+    "stop" : 1667388910846,
+    "duration" : 145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c7e218a52112f2a",
+  "name" : "注册单个用户，密码类型为1，密码输入不为MD5不能成功注册",
+  "time" : {
+    "start" : 1667388912121,
+    "stop" : 1667388912215,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a9d63028ce61744",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910952,
+    "stop" : 1667388910953,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4f5bfa15d0343c44",
+  "name" : "删除部门，keyCode错误，返回失败",
+  "time" : {
+    "start" : 1667388891320,
+    "stop" : 1667388891432,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "890e7ddf21e2a797",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388921122,
+    "stop" : 1667388921122,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6370820fdb7a3a23",
+  "name" : "用户id为空",
+  "time" : {
+    "start" : 1667388893080,
+    "stop" : 1667388893181,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2e5bb081bfb2037",
+  "name" : "测试1",
+  "time" : {
+    "start" : 1667388895326,
+    "stop" : 1667388895326,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f792ab5ca7f905b3",
+  "name" : "查询历史日期，返回空",
+  "time" : {
+    "start" : 1667388908827,
+    "stop" : 1667388908939,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c94b9e93ce870d7c",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895317,
+    "stop" : 1667388895317,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9465d891bff0af96",
+  "name" : "会议密码超长",
+  "time" : {
+    "start" : 1667388896669,
+    "stop" : 1667388896797,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a2bc66449c793ec",
+  "name" : "设置为标准模式",
+  "time" : {
+    "start" : 1667388899671,
+    "stop" : 1667388899777,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d79d753af2b5ba8e",
+  "name" : "查询用户，输入用户名参数正确，keyCode错误，返回失败",
+  "time" : {
+    "start" : 1667388918892,
+    "stop" : 1667388918976,
+    "duration" : 84
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90980c744f843589",
+  "name" : "注册单个用户，密码不输入，不能成功注册",
+  "time" : {
+    "start" : 1667388911713,
+    "stop" : 1667388911713,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c43146a1d5983429",
+  "name" : "用户id不存在",
+  "time" : {
+    "start" : 1667388892980,
+    "stop" : 1667388893077,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de9749ff92daa9de",
+  "name" : "用户id不存在",
+  "time" : {
+    "start" : 1667388902417,
+    "stop" : 1667388902508,
+    "duration" : 91
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "718cc5569b77e38b",
+  "name" : "查询下级部门，不输入部门ID，返回失败",
+  "time" : {
+    "start" : 1667388890528,
+    "stop" : 1667388890633,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2f0afd11a4bf2c5",
+  "name" : "修改部门，参数输入正确的部门ID，返回成功",
+  "time" : {
+    "start" : 1667388888265,
+    "stop" : 1667388888381,
+    "duration" : 116
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "346e96d762ae96d2",
+  "name" : "输入错误的父ID新增部门",
+  "time" : {
+    "start" : 1667388886795,
+    "stop" : 1667388886908,
+    "duration" : 113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3dc7ee9d74dc37e",
+  "name" : "查询周例会议",
+  "time" : {
+    "start" : 1667388908313,
+    "stop" : 1667388908407,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b81ddd83a267288",
+  "name" : "注册单个用户，密码输入3位，不能成功注册",
+  "time" : {
+    "start" : 1667388911715,
+    "stop" : 1667388911807,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d438f69ced494c21",
+  "name" : "周例会模式，填写不存在的时间模式",
+  "time" : {
+    "start" : 1667388897113,
+    "stop" : 1667388897196,
+    "duration" : 83
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76daa28a017927a6",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388921141,
+    "stop" : 1667388921142,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a5e90ccc9aeaa329",
+  "name" : "修改会议密码",
+  "time" : {
+    "start" : 1667388897953,
+    "stop" : 1667388898076,
+    "duration" : 123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51854feebfa9231e",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388919930,
+    "stop" : 1667388919930,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b393daa216b090d0",
+  "name" : "查询下级部门，没有下级返回成功，显示部门为空",
+  "time" : {
+    "start" : 1667388890316,
+    "stop" : 1667388890412,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db9b836461fb2978",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388891550,
+    "stop" : 1667388891550,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "29aa3e7e159fe9a",
+  "name" : "修改预约时间",
+  "time" : {
+    "start" : 1667388898180,
+    "stop" : 1667388898285,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1cb71fdf2a72a4dd",
+  "name" : "删除部门，参数输入正确的部门ID不级联删除，但有下级部门，返回失败",
+  "time" : {
+    "start" : 1667388920503,
+    "stop" : 1667388920605,
+    "duration" : 102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9986a1d95d32cfd3",
+  "name" : "注册单个用户，参数正确，可以成功注册",
+  "time" : {
+    "start" : 1667388911183,
+    "stop" : 1667388911280,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30e60e4f13a94238",
+  "name" : "修改部门，输入部门名称过长，返回失败",
+  "time" : {
+    "start" : 1667388888739,
+    "stop" : 1667388888830,
+    "duration" : 91
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f10b86fa07f11356",
+  "name" : "不输入部门名称，批量新增部门",
+  "time" : {
+    "start" : 1667388887758,
+    "stop" : 1667388887850,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "daeb22aead2bbfd3",
+  "name" : "周例会模式，填写不存在的时间模式",
+  "time" : {
+    "start" : 1667388899464,
+    "stop" : 1667388899576,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5387a0dab55ebe0",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388891559,
+    "stop" : 1667388891559,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "41febb60f5c97d7e",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895319,
+    "stop" : 1667388895319,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a6d6157ce5447fa",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910970,
+    "stop" : 1667388910971,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3bba28e9ad16be3b",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895315,
+    "stop" : 1667388895315,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "61eb16d809aa5bf5",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388919925,
+    "stop" : 1667388919925,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "63251ac7db9da202",
+  "name" : "注册单个用户，参数不输入用户名，不能成功注册",
+  "time" : {
+    "start" : 1667388911478,
+    "stop" : 1667388911583,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "365439fca27ee34",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910988,
+    "stop" : 1667388910988,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4f67aaa7a9a6a47b",
+  "name" : "注册单个用户，用户名重复，不能成功注册",
+  "time" : {
+    "start" : 1667388911282,
+    "stop" : 1667388911385,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5246f3ade3370599",
+  "name" : "分页查询，输入正确的用户ID和分页，返回成功",
+  "time" : {
+    "start" : 1667388919494,
+    "stop" : 1667388919587,
+    "duration" : 93
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9b25c6c6299d561",
+  "name" : "按用户名修改用户，不输入其他参数，可以成功修改",
+  "time" : {
+    "start" : 1667388916755,
+    "stop" : 1667388916755,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1a94f84b3a0e51c5",
+  "name" : "授予用户旁听角色",
+  "time" : {
+    "start" : 1667388901707,
+    "stop" : 1667388901804,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f32222c3d6ef456",
+  "name" : "获取keycode",
+  "time" : {
+    "start" : 1667388910990,
+    "stop" : 1667388911080,
+    "duration" : 90
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "816660edf594d13b",
+  "name" : "注册单个用户，昵称不输入，能成功注册",
+  "time" : {
+    "start" : 1667388912217,
+    "stop" : 1667388912347,
+    "duration" : 130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdab55710db6443c",
+  "name" : "查询下级部门，keyCode错误，返回失败",
+  "time" : {
+    "start" : 1667388920316,
+    "stop" : 1667388920404,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa4faff0a89028c",
+  "name" : "创建固定会议室",
+  "time" : {
+    "start" : 1667388895546,
+    "stop" : 1667388895653,
+    "duration" : 107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d266c7f4ead64fc0",
+  "name" : "用户id重复,取最后权限参数",
+  "time" : {
+    "start" : 1667388900321,
+    "stop" : 1667388900436,
+    "duration" : 115
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a09595f2134ead",
+  "name" : "分页查询，输入错误的用户ID，返回失败",
+  "time" : {
+    "start" : 1667388919696,
+    "stop" : 1667388919815,
+    "duration" : 119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3199227afd7f59c1",
+  "name" : "会议名称为空，创建失败",
+  "time" : {
+    "start" : 1667388909261,
+    "stop" : 1667388909380,
+    "duration" : 119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0d1d493a3e32b7",
+  "name" : "查询预约会议",
+  "time" : {
+    "start" : 1667388908217,
+    "stop" : 1667388908311,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a6f30139a35abf7",
+  "name" : "查询在线的注册用户",
+  "time" : {
+    "start" : 1667388908592,
+    "stop" : 1667388908689,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "178b4da8727bc2c4",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910975,
+    "stop" : 1667388910975,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3319f09fe7816222",
+  "name" : "注册单个用户，用户名输入错误，不能成功注册",
+  "time" : {
+    "start" : 1667388911387,
+    "stop" : 1667388911476,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7c61de9354ef788",
+  "name" : "按用户名删除用户，返回成功",
+  "time" : {
+    "start" : 1667388917926,
+    "stop" : 1667388918048,
+    "duration" : 122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34244db3d431a4fb",
+  "name" : "查询固定会议",
+  "time" : {
+    "start" : 1667388907945,
+    "stop" : 1667388908215,
+    "duration" : 270
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ee3a1a44846e5fc",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910973,
+    "stop" : 1667388910973,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "79ce0aedf9e20cd",
+  "name" : "ID修改用户，输入错误用户ID，输入参数正确，返回失败",
+  "time" : {
+    "start" : 1667388915948,
+    "stop" : 1667388916049,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32950ed980943005",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895290,
+    "stop" : 1667388895290,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d92de4880f50fb34",
+  "name" : "按会议室查询会议日志",
+  "time" : {
+    "start" : 1667388903762,
+    "stop" : 1667388903868,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca46a53511c19b55",
+  "name" : "删除会议室7",
+  "time" : {
+    "start" : 1667388910414,
+    "stop" : 1667388910553,
+    "duration" : 139
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e79bbfe188deea29",
+  "name" : "会议权限为空",
+  "time" : {
+    "start" : 1667388901279,
+    "stop" : 1667388901370,
+    "duration" : 91
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7f44e6ea7817253",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388921132,
+    "stop" : 1667388921133,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "89dd51fc98cb662",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388891554,
+    "stop" : 1667388891554,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a92e547e0dfd0fbe",
+  "name" : "修改用户，输入密码类型错误，不能成功修改",
+  "time" : {
+    "start" : 1667388916268,
+    "stop" : 1667388916357,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8249e6d312378bcd",
+  "name" : "修改最大用户数",
+  "time" : {
+    "start" : 1667388898287,
+    "stop" : 1667388898396,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c43cdb96237cdba",
+  "name" : "创建即时会议",
+  "time" : {
+    "start" : 1667388894775,
+    "stop" : 1667388894877,
+    "duration" : 102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bc4993d17653a37",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895305,
+    "stop" : 1667388895305,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1a95fb9234674f5c",
+  "name" : "按用户名修改用户，输入密码类型错误，不能成功修改",
+  "time" : {
+    "start" : 1667388916934,
+    "stop" : 1667388917028,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ee9c61ff276f483",
+  "name" : "批量创建用户，输入用户名过长,返回失败",
+  "time" : {
+    "start" : 1667388914818,
+    "stop" : 1667388914910,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2cd9e6f5b09bbb0c",
+  "name" : "会议室名称超过64位，创建失败",
+  "time" : {
+    "start" : 1667388896367,
+    "stop" : 1667388896457,
+    "duration" : 90
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e94aaa3cc7cc4eb",
+  "name" : "会议室名称超过64位",
+  "time" : {
+    "start" : 1667388892386,
+    "stop" : 1667388892653,
+    "duration" : 267
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b951fc0a6cae50e",
+  "name" : "不输入父部门ID，批量新增部门",
+  "time" : {
+    "start" : 1667388887469,
+    "stop" : 1667388887591,
+    "duration" : 122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b175f6bc793a4af8",
+  "name" : "批量创建用户，参数输入正确的用户名和部门ID，返回成功",
+  "time" : {
+    "start" : 1667388914277,
+    "stop" : 1667388914413,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b3649c5ca815c98",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388919927,
+    "stop" : 1667388919928,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d78e5fcc1c9110c7",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895303,
+    "stop" : 1667388895303,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fc2fc7edb5485833",
+  "name" : "查询下级部门，keyCode过期，返回失败",
+  "time" : {
+    "start" : 1667388890729,
+    "stop" : 1667388890816,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e939ed959f9e1e37",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388891544,
+    "stop" : 1667388891544,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3001165cb26d9ed",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388900886,
+    "stop" : 1667388900983,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "710452cf6580fc30",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388900662,
+    "stop" : 1667388900759,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72432c31409b09b6",
+  "name" : "批量创建用户，输入用户名，输入错误的部门ID,返回失败",
+  "time" : {
+    "start" : 1667388914728,
+    "stop" : 1667388914815,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e4faabe04686cc2",
+  "name" : "按开始时间查询",
+  "time" : {
+    "start" : 1667388907471,
+    "stop" : 1667388907585,
+    "duration" : 114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16d3200ed511827a",
+  "name" : "输入错误的父部门ID,批量新增部门",
+  "time" : {
+    "start" : 1667388887852,
+    "stop" : 1667388887946,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62e07a51a32568d",
+  "name" : "有父id新增部门",
+  "time" : {
+    "start" : 1667388886490,
+    "stop" : 1667388886599,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ca927010cee36fe",
+  "name" : "注册批量用户，参数不输入前缀，不能成功注册",
+  "time" : {
+    "start" : 1667388913418,
+    "stop" : 1667388913531,
+    "duration" : 113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed9811c13593d60b",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895313,
+    "stop" : 1667388895313,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5236d50dd8175f23",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388901807,
+    "stop" : 1667388901910,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "135f72897c6cd13a",
+  "name" : "删除会议室3",
+  "time" : {
+    "start" : 1667388909853,
+    "stop" : 1667388909988,
+    "duration" : 135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd892a17d9645995",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388891547,
+    "stop" : 1667388891547,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "543b6ea6ac44869e",
+  "name" : "删除部门，参数输入正确的部门ID不级联删除，没有下级部门，返回成功",
+  "time" : {
+    "start" : 1667388891185,
+    "stop" : 1667388891317,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2fe7ebb932ea7030",
+  "name" : "不输入部门名称新增部门",
+  "time" : {
+    "start" : 1667388886706,
+    "stop" : 1667388886792,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be19a09e5fb7bee6",
+  "name" : "授予用户主席角色",
+  "time" : {
+    "start" : 1667388902220,
+    "stop" : 1667388902318,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d845d1c32ac7b1be",
+  "name" : "按部门名称查询",
+  "time" : {
+    "start" : 1667388907850,
+    "stop" : 1667388907943,
+    "duration" : 93
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2958167bbd160698",
+  "name" : "查询部门，参数输入正确的部门ID，返回成功",
+  "time" : {
+    "start" : 1667388889059,
+    "stop" : 1667388889159,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77b3d513a7598f1a",
+  "name" : "修改用户，输入用户ID，参数输入正确，keyCode过期，不能成功修改",
+  "time" : {
+    "start" : 1667388917121,
+    "stop" : 1667388917207,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "306e7e82e69af00f",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910982,
+    "stop" : 1667388910982,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6dc302da7ee5cc18",
+  "name" : "keycode错误新增部门",
+  "time" : {
+    "start" : 1667388886910,
+    "stop" : 1667388886997,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6f81ac39cb09c99",
+  "name" : "创建周期会议室",
+  "time" : {
+    "start" : 1667388892142,
+    "stop" : 1667388892383,
+    "duration" : 241
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "456550c699417a1b",
+  "name" : "修改用户，输入用户ID，参数输入正确，keyCode错误，不能成功修改",
+  "time" : {
+    "start" : 1667388917030,
+    "stop" : 1667388917119,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd4202be33aeea51",
+  "name" : "修改产品服务",
+  "time" : {
+    "start" : 1667388897719,
+    "stop" : 1667388897841,
+    "duration" : 122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a6c4c2d7fa0f63d",
+  "name" : "修改部门，参数输入错误的部门ID，返回失败",
+  "time" : {
+    "start" : 1667388888539,
+    "stop" : 1667388888633,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8bb69ec6c5c09952",
+  "name" : "批量创建用户，keyCode过期，返回失败",
+  "time" : {
+    "start" : 1667388915108,
+    "stop" : 1667388915200,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8998ff155e472869",
+  "name" : "删除部门，参数输入正确的部门ID，级联删除，返回成功",
+  "time" : {
+    "start" : 1667388915528,
+    "stop" : 1667388915946,
+    "duration" : 418
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30f2b63baed0e80",
+  "name" : "按名称查询会议室",
+  "time" : {
+    "start" : 1667388904184,
+    "stop" : 1667388907244,
+    "duration" : 3060
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfe5e963623d02f2",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388891552,
+    "stop" : 1667388891552,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "797de084f955003e",
+  "name" : "非本企业的会议室",
+  "time" : {
+    "start" : 1667388903111,
+    "stop" : 1667388903202,
+    "duration" : 91
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71c2628284ecad9c",
+  "name" : "查询下级部门，没有下级返回成功，显示部门为空",
+  "time" : {
+    "start" : 1667388920032,
+    "stop" : 1667388920134,
+    "duration" : 102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ca316b4ef7cab7b",
+  "name" : "设置为不存在的模式",
+  "time" : {
+    "start" : 1667388900000,
+    "stop" : 1667388900097,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc7a394676fa6592",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388902122,
+    "stop" : 1667388902218,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f234d0b7dd54ea0",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388900438,
+    "stop" : 1667388900545,
+    "duration" : 107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cac7f935c00b7fd",
+  "name" : "删除非本企业会议室，删除失败",
+  "time" : {
+    "start" : 1667388910849,
+    "stop" : 1667388910950,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d99ef1517dcc3e01",
+  "name" : "查询用户，输入用户ID参数正确，成功查询用户",
+  "time" : {
+    "start" : 1667388915319,
+    "stop" : 1667388915415,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ddf5a8db329ae0da",
+  "name" : "删除部门，参数输入错误的部门ID，返回失败",
+  "time" : {
+    "start" : 1667388920712,
+    "stop" : 1667388920807,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccb924c5ed3b8342",
+  "name" : "用户id重复,取最后权限参数",
+  "time" : {
+    "start" : 1667388892756,
+    "stop" : 1667388892857,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ec8596b556a3642",
+  "name" : "获取key-code",
+  "time" : {
+    "start" : 1667388895334,
+    "stop" : 1667388895425,
+    "duration" : 91
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de884554995215e1",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388891561,
+    "stop" : 1667388891561,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ba471eafb6902f0c",
+  "name" : "用户id为空",
+  "time" : {
+    "start" : 1667388894281,
+    "stop" : 1667388894390,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "965483dfd99211e1",
+  "name" : "会议权限为空",
+  "time" : {
+    "start" : 1667388894483,
+    "stop" : 1667388894574,
+    "duration" : 91
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99aed28d473cc12b",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895301,
+    "stop" : 1667388895301,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4e3b6e2f6059ab5e",
+  "name" : "按用户名删除用户，用户错误，返回失败",
+  "time" : {
+    "start" : 1667388918256,
+    "stop" : 1667388918344,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b3158449434beee",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910964,
+    "stop" : 1667388910964,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3722b6e0e1d21b82",
+  "name" : "查询部门，keyCode错误，返回失败",
+  "time" : {
+    "start" : 1667388889256,
+    "stop" : 1667388889353,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4aa8983854facb8",
+  "name" : "注册批量用户，参数正确，可以成功注册",
+  "time" : {
+    "start" : 1667388912529,
+    "stop" : 1667388913130,
+    "duration" : 601
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4dda849ab0b6fa61",
+  "name" : "服务为空",
+  "time" : {
+    "start" : 1667388897389,
+    "stop" : 1667388897484,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19160830b93fae8d",
+  "name" : "用户id不存在",
+  "time" : {
+    "start" : 1667388893955,
+    "stop" : 1667388894279,
+    "duration" : 324
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c3c7085f35df1",
+  "name" : "按会议名称查询",
+  "time" : {
+    "start" : 1667388907342,
+    "stop" : 1667388907468,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff47306fd7a3b119",
+  "name" : "设置为培训模式",
+  "time" : {
+    "start" : 1667388899779,
+    "stop" : 1667388899898,
+    "duration" : 119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59c3c56b03a84041",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910979,
+    "stop" : 1667388910980,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3020bf2f83331497",
+  "name" : "注册单个用户，keyCode输入错误，不能成功注册",
+  "time" : {
+    "start" : 1667388912349,
+    "stop" : 1667388912437,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37082ffdccca7f03",
+  "name" : "分页查询，输入正确的参数，返回成功",
+  "time" : {
+    "start" : 1667388919089,
+    "stop" : 1667388919183,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6588431c59336e89",
+  "name" : "按时间查询会议日志",
+  "time" : {
+    "start" : 1667388903870,
+    "stop" : 1667388903967,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "375278d5128fa6d",
+  "name" : "查询用户，输入用户ID参数正确，keyCode过期，返回失败",
+  "time" : {
+    "start" : 1667388918711,
+    "stop" : 1667388918801,
+    "duration" : 90
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fac342f661e5a9f7",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388893753,
+    "stop" : 1667388893854,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "571a9e94a6bd1c23",
+  "name" : "删除部门，keyCode错误，返回失败",
+  "time" : {
+    "start" : 1667388920906,
+    "stop" : 1667388921009,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb0b5b3570dae6f5",
+  "name" : "查询用户，输入用户名错误，返回失败",
+  "time" : {
+    "start" : 1667388918803,
+    "stop" : 1667388918890,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49cbfd64d72af030",
+  "name" : "主席密码超长",
+  "time" : {
+    "start" : 1667388896898,
+    "stop" : 1667388897008,
+    "duration" : 110
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e33fcf63dd5f5395",
+  "name" : "会议类型不存在，创建失败",
+  "time" : {
+    "start" : 1667388896568,
+    "stop" : 1667388896667,
+    "duration" : 99
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2b0ec06a83285f6",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388919936,
+    "stop" : 1667388919937,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "80a587551164d346",
+  "name" : "查询部门，keyCode过期，返回失败",
+  "time" : {
+    "start" : 1667388889355,
+    "stop" : 1667388889441,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36f01fdd5f2b3160",
+  "name" : "批量创建用户，参数输入正确的用户名不输入部门ID，返回成功",
+  "time" : {
+    "start" : 1667388914511,
+    "stop" : 1667388914634,
+    "duration" : 123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "644a6aaf8da58510",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388919934,
+    "stop" : 1667388919934,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1a33fcec92f559d",
+  "name" : "会议类型不存在，创建失败",
+  "time" : {
+    "start" : 1667388899159,
+    "stop" : 1667388899259,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76c0e6f68eb0ca35",
+  "name" : "按用户名修改用户，参数正确，可以成功修改",
+  "time" : {
+    "start" : 1667388916553,
+    "stop" : 1667388916649,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e1aacdf7fe56e5e",
+  "name" : "2",
+  "time" : {
+    "start" : 1667388895329,
+    "stop" : 1667388895329,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ec064af75622f76b",
+  "name" : "分页查询，不输入参数，返回成功",
+  "time" : {
+    "start" : 1667388919817,
+    "stop" : 1667388919914,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74741e255f6c0fc7",
+  "name" : "用户id为空",
+  "time" : {
+    "start" : 1667388902510,
+    "stop" : 1667388902595,
+    "duration" : 85
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dadd0092103d5324",
+  "name" : "注册批量用户，用户名前缀重复，不能成功注册",
+  "time" : {
+    "start" : 1667388913132,
+    "stop" : 1667388913242,
+    "duration" : 110
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76bdccd82f2bb40c",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388910977,
+    "stop" : 1667388910977,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6ac88398ebd30f6a",
+  "name" : "授予用户会议室权限",
+  "time" : {
+    "start" : 1667388893470,
+    "stop" : 1667388893559,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba96b904940921c9",
+  "name" : "会议室邀请人Id为空，创建成功",
+  "time" : {
+    "start" : 1667388894880,
+    "stop" : 1667388894976,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "430fb9cf02136b9b",
+  "name" : "注册单个用户，部门不输入，能成功注册",
+  "time" : {
+    "start" : 1667388911809,
+    "stop" : 1667388911920,
+    "duration" : 111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62547865ba79601",
+  "name" : "授权管理员",
+  "time" : {
+    "start" : 1667388900547,
+    "stop" : 1667388900660,
+    "duration" : 113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edec3cfdb4f8350f",
+  "name" : "批量创建部门，keyCode过期",
+  "time" : {
+    "start" : 1667388888174,
+    "stop" : 1667388888263,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cb315b6c2e3f952",
+  "name" : "周期会议时间设置每月",
+  "time" : {
+    "start" : 1667388896141,
+    "stop" : 1667388896258,
+    "duration" : 117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40acbc4532a0809d",
+  "name" : "删除部门，参数输入正确的部门ID不级联删除，没有下级部门，返回成功",
+  "time" : {
+    "start" : 1667388920809,
+    "stop" : 1667388920904,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c650f489afcf852a",
+  "name" : "没有父ID新增部门",
+  "time" : {
+    "start" : 1667388886602,
+    "stop" : 1667388886703,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92e2cfb0370bc486",
+  "name" : "删除部门，参数输入正确的部门ID，级联删除，返回成功",
+  "time" : {
+    "start" : 1667388890933,
+    "stop" : 1667388891091,
+    "duration" : 158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59c8e23a3ccd2d39",
+  "name" : "用户id不存在",
+  "time" : {
+    "start" : 1667388900985,
+    "stop" : 1667388901077,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b66d746a25c9c275",
+  "name" : "查询下级部门，不输入部门ID，返回失败",
+  "time" : {
+    "start" : 1667388920226,
+    "stop" : 1667388920314,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d840d296bc3ce97c",
+  "name" : "会议权限不存在",
+  "time" : {
+    "start" : 1667388894392,
+    "stop" : 1667388894481,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8f85c7a46126614",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895292,
+    "stop" : 1667388895292,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ff680a0d2c7b2546",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388901587,
+    "stop" : 1667388901705,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25cf07fb7cb4780c",
+  "name" : "按用户名查询用户，输入用户名参数正确，成功查询用户",
+  "time" : {
+    "start" : 1667388915417,
+    "stop" : 1667388915525,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46b6d9aa55e0796d",
+  "name" : "修改部门，keyCode过期，返回失败",
+  "time" : {
+    "start" : 1667388888961,
+    "stop" : 1667388889057,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4da06f6c28a92a81",
+  "name" : "查询用户，输入用户名参数正确，keyCode过期，返回失败",
+  "time" : {
+    "start" : 1667388918978,
+    "stop" : 1667388919087,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54eea7d647c2f52c",
+  "name" : "查询用户，输入用户ID错误，返回失败",
+  "time" : {
+    "start" : 1667388918517,
+    "stop" : 1667388918618,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81be4a42f09e71f",
+  "name" : "最大用户数超过10000",
+  "time" : {
+    "start" : 1667388899061,
+    "stop" : 1667388899156,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcb5b6a7e00174aa",
+  "name" : "删除会议室5",
+  "time" : {
+    "start" : 1667388910127,
+    "stop" : 1667388910251,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff6c4a6fba55a908",
+  "name" : "ID修改用户，输入参数正确，可以成功修改",
+  "time" : {
+    "start" : 1667388915203,
+    "stop" : 1667388915315,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d57275a6a1b5b31",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388921146,
+    "stop" : 1667388921146,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c5e93a66f9807fc",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388921139,
+    "stop" : 1667388921139,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3452d57e886c3a8d",
+  "name" : "删除部门，参数输入正确的部门ID，级联删除，返回成功",
+  "time" : {
+    "start" : 1667388920607,
+    "stop" : 1667388920710,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94fef3e9f6c886e8",
+  "name" : "新增部门",
+  "time" : {
+    "start" : 1667388911082,
+    "stop" : 1667388911181,
+    "duration" : 99
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a00a96294217f78d",
+  "name" : "修改用户，参数输入正确，keyCode错误，不能成功修改",
+  "time" : {
+    "start" : 1667388916359,
+    "stop" : 1667388916444,
+    "duration" : 85
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70393323ae52d266",
+  "name" : "不存在的会议室",
+  "time" : {
+    "start" : 1667388903016,
+    "stop" : 1667388903109,
+    "duration" : 93
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71ae6c006460bd3b",
+  "name" : "分页查询，输入错误的用户名，返回失败",
+  "time" : {
+    "start" : 1667388919388,
+    "stop" : 1667388919491,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f597fb67cb8c52a",
+  "name" : "设置主席密码，主席密码为空",
+  "time" : {
+    "start" : 1667388896799,
+    "stop" : 1667388896895,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79eb8b3d362847a9",
+  "name" : "授予用户会议室权限",
+  "time" : {
+    "start" : 1667388892655,
+    "stop" : 1667388892754,
+    "duration" : 99
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be82fb9d8ad8a479",
+  "name" : "会议名称为空，创建失败",
+  "time" : {
+    "start" : 1667388894979,
+    "stop" : 1667388895105,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "765d227148d9d226",
+  "name" : "周例会模式，未填写时间",
+  "time" : {
+    "start" : 1667388897010,
+    "stop" : 1667388897111,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69454db607e53ad1",
+  "name" : "keycode过期新增部门",
+  "time" : {
+    "start" : 1667388886999,
+    "stop" : 1667388887109,
+    "duration" : 110
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e188be601e99d7cf",
+  "name" : "批量创建部门，keyCode错误",
+  "time" : {
+    "start" : 1667388888058,
+    "stop" : 1667388888172,
+    "duration" : 114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "989a4c0540c0447",
+  "name" : "会议权限为空",
+  "time" : {
+    "start" : 1667388902706,
+    "stop" : 1667388902816,
+    "duration" : 110
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f733da4848f27d0",
+  "name" : "按用户名修改用户，修改昵称输入超长，不能成功修改",
+  "time" : {
+    "start" : 1667388916757,
+    "stop" : 1667388916842,
+    "duration" : 85
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2da7a28737a5af5e",
+  "name" : "查询在线人数",
+  "time" : {
+    "start" : 1667388907246,
+    "stop" : 1667388907340,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad8320c6a2ac6c99",
+  "name" : "删除会议室6",
+  "time" : {
+    "start" : 1667388910254,
+    "stop" : 1667388910412,
+    "duration" : 158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d2e4a1f9f5151eb",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388919916,
+    "stop" : 1667388919916,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b09ba877b422785",
+  "name" : "删除会议室1",
+  "time" : {
+    "start" : 1667388909562,
+    "stop" : 1667388909694,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12d8120e8ff5a105",
+  "name" : "删除部门，keyCode过期，返回失败",
+  "time" : {
+    "start" : 1667388921011,
+    "stop" : 1667388921118,
+    "duration" : 107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "755c8a8124f6ec1e",
+  "name" : "按结束时间查询",
+  "time" : {
+    "start" : 1667388907588,
+    "stop" : 1667388907847,
+    "duration" : 259
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7eb96abe6c5e1df5",
+  "name" : "按用户名删除用户，输入用户名参数正确，keyCode过期，返回失败",
+  "time" : {
+    "start" : 1667388918432,
+    "stop" : 1667388918515,
+    "duration" : 83
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a8354e2f90b74df",
+  "name" : "会议室验证模式不存在，创建失败",
+  "time" : {
+    "start" : 1667388898843,
+    "stop" : 1667388898960,
+    "duration" : 117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73f58b1f96f4ace0",
+  "name" : "注册单个用户，密码类型不输入，不能成功注册",
+  "time" : {
+    "start" : 1667388912031,
+    "stop" : 1667388912119,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7b6fd8f79896755",
+  "name" : "批量创建用户，不输入密码类型,返回失败",
+  "time" : {
+    "start" : 1667388914913,
+    "stop" : 1667388915003,
+    "duration" : 90
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31b71ad588b73de8",
+  "name" : "修改会议类型-固定会议",
+  "time" : {
+    "start" : 1667388898398,
+    "stop" : 1667388898511,
+    "duration" : 113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16c45effd1a5a3ab",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895298,
+    "stop" : 1667388895299,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "22a870c39e7466db",
+  "name" : "修改管理员密码",
+  "time" : {
+    "start" : 1667388898078,
+    "stop" : 1667388898177,
+    "duration" : 99
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b84603d47dbe1f36",
+  "name" : "修改用户，输入密码错误，不能成功修改",
+  "time" : {
+    "start" : 1667388916165,
+    "stop" : 1667388916266,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3671fb49a9a83e31",
+  "name" : "创建周期会议室",
+  "time" : {
+    "start" : 1667388895655,
+    "stop" : 1667388895766,
+    "duration" : 111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "efea15298fa5c001",
+  "name" : "注册批量用户，数量不输入，不能成功注册",
+  "time" : {
+    "start" : 1667388913636,
+    "stop" : 1667388913742,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82938bfc0bd15e7b",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895321,
+    "stop" : 1667388895321,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b5d1de639ba17c33",
+  "name" : "分页查询，输入正确的用户名和分页，返回成功",
+  "time" : {
+    "start" : 1667388919185,
+    "stop" : 1667388919288,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "993a4be830ab6934",
+  "name" : "注册批量用户，参数密码与密码类型不符，不能成功注册",
+  "time" : {
+    "start" : 1667388913533,
+    "stop" : 1667388913632,
+    "duration" : 99
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20be9d604c0e955",
+  "name" : "创建固定会议室",
+  "time" : {
+    "start" : 1667388891862,
+    "stop" : 1667388892140,
+    "duration" : 278
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2bdf0bd774b3a236",
+  "name" : "获取授权用户",
+  "time" : {
+    "start" : 1667388902321,
+    "stop" : 1667388902415,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "420cbdb83d6b3797",
+  "name" : "预约会议，预约时间为空",
+  "time" : {
+    "start" : 1667388897487,
+    "stop" : 1667388897588,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83e424f591dfbcbe",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388895288,
+    "stop" : 1667388895288,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6e42e41d61f784a0",
+  "name" : "删除会议室8",
+  "time" : {
+    "start" : 1667388910555,
+    "stop" : 1667388910699,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "892e2ec439373bf0",
+  "name" : "删除用户，输入用户ID参数正确，keyCode过期，返回失败",
+  "time" : {
+    "start" : 1667388917529,
+    "stop" : 1667388917623,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "278348f49f9bde40",
+  "name" : "获取keycode",
+  "time" : {
+    "start" : 1667388886292,
+    "stop" : 1667388886470,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6c74e4d42df3dd1",
+  "name" : "查询下级部门，参数输入错误的部门ID，返回失败",
+  "time" : {
+    "start" : 1667388890415,
+    "stop" : 1667388890526,
+    "duration" : 111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b842b8e396ed4e77",
+  "name" : "修改部门，keyCode错误，返回失败",
+  "time" : {
+    "start" : 1667388888832,
+    "stop" : 1667388888958,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8b931b3432ca398",
+  "name" : "删除会议室4",
+  "time" : {
+    "start" : 1667388909990,
+    "stop" : 1667388910125,
+    "duration" : 135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e898551f7a7cc1cc",
+  "name" : "最大人数为空，创建成功",
+  "time" : {
+    "start" : 1667388909383,
+    "stop" : 1667388909470,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fab40eafb42c4fb7",
+  "name" : "注册批量用户，密码类型不输入，不能成功注册",
+  "time" : {
+    "start" : 1667388913981,
+    "stop" : 1667388914080,
+    "duration" : 99
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "542b699f7de4c1e3",
+  "name" : "查询历史日期，返回空",
+  "time" : {
+    "start" : 1667388894685,
+    "stop" : 1667388894773,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95bcd79263f37c2b",
+  "name" : "删除用户，输入用户ID错误，返回失败",
+  "time" : {
+    "start" : 1667388917317,
+    "stop" : 1667388917419,
+    "duration" : 102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ada911a97ccf7bcc",
+  "name" : "test_api_all#test_api_all",
+  "time" : {
+    "start" : 1667388919921,
+    "stop" : 1667388919921,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f53862336cbb3191",
+  "name" : "批量创建用户，keyCode错误，返回失败",
+  "time" : {
+    "start" : 1667388915005,
+    "stop" : 1667388915105,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a860adc5eb83363",
+  "name" : "注册批量用户，前缀输入错误，不能成功注册",
+  "time" : {
+    "start" : 1667388913244,
+    "stop" : 1667388913329,
+    "duration" : 85
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

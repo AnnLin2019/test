@@ -1,0 +1,7 @@
+{
+  "roomName": "",
+  "hopeStartTime": "",
+  "hopeEndTime":"",
+  "departmentName": "190_dep01",
+  "roomType":""
+}

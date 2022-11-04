@@ -1,0 +1,136 @@
+{
+  "uid" : "eadf318656c49a11",
+  "name" : "查询会议日程",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "45e19123d353605abd7d030a8f8db50e",
+  "time" : {
+    "start" : 1667388908692,
+    "stop" : 1667388908825,
+    "duration" : 133
+  },
+  "description" : "请求方法是GET，请求url是/companies/rooms/schedules?startTime=2022-12-06&currentPage=1&pageSize=100,请求头是{\"content-type\":\"application/x-www-form-urlencoded\",\"Key-Code\":\"${keycode}\"}",
+  "descriptionHtml" : "<p>请求方法是GET，请求url是/companies/rooms/schedules?startTime=2022-12-06&amp;currentPage=1&amp;pageSize=100,请求头是{&quot;content-type&quot;:&quot;application/x-www-form-urlencoded&quot;,&quot;Key-Code&quot;:&quot;${keycode}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1667388886189,
+      "stop" : 1667388886286,
+      "duration" : 97
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "请求方法是GET，请求url是/companies/rooms/schedules?startTime=2022-12-06&currentPage=1&pageSize=100,请求头是{\"content-type\":\"application/x-www-form-urlencoded\",\"Key-Code\":\"${keycode}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "53094d05d8f1ecf0",
+      "name" : "请求参数",
+      "source" : "53094d05d8f1ecf0.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "31eca403df87415a",
+      "name" : "请求方法",
+      "source" : "31eca403df87415a.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "488a1b2517c05558",
+      "name" : "请求url",
+      "source" : "488a1b2517c05558.txt",
+      "type" : "text/plain",
+      "size" : 107
+    }, {
+      "uid" : "8c234da49b361395",
+      "name" : "请求头",
+      "source" : "8c234da49b361395.txt",
+      "type" : "text/plain",
+      "size" : 229
+    }, {
+      "uid" : "15b9a012f81ba94a",
+      "name" : "提取参数",
+      "source" : "15b9a012f81ba94a.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "101fe52851af5157",
+      "name" : "关联参数",
+      "source" : "101fe52851af5157.txt",
+      "type" : "text/plain",
+      "size" : 663
+    }, {
+      "uid" : "b0cb69968f3caa38",
+      "name" : "断言内容",
+      "source" : "b0cb69968f3caa38.txt",
+      "type" : "text/plain",
+      "size" : 10
+    }, {
+      "uid" : "c8e84a068f268f36",
+      "name" : "返回结果",
+      "source" : "c8e84a068f268f36.txt",
+      "type" : "text/plain",
+      "size" : 1504
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "boss_api_Room_testcase.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "会议日程"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "19712-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eadf318656c49a11.json",
+  "parameterValues" : [ ]
+}

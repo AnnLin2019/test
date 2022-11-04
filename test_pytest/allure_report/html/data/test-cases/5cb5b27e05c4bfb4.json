@@ -1,0 +1,136 @@
+{
+  "uid" : "5cb5b27e05c4bfb4",
+  "name" : "获取录制任务列表",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "abca7ab5ac912b28d40c6013014d97ab",
+  "time" : {
+    "start" : 1667388891708,
+    "stop" : 1667388891860,
+    "duration" : 152
+  },
+  "description" : "请求方法是POST，请求url是/api/media/v1/records-task,请求头是{\"content-type\":\"application/json\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是POST，请求url是/api/media/v1/records-task,请求头是{&quot;content-type&quot;:&quot;application/json&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1667388886189,
+      "stop" : 1667388886286,
+      "duration" : 97
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "请求方法是POST，请求url是/api/media/v1/records-task,请求头是{\"content-type\":\"application/json\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4d6b9c0d94c888ea",
+      "name" : "请求参数",
+      "source" : "4d6b9c0d94c888ea.txt",
+      "type" : "text/plain",
+      "size" : 710
+    }, {
+      "uid" : "75b63ec8c2dccd77",
+      "name" : "请求方法",
+      "source" : "75b63ec8c2dccd77.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "fd68f406024acb1e",
+      "name" : "请求url",
+      "source" : "fd68f406024acb1e.txt",
+      "type" : "text/plain",
+      "size" : 58
+    }, {
+      "uid" : "95d9ba2b9735d3a1",
+      "name" : "请求头",
+      "source" : "95d9ba2b9735d3a1.txt",
+      "type" : "text/plain",
+      "size" : 100
+    }, {
+      "uid" : "3978a858e852f31a",
+      "name" : "提取参数",
+      "source" : "3978a858e852f31a.txt",
+      "type" : "text/plain",
+      "size" : 26
+    }, {
+      "uid" : "fb2c2b337ccddea7",
+      "name" : "关联参数",
+      "source" : "fb2c2b337ccddea7.txt",
+      "type" : "text/plain",
+      "size" : 347
+    }, {
+      "uid" : "3243e5575b2084de",
+      "name" : "断言内容",
+      "source" : "3243e5575b2084de.txt",
+      "type" : "text/plain",
+      "size" : 13
+    }, {
+      "uid" : "c62f85f862286d6c",
+      "name" : "返回结果",
+      "source" : "c62f85f862286d6c.txt",
+      "type" : "text/plain",
+      "size" : 136
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "boss_api_Record_testcase-未完成.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "获取录制任务列表"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "19712-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5cb5b27e05c4bfb4.json",
+  "parameterValues" : [ ]
+}

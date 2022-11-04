@@ -21,7 +21,7 @@ class File():
         return parent_path.joinpath(filename)
     # Path(__file__).resolve().parent
 
-    #获取某路径下的exce文件
+    #获取某路径下的excel文件
     def file_path(self,filename):
         path=self.file_dir(filename)
         files=list(pathlib.Path(path).glob('*.xlsx'))+list(pathlib.Path(path).glob('*.xls'))
@@ -29,7 +29,29 @@ class File():
         #     print("file is {}".format(file))
         return files
 
+    def file_all_path(self, filename):
+        pass
+
+    #获取某路径下的excel文件名
+    def file_names(self,filename):
+        path=self.file_dir(filename)
+        # print(path)
+        files=list(pathlib.Path(path).glob('*.xlsx'))+list(pathlib.Path(path).glob('*.xls'))
+        file_name=[]
+        for file in files:
+            file_name.append(file.name)
+            print("file is {}".format(file.name))
+        return file_name
+
+    def file_name(self,filepath):
+        path=pathlib.Path(filepath)
+        # print(path)
+        return path.name
+
 if __name__ == '__main__':
     file=File()
+    path='F:\\Test\\Interface\\Python自动化\\git_api\\test\\data\\boss_ice_1.xlsx'
     # print(file.file_dir('data'))
     print(file.file_path('data'))
+    print(file.file_names('data'))
+    print(file.file_name(path))

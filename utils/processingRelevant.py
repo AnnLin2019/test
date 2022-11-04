@@ -27,8 +27,8 @@ class Relevant():
                 relevant_key = relevant_str[0]
                 relevant_value = relevant_str[1]
                 # relevant_value.split("][")
-                relevant_1 = re.sub('\[', '[\"', relevant_value)
-                relevant_2 = re.sub('\]', '\"]', relevant_1)
+                relevant_1 = re.sub(r'\[', '[\"', relevant_value)
+                relevant_2 = re.sub(r'\]', '\"]', relevant_1)
                 if re.findall(r":", str(relevant_2)):
                     relevant_2 = re.sub(r':', '\"][\"', relevant_2)
                 else:
@@ -36,16 +36,23 @@ class Relevant():
                 relevant_eval = re.sub(r'\"[\d]\"', self.intMath, relevant_2)
                 # print("提取格式转换后{}".format(relevant_eval))
                 relevant_eval_str = str(res) + relevant_eval
+                # print("relevant_eval_str：",type(relevant_eval_str))
+                relevant_eval_str=re.sub('null','None',relevant_eval_str)
+                relevant_eval_str=re.sub('true','True',relevant_eval_str)
+                relevant_eval_str=re.sub('false', 'False', relevant_eval_str)
                 try:
+                    # relevant_last = eval(relevant_eval_str)
                     relevant_last = eval(relevant_eval_str)
                     # relevant_last=json.dumps(relevant_last,ensure_ascii=False)
-                    # print("提取值是{}".format(relevant_last))
+                    print("提取值是{}".format(relevant_last))
                     # print("type(relevant_dict)是",relevant_dict)
                     relevant_dict[relevant_key] = relevant_last
-                    # print("relevant_dict是{}".format(relevant_dict))
+                    print("relevant_dict是{}".format(relevant_dict))
                 except Exception as e:
-                    relevant_dict = {}
-                    print("提取{}参数失败,失败原因：{}".format(relevant_key, str(e)))
+                    relevant_error="提取{}参数失败,失败原因：{}".format(relevant_key, str(e))
+                    # relevant_dict = {}
+                    relevant_dict[relevant_key]=relevant_error
+                    print(relevant_error)
 
             return relevant_dict
 
@@ -117,3 +124,25 @@ class Relevant():
         else:
             relevant_dict_global=relevant_dict_global
         return relevant_dict_global
+
+if __name__ == '__main__':
+    d={'${access_token}': '9bf7408d-deaa-4ee9-ad36-7b4a78cb2d34', '${depId1}': 556261, '${depId2}': 556047,
+     '${parentid}': 555765, '${department}': 569511, '${userId0}': 7241577,
+     '${userId1}': '提取${userId1}参数失败,失败原因：list index out of range',
+     '${userId2}': '提取${userId2}参数失败,失败原因：list index out of range',
+     '${userId3}': '提取${userId3}参数失败,失败原因：list index out of range',
+     '${userId4}': '提取${userId4}参数失败,失败原因：list index out of range',
+     '${userId5}': '提取${userId5}参数失败,失败原因：list index out of range',
+     '${userId6}': '提取${userId6}参数失败,失败原因：list index out of range', '${department2}': 569511, '${department3}': 569513}
+    print(d['${department2}'])
+    Relevant=Relevant()
+    relevant='${roomId}=[result][data:0][roomId]'
+    res='{"result":{"data":[{"roomId":1016003,"roomName":"py匿名用户号可加入",' \
+        '"status":"1","inviteCode":"767715004","inviteStatus":true,"showMeetingControl":true}]}}'
+    Relevant.get_case_relevant(relevant,res)
+    relevant2='${clientid}=[result][data:0][id]'
+    res2='{"result":{"data":[{"id":2450556,"createTime":"2022-10-28 10:57:40","clientId":"c65f7dd5-27de-4ded-85d8-137f9a0658bc","secret":"ba720bf4-4f3c-4597-8261-bc9e981d59c6","clientName":"py自动化应用","status":true},{"id":2450557,"createTime":"2022-11-01 15:10:21","clientId":"fee23823-ee01-473f-ab89-6e56c6125497","secret":"2f4e559d-6825-4129-af4c-79de386ed4b5","clientName":"py自动化应用","status":true},{"id":2450558,"createTime":"2022-11-02 11:24:53","clientId":"318d1e1b-31ef-42e0-b9fa-8a3acdffbcab","secret":"b7852aa5-d88a-42e4-94a8-4c9d192cc326","clientName":"py自动化应用","status":true},{"id":2450559,"createTime":"2022-11-02 11:39:36","clientId":"bec13634-f205-4cbf-a777-fc97070eda55","secret":"9073b4be-ccb0-4059-acc7-381b865a8ede","clientName":"py自动化应用","status":true}],"count":4},"resCode":0,"resMessage":"success"}'
+    Relevant.get_case_relevant(relevant2, res2)
+    # a={"result":{"data":[{"roomId":1016003,"roomName":"py匿名用户号可加入",' \
+    #     '"status":"1","inviteCode":"767715004","inviteStatus":True,"showMeetingControl":True}]}}
+    # print(a['result']['data'][0]['roomId'])

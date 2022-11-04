@@ -1,0 +1,11 @@
+{
+  "roomName": "Test-周期每周",
+  "verifyMode":3,
+  "cycleFlag":1,
+   "weeks":0,
+  "enableChairPwd": 0,
+  "roomType": 1,
+  "proServicesId": 56,
+  "hopeStartTime": "2022-12-06 00:00:00",
+  "hopeEndTime": "2023-08-25 00:00:00"
+}

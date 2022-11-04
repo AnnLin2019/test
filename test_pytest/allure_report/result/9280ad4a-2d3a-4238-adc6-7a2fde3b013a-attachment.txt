@@ -1,0 +1,6 @@
+{
+  "userList": [
+  ],
+  "roomName": "Testinstant邀请人为空",
+  "maxUserCount":100
+}

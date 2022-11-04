@@ -1,0 +1,13 @@
+{
+  "roomName": "Test-周例000",
+  "verifyMode": 3,
+  "enableChairPwd": 0,
+  "roomType":2,
+  "proServicesId": 35,
+  "hopeStartTime": "2022-12-06 00:00:00",
+  "hopeEndTime": "2023-08-25 00:00:00",
+"cycleFlag":3,
+"startTime":"08:00:00",
+"endTime":"10:00:00",
+"settingTemplateInfo":{"code":"custom","id":4,"name":"自定义","params":[{"attrCode":"reserve_presenter_video","value":"true"},{"attrCode":"open_user_av_requires_request","value":"false"}],"roles":[{"code":"mentee","permissions":[{"functionCode":"operate_public_chat"},{"functionCode":"operate_private_chat"},{"functionCode":"file_share"},{"functionCode":"auto_broadcast_own_audio"},{"functionCode":"broadcast_own_audio"},{"functionCode":"auto_broadcast_own_video"},{"functionCode":"broadcast_own_video"}]}]}
+}

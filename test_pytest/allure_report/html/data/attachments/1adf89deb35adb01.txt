@@ -1,0 +1,10 @@
+{
+  "roomName": "Test-预约修改",
+  "verifyMode": 3,
+  "enableChairPwd": 0,
+  "roomType": 1,
+  "maxUserCount":1000,
+  "proServicesId": 56,
+  "hopeStartTime": "2022-12-06 00:00:00",
+  "hopeEndTime": "2023-08-25 00:00:00"
+}

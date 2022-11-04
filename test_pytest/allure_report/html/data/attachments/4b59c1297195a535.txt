@@ -1,0 +1,1 @@
+{"code":"0000","message":"SUCCESS","result":{"userId":7387375,"userName":"33362268j333","displayName":"修改的用户","password":"B59C67BF196A4758191E42F76670CEBA","userLevel":"0","userRole":1,"depId":569887,"companyId":53231}}

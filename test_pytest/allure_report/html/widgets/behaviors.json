@@ -1,0 +1,59 @@
+{
+  "total" : 5,
+  "items" : [ {
+    "uid" : "f0087bd288fea5c5a962075ba0e53a8e",
+    "name" : "boss_api_Room_testcase.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 17
+    }
+  }, {
+    "uid" : "12b27cd0588143d230286e68d819025b",
+    "name" : "boss_api_User_testcase.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 11
+    }
+  }, {
+    "uid" : "45c842e0f9b0963778cb61032dcec0b1",
+    "name" : "boss_api_Department_testcase.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "230842f11c25b41f4109ffae744cbfec",
+    "name" : "boss_api_Record_testcase-未完成.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "e2301caacffdd3d3bb56decd92cc1022",
+    "name" : "boss_api_新增多个部门和用户.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    }
+  } ]
+}

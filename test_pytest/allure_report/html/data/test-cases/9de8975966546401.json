@@ -1,0 +1,136 @@
+{
+  "uid" : "9de8975966546401",
+  "name" : "查询为空",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "fa91be630070f27a0e0488aef7f668f8",
+  "time" : {
+    "start" : 1667388904079,
+    "stop" : 1667388904182,
+    "duration" : 103
+  },
+  "description" : "请求方法是GET，请求url是/companies/rooms/${roomId},请求头是{\"content-type\":\"application/json\",\"Key-Code\":\"${keycode}\"}",
+  "descriptionHtml" : "<p>请求方法是GET，请求url是/companies/rooms/${roomId},请求头是{&quot;content-type&quot;:&quot;application/json&quot;,&quot;Key-Code&quot;:&quot;${keycode}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1667388886189,
+      "stop" : 1667388886286,
+      "duration" : 97
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "请求方法是GET，请求url是/companies/rooms/${roomId},请求头是{\"content-type\":\"application/json\",\"Key-Code\":\"${keycode}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8106cd72e822c7ef",
+      "name" : "请求参数",
+      "source" : "8106cd72e822c7ef.txt",
+      "type" : "text/plain",
+      "size" : 128
+    }, {
+      "uid" : "3edf0cd6f7806989",
+      "name" : "请求方法",
+      "source" : "3edf0cd6f7806989.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "409125c6ccdedc26",
+      "name" : "请求url",
+      "source" : "409125c6ccdedc26.txt",
+      "type" : "text/plain",
+      "size" : 57
+    }, {
+      "uid" : "8f287ccdac6df3e3",
+      "name" : "请求头",
+      "source" : "8f287ccdac6df3e3.txt",
+      "type" : "text/plain",
+      "size" : 212
+    }, {
+      "uid" : "71d17c00407cb696",
+      "name" : "提取参数",
+      "source" : "71d17c00407cb696.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "b893e23e361e44de",
+      "name" : "关联参数",
+      "source" : "b893e23e361e44de.txt",
+      "type" : "text/plain",
+      "size" : 663
+    }, {
+      "uid" : "a6456f2504ba148b",
+      "name" : "断言内容",
+      "source" : "a6456f2504ba148b.txt",
+      "type" : "text/plain",
+      "size" : 13
+    }, {
+      "uid" : "bb7b22aa262d4c17",
+      "name" : "返回结果",
+      "source" : "bb7b22aa262d4c17.txt",
+      "type" : "text/plain",
+      "size" : 400
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "boss_api_Room_testcase.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "根据ID查询会议室"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "19712-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9de8975966546401.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,136 @@
+{
+  "uid" : "b84603d47dbe1f36",
+  "name" : "修改用户，输入密码错误，不能成功修改",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "ec915d61ff2e61da617a79ee35f7f5a1",
+  "time" : {
+    "start" : 1667388916165,
+    "stop" : 1667388916266,
+    "duration" : 101
+  },
+  "description" : "请求方法是PUT，请求url是/companies/users/1415265,请求头是{\"content-type\":\"application/json\",\"Key-Code\":\"${Key-Code}\"}",
+  "descriptionHtml" : "<p>请求方法是PUT，请求url是/companies/users/1415265,请求头是{&quot;content-type&quot;:&quot;application/json&quot;,&quot;Key-Code&quot;:&quot;${Key-Code}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1667388886189,
+      "stop" : 1667388886286,
+      "duration" : 97
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "请求方法是PUT，请求url是/companies/users/1415265,请求头是{\"content-type\":\"application/json\",\"Key-Code\":\"${Key-Code}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e98ecfee0a63f76e",
+      "name" : "请求参数",
+      "source" : "e98ecfee0a63f76e.txt",
+      "type" : "text/plain",
+      "size" : 65
+    }, {
+      "uid" : "c5e6ab50eb0446d",
+      "name" : "请求方法",
+      "source" : "c5e6ab50eb0446d.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "77eeaebed1858b06",
+      "name" : "请求url",
+      "source" : "77eeaebed1858b06.txt",
+      "type" : "text/plain",
+      "size" : 57
+    }, {
+      "uid" : "398e61091bff7e54",
+      "name" : "请求头",
+      "source" : "398e61091bff7e54.txt",
+      "type" : "text/plain",
+      "size" : 212
+    }, {
+      "uid" : "30c4374b2b19ec90",
+      "name" : "提取参数",
+      "source" : "30c4374b2b19ec90.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "61bca9926572a750",
+      "name" : "关联参数",
+      "source" : "61bca9926572a750.txt",
+      "type" : "text/plain",
+      "size" : 727
+    }, {
+      "uid" : "5b5b3d90115b2af5",
+      "name" : "断言内容",
+      "source" : "5b5b3d90115b2af5.txt",
+      "type" : "text/plain",
+      "size" : 72
+    }, {
+      "uid" : "fe4bba666ba22f27",
+      "name" : "返回结果",
+      "source" : "fe4bba666ba22f27.txt",
+      "type" : "text/plain",
+      "size" : 73
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "boss_api_User_testcase.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "按用户Id修改用户"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "19712-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b84603d47dbe1f36.json",
+  "parameterValues" : [ ]
+}

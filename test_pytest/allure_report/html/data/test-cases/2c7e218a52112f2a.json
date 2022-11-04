@@ -1,0 +1,136 @@
+{
+  "uid" : "2c7e218a52112f2a",
+  "name" : "注册单个用户，密码类型为1，密码输入不为MD5不能成功注册",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "29a57adafe98a85b6c185e154649e714",
+  "time" : {
+    "start" : 1667388912121,
+    "stop" : 1667388912215,
+    "duration" : 94
+  },
+  "description" : "请求方法是POST，请求url是/companies/users,请求头是{\"content-type\":\"application/json\",\"Key-Code\":\"${Key-Code}\"}",
+  "descriptionHtml" : "<p>请求方法是POST，请求url是/companies/users,请求头是{&quot;content-type&quot;:&quot;application/json&quot;,&quot;Key-Code&quot;:&quot;${Key-Code}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1667388886189,
+      "stop" : 1667388886286,
+      "duration" : 97
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "请求方法是POST，请求url是/companies/users,请求头是{\"content-type\":\"application/json\",\"Key-Code\":\"${Key-Code}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "301696ecc38f0849",
+      "name" : "请求参数",
+      "source" : "301696ecc38f0849.txt",
+      "type" : "text/plain",
+      "size" : 89
+    }, {
+      "uid" : "654875e792ee3f92",
+      "name" : "请求方法",
+      "source" : "654875e792ee3f92.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "532301816ceb0ddd",
+      "name" : "请求url",
+      "source" : "532301816ceb0ddd.txt",
+      "type" : "text/plain",
+      "size" : 49
+    }, {
+      "uid" : "877a24b2763f9f76",
+      "name" : "请求头",
+      "source" : "877a24b2763f9f76.txt",
+      "type" : "text/plain",
+      "size" : 212
+    }, {
+      "uid" : "72158e1a73c4f7f8",
+      "name" : "提取参数",
+      "source" : "72158e1a73c4f7f8.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "33f92091c0f8b4ff",
+      "name" : "关联参数",
+      "source" : "33f92091c0f8b4ff.txt",
+      "type" : "text/plain",
+      "size" : 727
+    }, {
+      "uid" : "4d5dc5f903ea71d9",
+      "name" : "断言内容",
+      "source" : "4d5dc5f903ea71d9.txt",
+      "type" : "text/plain",
+      "size" : 57
+    }, {
+      "uid" : "2c0549d24bb163b0",
+      "name" : "返回结果",
+      "source" : "2c0549d24bb163b0.txt",
+      "type" : "text/plain",
+      "size" : 58
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "boss_api_User_testcase.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "单个注册用户"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "19712-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c7e218a52112f2a.json",
+  "parameterValues" : [ ]
+}

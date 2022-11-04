@@ -1,0 +1,136 @@
+{
+  "uid" : "92e2cfb0370bc486",
+  "name" : "删除部门，参数输入正确的部门ID，级联删除，返回成功",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "d2a3fd011cc46463b3b5e204c76d6478",
+  "time" : {
+    "start" : 1667388890933,
+    "stop" : 1667388891091,
+    "duration" : 158
+  },
+  "description" : "请求方法是DELETE，请求url是/companies/departments/${depId}?isCascad=1,请求头是{\"content-type\":\"application/json\",\"Key-Code\":\"${Key-Code}\"}",
+  "descriptionHtml" : "<p>请求方法是DELETE，请求url是/companies/departments/${depId}?isCascad=1,请求头是{&quot;content-type&quot;:&quot;application/json&quot;,&quot;Key-Code&quot;:&quot;${Key-Code}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1667388886189,
+      "stop" : 1667388886286,
+      "duration" : 97
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "请求方法是DELETE，请求url是/companies/departments/${depId}?isCascad=1,请求头是{\"content-type\":\"application/json\",\"Key-Code\":\"${Key-Code}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "364be7387bb3951f",
+      "name" : "请求参数",
+      "source" : "364be7387bb3951f.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "5fd7d0de2bc32623",
+      "name" : "请求方法",
+      "source" : "5fd7d0de2bc32623.txt",
+      "type" : "text/plain",
+      "size" : 6
+    }, {
+      "uid" : "171aee48949759da",
+      "name" : "请求url",
+      "source" : "171aee48949759da.txt",
+      "type" : "text/plain",
+      "size" : 73
+    }, {
+      "uid" : "de2a849a34165857",
+      "name" : "请求头",
+      "source" : "de2a849a34165857.txt",
+      "type" : "text/plain",
+      "size" : 212
+    }, {
+      "uid" : "7847f8343b125fd",
+      "name" : "提取参数",
+      "source" : "7847f8343b125fd.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "a2a69c619394f21f",
+      "name" : "关联参数",
+      "source" : "a2a69c619394f21f.txt",
+      "type" : "text/plain",
+      "size" : 220
+    }, {
+      "uid" : "d9b712dbd41f8e46",
+      "name" : "断言内容",
+      "source" : "d9b712dbd41f8e46.txt",
+      "type" : "text/plain",
+      "size" : 13
+    }, {
+      "uid" : "60a493c8a0b3e533",
+      "name" : "返回结果",
+      "source" : "60a493c8a0b3e533.txt",
+      "type" : "text/plain",
+      "size" : 35
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "boss_api_Department_testcase.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "单个删除部门"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "19712-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "92e2cfb0370bc486.json",
+  "parameterValues" : [ ]
+}

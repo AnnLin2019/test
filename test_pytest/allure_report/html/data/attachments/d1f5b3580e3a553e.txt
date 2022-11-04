@@ -1,0 +1,8 @@
+{
+  "userList": [
+   2594195,
+    3128853
+  ],
+  "roomName": "Testinstant",
+  "maxUserCount":100
+}

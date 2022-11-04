@@ -1,0 +1,1 @@
+{"code":"0000","message":"SUCCESS","result":[{"companyId":53231,"depId":550865,"depName":"自动化测试的下级部门","parentDepId":550509}]}
