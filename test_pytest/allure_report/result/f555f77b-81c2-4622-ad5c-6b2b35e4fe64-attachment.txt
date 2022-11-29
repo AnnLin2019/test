@@ -1,0 +1,1 @@
+{"areaCode": "+86","departmentId":"${department}","displayName": "test密码小于6位","password": "12345","status": 1,"type": 1,"userLevel":0,"userName":"$<random.randint(13000000000,13999999999)>"}

@@ -1,0 +1,142 @@
+{
+  "uid" : "40bb27fa802f9057",
+  "name" : "批量修改密码成功",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "b728f3890cad9c6ec0c64aff4a1996c8",
+  "time" : {
+    "start" : 1669345855440,
+    "stop" : 1669345855644,
+    "duration" : 204
+  },
+  "description" : "请求方法是 PATCH，请求url是 /api/customer/users/password,请求头是 {\"content-type\":\"application/json\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 PATCH，请求url是 /api/customer/users/password,请求头是 {&quot;content-type&quot;:&quot;application/json&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 PATCH，请求url是 /api/customer/users/password,请求头是 {\"content-type\":\"application/json\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a9b7ac282345f66b",
+      "name" : "请求参数",
+      "source" : "a9b7ac282345f66b.txt",
+      "type" : "text/plain",
+      "size" : 69
+    }, {
+      "uid" : "77dfc6fe854d9754",
+      "name" : "请求方法",
+      "source" : "77dfc6fe854d9754.txt",
+      "type" : "text/plain",
+      "size" : 5
+    }, {
+      "uid" : "a0371245006c4968",
+      "name" : "请求url",
+      "source" : "a0371245006c4968.txt",
+      "type" : "text/plain",
+      "size" : 58
+    }, {
+      "uid" : "5b7334b5056b054c",
+      "name" : "请求头",
+      "source" : "5b7334b5056b054c.txt",
+      "type" : "text/plain",
+      "size" : 100
+    }, {
+      "uid" : "191b449a98db559d",
+      "name" : "提取参数",
+      "source" : "191b449a98db559d.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "97aacc61c10182c",
+      "name" : "关联参数",
+      "source" : "97aacc61c10182c.txt",
+      "type" : "text/plain",
+      "size" : 3751
+    }, {
+      "uid" : "6ac10ac38df2b365",
+      "name" : "断言内容",
+      "source" : "6ac10ac38df2b365.txt",
+      "type" : "text/plain",
+      "size" : 11
+    }, {
+      "uid" : "837814c10eafa702",
+      "name" : "返回结果",
+      "source" : "837814c10eafa702.txt",
+      "type" : "text/plain",
+      "size" : 36
+    }, {
+      "uid" : "b3b46f88eae23a4",
+      "name" : "log",
+      "source" : "b3b46f88eae23a4.txt",
+      "type" : "text/plain",
+      "size" : 871
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "user_Companycustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "批量修改密码"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40bb27fa802f9057.json",
+  "parameterValues" : [ ]
+}

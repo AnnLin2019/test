@@ -1,1 +1,0 @@
-{"userName":"33362268j333","password":"123456","passwordType":"0","nickName":"325353","depId":"${depId2}"}

@@ -1,0 +1,15 @@
+INFO     root:test_api_all.py:83 验证短信验证码是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 验证短信验证码**********
+INFO     root:test_api_all.py:216 请求方法GET，请求头{'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'bearer f91d10dc-6a9e-4d3b-a317-2110e61ef5b5'},请求接口https://bss-api.haoshitong.com/open/verification/eef60354cae7491a9b0b66668c1ee41c?code=900752
+INFO     root:test_api_all.py:217 请求参数:
+None,
+请求文件None
+INFO     root:test_api_all.py:225 请求方法 GET，
+请求头 {'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'bearer f91d10dc-6a9e-4d3b-a317-2110e61ef5b5'},
+请求接口 https://bss-api.haoshitong.com/open/verification/eef60354cae7491a9b0b66668c1ee41c?code=900752
+INFO     root:test_api_all.py:226 请求参数 None,
+请求文件 None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "GET /open/verification/eef60354cae7491a9b0b66668c1ee41c?code=900752 HTTP/1.1" 200 None
+INFO     root:test_api_all.py:230 返回:
+ {"result":true,"resCode":0,"resMessage":"success"}

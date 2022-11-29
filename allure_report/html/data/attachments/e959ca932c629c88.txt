@@ -1,0 +1,1 @@
+INFO     root:test_api_all.py:83 查询企业信息是否自动化： NO

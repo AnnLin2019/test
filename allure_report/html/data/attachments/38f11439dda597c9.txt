@@ -1,0 +1,1 @@
+{"result":{"data":[{"roomId":317823,"roomName":"本地轮巡勿动","maxUserCount":30,"status":"1","onlineUserCount":2,"remainingUserCount":28}],"count":1,"totalUserCount":2},"resCode":0,"resMessage":"success"}

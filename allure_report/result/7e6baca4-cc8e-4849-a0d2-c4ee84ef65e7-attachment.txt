@@ -1,0 +1,12 @@
+INFO     root:test_api_all.py:83 GetRoomCurDevID服务是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 GetRoomCurDevID服务**********
+INFO     root:test_api_all.py:193 请求方法 ICE，ip 47.113.118.87,端口 33001，接口 GetRoomCurDevID，
+INFO     root:test_api_all.py:194 请求参数 
+{"roomNodeID":"1","roomID":1015199}
+INFO     root:test_api_all.py:198 返回
+(0, 
+{
+    onlines = 0
+    maxCount = 100
+    curDevID = fsp2-as3
+})

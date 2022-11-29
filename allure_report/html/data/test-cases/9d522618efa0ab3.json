@@ -1,0 +1,142 @@
+{
+  "uid" : "9d522618efa0ab3",
+  "name" : "获取录制配置，开启录制",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "6765acb37c0c14a2f243c11ae96a3894",
+  "time" : {
+    "start" : 1669345842026,
+    "stop" : 1669345842164,
+    "duration" : 138
+  },
+  "description" : "请求方法是 GET，请求url是 /api/meeting/record/config,请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 GET，请求url是 /api/meeting/record/config,请求头是 {&quot;content-type&quot;:&quot;application/x-www-form-urlencoded&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 GET，请求url是 /api/meeting/record/config,请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "56ce3e0264f6f176",
+      "name" : "请求参数",
+      "source" : "56ce3e0264f6f176.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "818f3f087ebcaf4",
+      "name" : "请求方法",
+      "source" : "818f3f087ebcaf4.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "b53d5b077b822f75",
+      "name" : "请求url",
+      "source" : "b53d5b077b822f75.txt",
+      "type" : "text/plain",
+      "size" : 56
+    }, {
+      "uid" : "c04ac763fe437673",
+      "name" : "请求头",
+      "source" : "c04ac763fe437673.txt",
+      "type" : "text/plain",
+      "size" : 117
+    }, {
+      "uid" : "4604ec1078661e19",
+      "name" : "提取参数",
+      "source" : "4604ec1078661e19.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "b6ccb1dbb72d12a",
+      "name" : "关联参数",
+      "source" : "b6ccb1dbb72d12a.txt",
+      "type" : "text/plain",
+      "size" : 3444
+    }, {
+      "uid" : "5b7cd006d00dee62",
+      "name" : "断言内容",
+      "source" : "5b7cd006d00dee62.txt",
+      "type" : "text/plain",
+      "size" : 15
+    }, {
+      "uid" : "56068a7e46a48411",
+      "name" : "返回结果",
+      "source" : "56068a7e46a48411.txt",
+      "type" : "text/plain",
+      "size" : 248
+    }, {
+      "uid" : "9116ddfbe29b35a7",
+      "name" : "log",
+      "source" : "9116ddfbe29b35a7.txt",
+      "type" : "text/plain",
+      "size" : 1052
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Room_Companycustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "录制配置修改和获取录制配置"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d522618efa0ab3.json",
+  "parameterValues" : [ ]
+}

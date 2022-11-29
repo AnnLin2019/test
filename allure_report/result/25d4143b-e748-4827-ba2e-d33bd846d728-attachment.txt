@@ -1,0 +1,1 @@
+{"result":{"id":335239,"name":"授权会议室-勿动","link":"https://ws.haoshitong.com/room/47U8WmMVw2","inviteCode":"650838333","enablePassword":false,"password":null,"enableChairPassword":false,"chairPassword":null,"menteeAdvance":true,"verifyMode":1,"maxUserCount":30,"autoRecord":false,"status":1,"serviceId":35},"resCode":0,"resMessage":"success"}

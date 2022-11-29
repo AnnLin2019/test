@@ -1,0 +1,1 @@
+{"result":{"autoRecord":0,"start":null,"end":null,"resolution":"1920*1080","recordMode":1,"videoMode":1,"dataMode":1,"sliceTime":10,"autoCloseTime":10,"timestampInfo":{"switch":0,"location":1},"liveRecordMode":0},"resCode":0,"resMessage":"success"}

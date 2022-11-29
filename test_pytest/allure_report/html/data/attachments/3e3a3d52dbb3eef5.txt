@@ -1,5 +1,0 @@
-{
-  "userId": 2594195,
-  "pageNo": 1,
-  "pageSize": 15
-}

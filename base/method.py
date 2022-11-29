@@ -36,8 +36,11 @@ class ApiRequest(object):
         # print("upload.files:", type(files))
         # print("method:{}.url:{},files:{}".format(method,url,files))
         # print("headers:{}".format(headers))
+        # fileparam = eval(repr(files))
         fileparam = eval(files)
+        print("fileparam:",fileparam)
         for key in fileparam:
+            # fileparam[key]=os.path.abspath(fileparam[key]) #20221108优化路径转义字符
             openfile = open(fileparam[key], 'rb')
             importfile = {key: openfile}
         res=requests.request(method=method,url=url,data=data,params=params,headers=headers,cookies=cookies,json=json,files=importfile,auth=auth,timeout=timeout,proxies=proxies,verify=verify,cert=cert)
@@ -59,7 +62,8 @@ class ApiRequest(object):
         :param varname:被测服务参数名
         :return: 打印接口返回值
         '''
-        path=Path('./').cwd().parent.joinpath('slicepy2')
+        # path=Path('./').cwd().parent.joinpath('slicepy2')
+        path = Path('./').cwd().joinpath('slicepy2')
         path_new=str(path).replace('\\', '\\\\')
         sys.path.insert(0, path_new)
         self.status=0
@@ -124,6 +128,98 @@ class ApiRequest(object):
 
         sys.exit(self.status)
 
+ # def request_Ice(self,PaIsMoCl=0,rootService='',ip='', port=0, model='', proxy_name='', othermodel='', ModelClass_name='', iceservice='',param={},varname=()):
+ #        '''
+ #        :param :PaIsMoCl:请求接口时，参数需要调用另一个模块的类的返回值作为入参则为1；直接用*args入参，则为0
+ #        :param :rootService:接口模块的根文件名
+ #        :param :ip:服务器地址
+ #        :param port: 服务器端口
+ #        :param model: 被测服务根模块名
+ #        :param proxy_name: 代理的方法名
+ #        :param othermodel: 参数需要调用另一个模块时，另一个模块名
+ #        :param ModelClass_name: 参数需要调用另一个模块的类，该类名
+ #        :param iceservice: 被测服务名（具体）
+ #        :param params:被测服务参数
+ #        :param varname:被测服务参数名
+ #        :return: 打印接口返回值
+ #        '''
+ #        new_path=os.path.join(os.getcwd(), 'slicepy2')
+ #        #sys.path.append(os.path.join(os.getcwd(), rootService))
+ #        sys.path.insert(0, new_path)
+ #        # print("sys.path:", sys.path)
+ #        icecall=ICE_call.ICECall() #
+ #        self.status = 0
+ #        ic = None
+ #        try:
+ #            # 初始化运行环境
+ #            ic = Ice.initialize(sys.argv)
+ #
+ #            # 获取远程companyService服务的代理
+ #            Ip = str(rootService) + ":default -h " + str(ip) + " -p " + str(port)
+ #            base = ic.stringToProxy(Ip)
+ #            import_model = importlib.import_module(model)  # 动态导入com.fastonz.fmserver.companyMgr
+ #            cls = inspect.getmembers(import_model, inspect.isclass)
+ #            # print("类：",cls)
+ #            proxy = getattr(import_model, proxy_name)  # CompanyServicePrx类
+ #            # print(proxy)
+ #            Service = proxy.checkedCast(base)
+ #
+ #            if not Service:
+ #                raise RuntimeError("Invalid Proxy")
+ #
+ #            # 远程调用，看起来像本地的服务一样
+ #            if PaIsMoCl == 1:  # 请求接口时，参数需要调用另一个模块的类
+ #                import_othermodel = importlib.import_module(othermodel)
+ #                ModelCl = getattr(import_othermodel, ModelClass_name)  # 调用的类
+ #                t = icecall.GetinitVarNotSelf(ModelCl)  # 提取调用类所需的参数对应的参数名
+ #                a = icecall.DictToArgs(param, t)  # 入参（字典）按照提取的参数名的顺序排序
+ #                params = ModelCl(*a)  # *a 一个列表里的各个值作为单独的参数传递
+ #                print("ssssssparams：",params)
+ #                res = eval('Service.%s' % iceservice)(params)  # 把string变量转换成相应函数
+ #                print("=================================================")
+ #            elif PaIsMoCl == 0:  # 请求接口时，参数不需要调用另一个模块的类，直接使用输入的参数
+ #                varlist = list(varname)
+ #                a = icecall.DictToArgs(param, varname)  # 入参（字典）按照提取的参数名的顺序排序
+ #                # print(type(a))
+ #                try:
+ #                    if isinstance(a, dict):
+ #                        res = eval('Service.%s' % iceservice)(**a)  # 把string变量转换成相应函数
+ #                    else:
+ #                        res = eval('Service.%s' % iceservice)(*a)  # 把string变量转换成相应函数
+ #                except Exception as e:
+ #                    res=str(e)
+ #            elif PaIsMoCl==2:  #请求commonService调用接口
+ #                params=list(param)
+ #                if len(params)==3:
+ #                    byarray=bytearray(params[2],encoding='utf-8')
+ #                    import_othermodel = importlib.import_module(othermodel)
+ #                    ModelCl = getattr(import_othermodel, ModelClass_name)  # 调用的类
+ #                    # model=com.hst.boss.model.Request(params[0],params[1],byarray)
+ #                    model= ModelCl(params[0],params[1],byarray)
+ #                    tresutlt=Service.invoke(model)
+ #                    res = tresutlt[1].result.decode('utf-8')
+ #                else:
+ #                    res="params is invalid"
+ #            else:
+ #                res="PaIsMoCl is invalid value"
+ #            return res
+ #
+ #        except:
+ #            e=traceback.print_exc()
+ #            self.status = 1
+ #            logging.info("出现异常，异常消息：" + str(e))
+ #            # return 'Fail'
+ #        finally:
+ #            if ic:
+ #                # Clean up
+ #                try:
+ #                    ic.destroy()
+ #                    print("--------------------------------------------------------------------------------")
+ #                except:
+ #                    traceback.print_exc()
+ #                    self.status = 1
+ #
+ #        sys.exit(self.status)
 
 
 

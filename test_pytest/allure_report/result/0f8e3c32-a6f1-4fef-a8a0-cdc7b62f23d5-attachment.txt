@@ -1,1 +1,0 @@
-{"code":"0000","message":"SUCCESS","result":{"companyId":53231,"depId":550509,"depName":"自动化勿动","parentDepId":0}}

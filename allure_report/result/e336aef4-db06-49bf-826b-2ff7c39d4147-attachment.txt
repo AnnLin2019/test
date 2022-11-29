@@ -1,0 +1,1 @@
+INFO     root:test_api_all.py:83 登录dal机器，获取短信验证码、图形验证码是否自动化： NO

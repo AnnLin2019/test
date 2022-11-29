@@ -1,0 +1,1 @@
+{"areaCode":"+86","departmentId":"${department}","type":2,"userName":"testpyauto@@hst.com","password":"123456","displayName":"修改邮箱格式错误","userLevel":0,"status":1}

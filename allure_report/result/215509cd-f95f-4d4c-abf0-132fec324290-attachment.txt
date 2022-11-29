@@ -1,0 +1,11 @@
+INFO     root:test_api_all.py:83 修改密码成功是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 修改密码成功**********
+INFO     root:test_api_all.py:204 请求方法PATCH，
+请求头{'content-type': 'application/json', 'Authorization': 'bearer f91d10dc-6a9e-4d3b-a317-2110e61ef5b5'},
+请求接口https://bss-api.haoshitong.com/api/v1/users/profile/password
+INFO     root:test_api_all.py:205 请求参数:
+{"oldPassword":"123456","newPassword":"000000"},
+请求文件:None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "PATCH /api/v1/users/profile/password HTTP/1.1" 200 None
+INFO     root:test_api_all.py:210 返回{"resCode":0,"resMessage":"success"}

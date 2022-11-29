@@ -1,0 +1,142 @@
+{
+  "uid" : "e534b7b3705dac07",
+  "name" : "不启用管理员密码，新增成功",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "03ac75ecd68f22325e936d4589ac2581",
+  "time" : {
+    "start" : 1669345829134,
+    "stop" : 1669345829358,
+    "duration" : 224
+  },
+  "description" : "请求方法是 POST，请求url是 /api/meetings,请求头是 {\"content-type\":\"application/json\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 POST，请求url是 /api/meetings,请求头是 {&quot;content-type&quot;:&quot;application/json&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 POST，请求url是 /api/meetings,请求头是 {\"content-type\":\"application/json\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f39dda9278343b40",
+      "name" : "请求参数",
+      "source" : "f39dda9278343b40.txt",
+      "type" : "text/plain",
+      "size" : 1286
+    }, {
+      "uid" : "34a685808458d9e2",
+      "name" : "请求方法",
+      "source" : "34a685808458d9e2.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "d265e272c31d49b9",
+      "name" : "请求url",
+      "source" : "d265e272c31d49b9.txt",
+      "type" : "text/plain",
+      "size" : 43
+    }, {
+      "uid" : "a13433a95cf99aed",
+      "name" : "请求头",
+      "source" : "a13433a95cf99aed.txt",
+      "type" : "text/plain",
+      "size" : 100
+    }, {
+      "uid" : "c61fe2cc26bc13e0",
+      "name" : "提取参数",
+      "source" : "c61fe2cc26bc13e0.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "a48860781a705fd1",
+      "name" : "关联参数",
+      "source" : "a48860781a705fd1.txt",
+      "type" : "text/plain",
+      "size" : 3109
+    }, {
+      "uid" : "ebb0ddbae906d201",
+      "name" : "断言内容",
+      "source" : "ebb0ddbae906d201.txt",
+      "type" : "text/plain",
+      "size" : 11
+    }, {
+      "uid" : "7c596d621294e7b4",
+      "name" : "返回结果",
+      "source" : "7c596d621294e7b4.txt",
+      "type" : "text/plain",
+      "size" : 36
+    }, {
+      "uid" : "ae8d3deda10a06e",
+      "name" : "log",
+      "source" : "ae8d3deda10a06e.txt",
+      "type" : "text/plain",
+      "size" : 2095
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Room_Companycustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "企业会议增加"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e534b7b3705dac07.json",
+  "parameterValues" : [ ]
+}

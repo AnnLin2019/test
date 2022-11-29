@@ -1,0 +1,17 @@
+INFO     root:test_api_all.py:83 注册海外手机号，注册成功是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 注册海外手机号，注册成功**********
+INFO     root:test_api_all.py:204 请求方法POST，
+请求头{'content-type': 'application/json'},
+请求接口https://bss-api.haoshitong.com/open/customer
+INFO     root:test_api_all.py:205 请求参数:
+{
+  "areaCode": "+33",
+  "smsCode": "405268",
+  "mobile": "644631731",
+  "password": "KSVH2JyzhH39WnH8bNuwDetoWjj5b8xuNWQGMHTW2d6mlEJboFARCP1rrj0RZZy+2QiJ3LVu9Hmdggkxw1U9ZF4y1LJBs3h10pIRZqWgoeWfcWUYJ7Fub1K3uTxl1VQF",
+  "name": "autopy海外手机注册"
+},
+请求文件:None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "POST /open/customer HTTP/1.1" 200 None
+INFO     root:test_api_all.py:210 返回{"resCode":0,"resMessage":"success"}

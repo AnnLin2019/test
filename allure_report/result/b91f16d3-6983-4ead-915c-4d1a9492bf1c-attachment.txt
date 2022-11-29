@@ -1,0 +1,1 @@
+{"resCode":20027,"resMessage":"customer.user.not.allow.add.enterprise.admin"}

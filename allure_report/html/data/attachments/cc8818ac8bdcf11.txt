@@ -1,0 +1,1 @@
+{"result":{"userId":7447301,"departmentId":570367,"departmentName":"testpyautotest","userName":"testemail001@hst.com","areaCode":"+86","mobile":null,"email":"testemail001@hst.com","password":"E10ADC3949BA59ABBE56E057F20F883E","displayName":"test邮箱类型","userLevel":0,"status":1},"resCode":0,"resMessage":"success"}

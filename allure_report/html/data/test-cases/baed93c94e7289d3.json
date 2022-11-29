@@ -1,0 +1,148 @@
+{
+  "uid" : "baed93c94e7289d3",
+  "name" : "导入非excel格式，导入失败",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "f31a2d0d4dcf91d11ea5b7ef54b6f437",
+  "time" : {
+    "start" : 1669345864358,
+    "stop" : 1669345864508,
+    "duration" : 150
+  },
+  "description" : "请求方法是 POST，请求url是 /api/customer/import,请求头是 {\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 POST，请求url是 /api/customer/import,请求头是 {&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 POST，请求url是 /api/customer/import,请求头是 {\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dacc3a061ad7b265",
+      "name" : "请求参数",
+      "source" : "dacc3a061ad7b265.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "6d579f0eac3e8d1c",
+      "name" : "上传文件",
+      "source" : "6d579f0eac3e8d1c.txt",
+      "type" : "text/plain",
+      "size" : 52
+    }, {
+      "uid" : "309b951602fc8a1b",
+      "name" : "请求方法",
+      "source" : "309b951602fc8a1b.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "bd59ec548c097566",
+      "name" : "请求url",
+      "source" : "bd59ec548c097566.txt",
+      "type" : "text/plain",
+      "size" : 50
+    }, {
+      "uid" : "d4fc3f1e23809657",
+      "name" : "请求头",
+      "source" : "d4fc3f1e23809657.txt",
+      "type" : "text/plain",
+      "size" : 64
+    }, {
+      "uid" : "5678879725c8c45f",
+      "name" : "提取参数",
+      "source" : "5678879725c8c45f.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "364db4b8cf33e04a",
+      "name" : "关联参数",
+      "source" : "364db4b8cf33e04a.txt",
+      "type" : "text/plain",
+      "size" : 3777
+    }, {
+      "uid" : "4725c19e3c225ade",
+      "name" : "断言内容",
+      "source" : "4725c19e3c225ade.txt",
+      "type" : "text/plain",
+      "size" : 11
+    }, {
+      "uid" : "40f2204b08d81ee7",
+      "name" : "返回结果",
+      "source" : "40f2204b08d81ee7.txt",
+      "type" : "text/plain",
+      "size" : 71
+    }, {
+      "uid" : "865ff8837aeb6812",
+      "name" : "log",
+      "source" : "865ff8837aeb6812.txt",
+      "type" : "text/plain",
+      "size" : 881
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 10,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "user_Companycustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "企业客户-导入用户"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "baed93c94e7289d3.json",
+  "parameterValues" : [ ]
+}

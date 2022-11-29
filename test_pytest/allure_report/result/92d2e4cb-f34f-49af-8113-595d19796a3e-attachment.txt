@@ -1,1 +1,0 @@
-${roomId5}=[result][roomId]

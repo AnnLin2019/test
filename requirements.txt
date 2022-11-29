@@ -1,0 +1,13 @@
+
+pytest
+zeroc-ice
+Ice
+robot
+robotframework
+pymql
+sshtunnel
+openpyxl
+allure
+allure-pytest
+allure-python-commons
+pycryptodome

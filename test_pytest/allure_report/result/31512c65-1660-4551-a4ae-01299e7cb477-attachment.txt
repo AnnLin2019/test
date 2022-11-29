@@ -1,1 +1,0 @@
-{"grant_type":"password","username":"190H","password":"123456"}

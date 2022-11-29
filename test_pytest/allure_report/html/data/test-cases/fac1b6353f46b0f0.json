@@ -1,0 +1,100 @@
+{
+  "uid" : "fac1b6353f46b0f0",
+  "name" : "删除海外手机的数据",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "4aec2aed99ac5b428b33b91947a9db23",
+  "time" : {
+    "start" : 1667807230566,
+    "stop" : 1667807231414,
+    "duration" : 848
+  },
+  "description" : "数据库连接信息：ssh_address 120.24.43.28，host 127.0.0.1",
+  "descriptionHtml" : "<p>数据库连接信息：ssh_address 120.24.43.28，host 127.0.0.1</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1667807229409,
+      "stop" : 1667807229581,
+      "duration" : 172
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "数据库连接信息：ssh_address 120.24.43.28，host 127.0.0.1",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c60aa864fc03751f",
+      "name" : "sql语句",
+      "source" : "c60aa864fc03751f.txt",
+      "type" : "text/plain",
+      "size" : 503
+    }, {
+      "uid" : "3a649353146f4ac6",
+      "name" : "执行结果",
+      "source" : "3a649353146f4ac6.txt",
+      "type" : "text/plain",
+      "size" : 4
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "BeforeLogin_customer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "PrepareSql"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "34876-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fac1b6353f46b0f0.json",
+  "parameterValues" : [ ]
+}

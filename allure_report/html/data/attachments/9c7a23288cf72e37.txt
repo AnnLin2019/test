@@ -1,0 +1,1 @@
+${id0}=[result][id];${type0}=[result][type];${roomId0}=[result][roomId]

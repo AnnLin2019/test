@@ -1,8 +1,0 @@
-{
- "roomId": ${roomId},  
-"userId": 2594195,
-  "startTime": "2022-06-22 00:00:00",
-  "endTime": "2022-06-25 00:00:00",
-  "pageNo": 1,
-  "pageSize": 15
-}

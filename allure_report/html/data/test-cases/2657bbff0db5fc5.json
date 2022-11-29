@@ -1,0 +1,142 @@
+{
+  "uid" : "2657bbff0db5fc5",
+  "name" : "发送上传日志命令，发送成功",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "29a57adafe98a85b6c185e154649e714",
+  "time" : {
+    "start" : 1669345847581,
+    "stop" : 1669345847781,
+    "duration" : 200
+  },
+  "description" : "请求方法是 POST，请求url是 /api/v1/terminal/command,请求头是 {\"content-type\":\"application/json\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 POST，请求url是 /api/v1/terminal/command,请求头是 {&quot;content-type&quot;:&quot;application/json&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 POST，请求url是 /api/v1/terminal/command,请求头是 {\"content-type\":\"application/json\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "33fcf853311c2fa1",
+      "name" : "请求参数",
+      "source" : "33fcf853311c2fa1.txt",
+      "type" : "text/plain",
+      "size" : 56
+    }, {
+      "uid" : "f5bb1e590f83001b",
+      "name" : "请求方法",
+      "source" : "f5bb1e590f83001b.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "bcaf9fe01af0c820",
+      "name" : "请求url",
+      "source" : "bcaf9fe01af0c820.txt",
+      "type" : "text/plain",
+      "size" : 54
+    }, {
+      "uid" : "bda165c297665145",
+      "name" : "请求头",
+      "source" : "bda165c297665145.txt",
+      "type" : "text/plain",
+      "size" : 100
+    }, {
+      "uid" : "3075b23631556044",
+      "name" : "提取参数",
+      "source" : "3075b23631556044.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "a899943afe7e7e2a",
+      "name" : "关联参数",
+      "source" : "a899943afe7e7e2a.txt",
+      "type" : "text/plain",
+      "size" : 3542
+    }, {
+      "uid" : "7a06f90b989af82d",
+      "name" : "断言内容",
+      "source" : "7a06f90b989af82d.txt",
+      "type" : "text/plain",
+      "size" : 11
+    }, {
+      "uid" : "18d1957bcc901426",
+      "name" : "返回结果",
+      "source" : "18d1957bcc901426.txt",
+      "type" : "text/plain",
+      "size" : 50
+    }, {
+      "uid" : "b6a08c649dc7eee9",
+      "name" : "log",
+      "source" : "b6a08c649dc7eee9.txt",
+      "type" : "text/plain",
+      "size" : 890
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Terminal_Companycustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "终端发送命令接口"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2657bbff0db5fc5.json",
+  "parameterValues" : [ ]
+}

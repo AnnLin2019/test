@@ -1,0 +1,1 @@
+INFO     root:test_api_all.py:83 查询其他企业会议室的快速签到数据是否自动化： NO

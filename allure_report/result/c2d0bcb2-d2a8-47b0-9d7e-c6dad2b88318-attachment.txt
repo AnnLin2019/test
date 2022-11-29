@@ -1,0 +1,1 @@
+https://bss-api.haoshitong.com/api/meetings/335237/authorizations?id=335237&userRight=0&page=1&size=10

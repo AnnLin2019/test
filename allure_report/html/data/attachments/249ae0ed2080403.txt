@@ -1,0 +1,1 @@
+{"result":{"id":306359,"name":"10方会议室测试接口","link":"https://ws.haoshitong.com/room/4AupvSMXiC","inviteCode":"987854850","enablePassword":false,"password":null,"enableChairPassword":false,"chairPassword":null,"menteeAdvance":true,"verifyMode":3,"maxUserCount":30,"autoRecord":null,"status":1,"serviceId":48},"resCode":0,"resMessage":"success"}

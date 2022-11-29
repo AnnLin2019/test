@@ -1,0 +1,95 @@
+{
+  "uid" : "d0e345adc24a975d",
+  "name" : "2",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "45e19123d353605abd7d030a8f8db50e",
+  "time" : {
+    "start" : 1669345842654,
+    "stop" : 1669345842654,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: this test is skipped",
+  "statusTrace" : "('F:\\\\Test\\\\Interface\\\\Python自动化\\\\git_api\\\\test\\\\test_api_all.py', 285, 'Skipped: this test is skipped')",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "skipped",
+    "statusMessage" : "Skipped: this test is skipped",
+    "statusTrace" : "('F:\\\\Test\\\\Interface\\\\Python自动化\\\\git_api\\\\test\\\\test_api_all.py', 285, 'Skipped: this test is skipped')",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ca711608f0e94f85",
+      "name" : "log",
+      "source" : "ca711608f0e94f85.txt",
+      "type" : "text/plain",
+      "size" : 56
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Room_Companycustomer2_onlineroom未解决入会.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "PrepareSql"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0e345adc24a975d.json",
+  "parameterValues" : [ ]
+}

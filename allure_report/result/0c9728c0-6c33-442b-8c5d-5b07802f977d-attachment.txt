@@ -1,0 +1,10 @@
+INFO     root:test_api_all.py:83 授权角色为空，默认为参会人是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 授权角色为空，默认为参会人**********
+INFO     root:test_api_all.py:216 请求方法POST，请求头{'Authorization': 'bearer cdd2a5df-e441-4bda-a36c-737d2b2903cf'},请求接口https://bss-api.haoshitong.com/api/meetings/948947/authorizations/excel
+INFO     root:test_api_all.py:217 请求参数:
+{},
+请求文件{"file":"F:/Test/Interface/Python自动化/git_api/test/data\\会议授权模板无角色.xlsx"}
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "POST /api/meetings/948947/authorizations/excel HTTP/1.1" 200 None
+INFO     root:test_api_all.py:220 返回:
+ {"result":[],"resCode":0,"resMessage":"success"}

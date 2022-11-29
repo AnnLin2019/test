@@ -5,10 +5,11 @@
 # @FileName: operationSql.py
 #@IDE ：PyCharm
 """
-from robotide.lib.robot.api import logger
+# from robotide.lib.robot.api import logger
 from pymysql import cursors, connect
+# from pymysql import cursors
 from sshtunnel import SSHTunnelForwarder
-from robot.api import logger
+# from robot.api import logger
 import logging
 import importlib
 
@@ -65,10 +66,12 @@ class FMSQL(object):
         while True:
             try:
                 self.db = connect(self.host,self.username,self.password,self.dbname,port=server.local_bind_port,charset='utf8')
+                #新版本，需要规范化：conn = pymysql.connect(host=self.host, user=self.username, password=self.pwd, database=self.dbname, charset="utf8")
             except Exception as e:
                 # 当连接过多的时候或者其他异常的时候则sleep 1秒则重新连接
                 # time.sleep(1) #这个可以注释掉
                 connect_cnt += 1
+
                 if connect_cnt < self.max_connect_cnt:
                     pass
                 else:
@@ -188,13 +191,13 @@ class FMSQL(object):
             print ("数据库已关闭，无需关闭")
 
     def check_if_exists_in_database(self, sql,sansTran=False):
-        logger.info ('Executing : Check If Exists In Database  |  %s ' % sql)
+        # logger.info ('Executing : Check If Exists In Database  |  %s ' % sql)
         if not self.selectdb(sql, sansTran):
             raise AssertionError("Expected to have have at least one row from '%s' "
                                  "but got 0 rows." % sql)
 
     def check_if_not_exists_in_database(self, sql, sansTran=False):
-        logger.info('Executing : Check If Not Exists In Database  |  %s ' % sql)
+        # logger.info('Executing : Check If Not Exists In Database  |  %s ' % sql)
         queryResults = self.selectdb(sql)
         if queryResults:
             raise AssertionError("Expected to have have no rows from '%s' "

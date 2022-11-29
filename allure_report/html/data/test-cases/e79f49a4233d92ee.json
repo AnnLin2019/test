@@ -1,0 +1,142 @@
+{
+  "uid" : "e79f49a4233d92ee",
+  "name" : "获取终端信息",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "671f62641fb0e42b95d64c60db16949f",
+  "time" : {
+    "start" : 1669345846031,
+    "stop" : 1669345846169,
+    "duration" : 138
+  },
+  "description" : "请求方法是 GET，请求url是 /api/v1/terminal/${terminalid}/details,请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 GET，请求url是 /api/v1/terminal/${terminalid}/details,请求头是 {&quot;content-type&quot;:&quot;application/x-www-form-urlencoded&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 GET，请求url是 /api/v1/terminal/${terminalid}/details,请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6e3db1d3d577c86f",
+      "name" : "请求参数",
+      "source" : "6e3db1d3d577c86f.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "5f74d09c7561ee6a",
+      "name" : "请求方法",
+      "source" : "5f74d09c7561ee6a.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "4aa96fd36bccc221",
+      "name" : "请求url",
+      "source" : "4aa96fd36bccc221.txt",
+      "type" : "text/plain",
+      "size" : 57
+    }, {
+      "uid" : "1c4b86c82faefebb",
+      "name" : "请求头",
+      "source" : "1c4b86c82faefebb.txt",
+      "type" : "text/plain",
+      "size" : 117
+    }, {
+      "uid" : "b63100d95fe15ac9",
+      "name" : "提取参数",
+      "source" : "b63100d95fe15ac9.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "ec1bcf1b8f366f76",
+      "name" : "关联参数",
+      "source" : "ec1bcf1b8f366f76.txt",
+      "type" : "text/plain",
+      "size" : 3486
+    }, {
+      "uid" : "f0bd9313969de3d2",
+      "name" : "断言内容",
+      "source" : "f0bd9313969de3d2.txt",
+      "type" : "text/plain",
+      "size" : 11
+    }, {
+      "uid" : "618193ab843abede",
+      "name" : "返回结果",
+      "source" : "618193ab843abede.txt",
+      "type" : "text/plain",
+      "size" : 549
+    }, {
+      "uid" : "e9d835c44e3c217d",
+      "name" : "log",
+      "source" : "e9d835c44e3c217d.txt",
+      "type" : "text/plain",
+      "size" : 1325
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Terminal_Companycustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "获取终端信息"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e79f49a4233d92ee.json",
+  "parameterValues" : [ ]
+}

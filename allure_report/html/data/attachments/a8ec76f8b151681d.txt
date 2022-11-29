@@ -1,0 +1,23 @@
+INFO     root:test_api_all.py:83 修改录制配置为自定义时间录制是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 修改录制配置为自定义时间录制**********
+INFO     root:test_api_all.py:204 请求方法PUT，
+请求头{'content-type': 'application/json', 'Authorization': 'bearer 55cfeba2-80ec-4198-9205-9a91119b200b'},
+请求接口https://bss-api.haoshitong.com/api/meeting/record/config
+INFO     root:test_api_all.py:205 请求参数:
+{
+ "autoRecord": 2,
+ "start": "2021-11-08 10:00:00",
+ "end": "2022-11-08 10:00:00",
+ "resolution": "1920*1080",
+  "recordMode": 1,
+  "videoMode": 1,
+   "dataMode": 1,
+  "sliceTime": 10,
+  "autoCloseTime": 10,
+  "width": 1920,
+  "high": 1080
+},
+请求文件:None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "PUT /api/meeting/record/config HTTP/1.1" 200 None
+INFO     root:test_api_all.py:210 返回{"resCode":0,"resMessage":"success"}

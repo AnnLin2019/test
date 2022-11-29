@@ -1,0 +1,10 @@
+INFO     root:test_api_all.py:83 登录crm获取token是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 登录crm获取token**********
+INFO     root:test_api_all.py:216 请求方法POST，请求头{'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'Basic cGMtMzkzOjk1MmNiZWJhLTc5MWYtNGY0Ny04NTZhLTViZjI0MjlmZGFmYw=='},请求接口https://oauth.haoshitong.com/oauth2/token
+INFO     root:test_api_all.py:217 请求参数:
+{"grant_type":"crm","username":"18973","password":"5fcf39a9929383000119ef73"},
+请求文件None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): oauth.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://oauth.haoshitong.com:443 "POST /oauth2/token HTTP/1.1" 200 None
+INFO     root:test_api_all.py:220 返回:
+ {"scope":"","access_token":"8f242bba-b03a-4827-a354-9696afece89b","token_type":"bearer","expires_in":86400,"refresh_token":"dae6b192-b0c0-483a-9828-913756c03915"}

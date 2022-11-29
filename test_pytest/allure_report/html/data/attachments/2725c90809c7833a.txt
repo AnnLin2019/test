@@ -1,9 +1,0 @@
-{
-  "userList": [
-   2594195,
-    3128853
-  ],
-"maxUserCount":100,
-  "roomName": "TestinstantTestinstantTestinstantTestinstantTestinstantTestinstantTestinstantTestinstantTestinstantTestinstant",
-  "maxUserCount":100
-}

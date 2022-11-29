@@ -1,0 +1,1 @@
+${userId2}=[result][data:0][id]

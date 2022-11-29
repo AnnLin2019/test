@@ -1,0 +1,114 @@
+{
+  "total" : 11,
+  "items" : [ {
+    "uid" : "a603bd3c71811888316159ffa1e830be",
+    "name" : "Room_Companycustomer.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 21,
+      "unknown" : 0,
+      "total" : 22
+    }
+  }, {
+    "uid" : "9058c4a83a2e3d3bb0edbceed8d4c24d",
+    "name" : "user_Companycustomer.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 13
+    }
+  }, {
+    "uid" : "4ebcb21c5a24286c3065eddbedcce84f",
+    "name" : "Terminal_Companycustomer.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "a5cf1e47b4fe5da0b21e085da8ed7a27",
+    "name" : "profile_Trialcustomer.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "35730ad0c1f4fb4289b7be62f62bbcf0",
+    "name" : "department_Companycustomer.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "4bd18525ace8085cbf01cee18fb5f676",
+    "name" : "Room_Companycustomer2_onlineroom未解决入会.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 3,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "2748115a8bd418fed3c66bdb3a571edd",
+    "name" : "BeforeLogin_customer.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "4a286cafdc0c69209cf9468ebea007e0",
+    "name" : "webControl_Interface.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "e77ec5d46f765a4d74182422e3834f59",
+    "name" : "zzboss_会议模板权限ice.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 5,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "97e2bd6ca942685c9d32f0d7699fd4d8",
+    "name" : "Developer_Companycustomer.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ]
+}

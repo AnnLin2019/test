@@ -1,0 +1,142 @@
+{
+  "uid" : "2d35bc940e74a73c",
+  "name" : "个人会议查询",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "e3ec6fa3af62efac80b4eee33238f909",
+  "time" : {
+    "start" : 1669345844479,
+    "stop" : 1669345844651,
+    "duration" : 172
+  },
+  "description" : "请求方法是 GET，请求url是 /api/meeting/personal,请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 GET，请求url是 /api/meeting/personal,请求头是 {&quot;content-type&quot;:&quot;application/x-www-form-urlencoded&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 GET，请求url是 /api/meeting/personal,请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3baa4a2fdb5962ab",
+      "name" : "请求参数",
+      "source" : "3baa4a2fdb5962ab.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "41a81a2668522620",
+      "name" : "请求方法",
+      "source" : "41a81a2668522620.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "86e44de517ad6fd4",
+      "name" : "请求url",
+      "source" : "86e44de517ad6fd4.txt",
+      "type" : "text/plain",
+      "size" : 51
+    }, {
+      "uid" : "ed0bca20f26667fd",
+      "name" : "请求头",
+      "source" : "ed0bca20f26667fd.txt",
+      "type" : "text/plain",
+      "size" : 117
+    }, {
+      "uid" : "f96735f70af73f99",
+      "name" : "提取参数",
+      "source" : "f96735f70af73f99.txt",
+      "type" : "text/plain",
+      "size" : 22
+    }, {
+      "uid" : "12907a652f854a0e",
+      "name" : "关联参数",
+      "source" : "12907a652f854a0e.txt",
+      "type" : "text/plain",
+      "size" : 3465
+    }, {
+      "uid" : "5a5fbf746644c1c2",
+      "name" : "断言内容",
+      "source" : "5a5fbf746644c1c2.txt",
+      "type" : "text/plain",
+      "size" : 11
+    }, {
+      "uid" : "249ae0ed2080403",
+      "name" : "返回结果",
+      "source" : "249ae0ed2080403.txt",
+      "type" : "text/plain",
+      "size" : 357
+    }, {
+      "uid" : "4fb0939a9f01e8ed",
+      "name" : "log",
+      "source" : "4fb0939a9f01e8ed.txt",
+      "type" : "text/plain",
+      "size" : 1121
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Room_Trialcustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "个人客户-个人会议室查询"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d35bc940e74a73c.json",
+  "parameterValues" : [ ]
+}

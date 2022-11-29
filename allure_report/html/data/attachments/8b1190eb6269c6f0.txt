@@ -1,0 +1,1 @@
+{"result":{"data":[{"id":2843779,"userName":"13654222210","displayName":"test接口测试","mobile":"","departmentId":554497,"departmentName":"个人注册勿动","status":1,"level":2}],"count":1},"resCode":0,"resMessage":"success"}

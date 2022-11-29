@@ -1,0 +1,2 @@
+[{"userId":3054941,"seatNum":"","name":"admin@hst.com","userRight":"管理员"},
+{"userId":3054939,"seatNum":1,"name":"meete@hst.com ","userRight":"参会人"}]

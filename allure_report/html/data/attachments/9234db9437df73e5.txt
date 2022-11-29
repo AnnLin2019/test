@@ -1,0 +1,1 @@
+https://bss-api.haoshitong.com/api/v1/terminal/product/pages

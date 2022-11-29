@@ -1,0 +1,1 @@
+{"resCode":20025,"resMessage":"customer.user.username.format.error"}

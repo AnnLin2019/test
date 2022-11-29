@@ -1,0 +1,1 @@
+INFO     root:test_api_all.py:83 GetRoomModeSettings2，默认培训-新自定义音视频316371是否自动化： NO

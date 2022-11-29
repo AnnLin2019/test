@@ -1,0 +1,98 @@
+{
+  "uid" : "5a09f1ba27b991fb",
+  "name" : "GetRoomModeSettings2，默认培训-历史讨论316265",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "df1e1f5af3d6d67732f07a81626d93fa",
+  "time" : {
+    "start" : 1669345950518,
+    "stop" : 1669345950518,
+    "duration" : 0
+  },
+  "description" : "请求方法是 ICE，请求url是 ',请求头是 {}",
+  "descriptionHtml" : "<p>请求方法是 ICE，请求url是 ',请求头是 {}</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: this test is skipped",
+  "statusTrace" : "('F:\\\\Test\\\\Interface\\\\Python自动化\\\\git_api\\\\test\\\\test_api_all.py', 85, 'Skipped: this test is skipped')",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 ICE，请求url是 ',请求头是 {}",
+    "status" : "skipped",
+    "statusMessage" : "Skipped: this test is skipped",
+    "statusTrace" : "('F:\\\\Test\\\\Interface\\\\Python自动化\\\\git_api\\\\test\\\\test_api_all.py', 85, 'Skipped: this test is skipped')",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "29a61e8289f92c11",
+      "name" : "log",
+      "source" : "29a61e8289f92c11.txt",
+      "type" : "text/plain",
+      "size" : 108
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "zzboss_会议模板权限ice.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "roomService"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a09f1ba27b991fb.json",
+  "parameterValues" : [ ]
+}

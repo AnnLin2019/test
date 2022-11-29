@@ -1,0 +1,142 @@
+{
+  "uid" : "b270cb4af1ded82a",
+  "name" : "类型为空，修改失败",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "833a0452080cfd4ceeb877d7ec495c72",
+  "time" : {
+    "start" : 1669345857988,
+    "stop" : 1669345858130,
+    "duration" : 142
+  },
+  "description" : "请求方法是 PUT，请求url是 /api/customer/users/${userId0},请求头是 {\"content-type\":\"application/json\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 PUT，请求url是 /api/customer/users/${userId0},请求头是 {&quot;content-type&quot;:&quot;application/json&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 PUT，请求url是 /api/customer/users/${userId0},请求头是 {\"content-type\":\"application/json\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "94376fa67f2bf51",
+      "name" : "请求参数",
+      "source" : "94376fa67f2bf51.txt",
+      "type" : "text/plain",
+      "size" : 195
+    }, {
+      "uid" : "15d6f460495cda6",
+      "name" : "请求方法",
+      "source" : "15d6f460495cda6.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "1ba27dad6d832798",
+      "name" : "请求url",
+      "source" : "1ba27dad6d832798.txt",
+      "type" : "text/plain",
+      "size" : 57
+    }, {
+      "uid" : "65fc196f78426d06",
+      "name" : "请求头",
+      "source" : "65fc196f78426d06.txt",
+      "type" : "text/plain",
+      "size" : 100
+    }, {
+      "uid" : "4524166ceadde27e",
+      "name" : "提取参数",
+      "source" : "4524166ceadde27e.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "6c2e31cc49db711e",
+      "name" : "关联参数",
+      "source" : "6c2e31cc49db711e.txt",
+      "type" : "text/plain",
+      "size" : 3751
+    }, {
+      "uid" : "e6650b3d59002bed",
+      "name" : "断言内容",
+      "source" : "e6650b3d59002bed.txt",
+      "type" : "text/plain",
+      "size" : 15
+    }, {
+      "uid" : "1097b555c6d88ed1",
+      "name" : "返回结果",
+      "source" : "1097b555c6d88ed1.txt",
+      "type" : "text/plain",
+      "size" : 54
+    }, {
+      "uid" : "bb8a065d05db3ee1",
+      "name" : "log",
+      "source" : "bb8a065d05db3ee1.txt",
+      "type" : "text/plain",
+      "size" : 986
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "user_Companycustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "企业客户-修改用户"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b270cb4af1ded82a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,10 @@
+INFO     root:test_api_all.py:83 查询企业信息是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 查询企业信息**********
+INFO     root:test_api_all.py:216 请求方法GET，请求头{'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'bearer e983dcb9-7966-4193-8622-a35615e5a3db'},请求接口https://bss-api.haoshitong.com/api/v1/company/profile
+INFO     root:test_api_all.py:217 请求参数:
+{},
+请求文件None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "GET /api/v1/company/profile HTTP/1.1" 200 None
+INFO     root:test_api_all.py:220 返回:
+ {"result":{"id":55303,"name":"test自动化企业","telephone":"-","address":"","siteUrl":null,"logo":null,"content":null},"resCode":0,"resMessage":"success"}

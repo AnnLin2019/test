@@ -1,0 +1,142 @@
+{
+  "uid" : "de4152b9e1b43703",
+  "name" : "导出在线的授权用户",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "a90e4b55c069dc5db56c38ba0ae262a5",
+  "time" : {
+    "start" : 1669345843582,
+    "stop" : 1669345843775,
+    "duration" : 193
+  },
+  "description" : "请求方法是 GET，请求url是 /api/meetings/onlines/317823/users/excel,请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 GET，请求url是 /api/meetings/onlines/317823/users/excel,请求头是 {&quot;content-type&quot;:&quot;application/x-www-form-urlencoded&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 GET，请求url是 /api/meetings/onlines/317823/users/excel,请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6ed7d5fd915c9cda",
+      "name" : "请求参数",
+      "source" : "6ed7d5fd915c9cda.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "cb82c237fcb60d30",
+      "name" : "请求方法",
+      "source" : "cb82c237fcb60d30.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "11267536eb21e0f2",
+      "name" : "请求url",
+      "source" : "11267536eb21e0f2.txt",
+      "type" : "text/plain",
+      "size" : 70
+    }, {
+      "uid" : "341dbd1d302e34d9",
+      "name" : "请求头",
+      "source" : "341dbd1d302e34d9.txt",
+      "type" : "text/plain",
+      "size" : 117
+    }, {
+      "uid" : "24fa1ed1a9b4968f",
+      "name" : "提取参数",
+      "source" : "24fa1ed1a9b4968f.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "e48f7cd23d447463",
+      "name" : "关联参数",
+      "source" : "e48f7cd23d447463.txt",
+      "type" : "text/plain",
+      "size" : 3444
+    }, {
+      "uid" : "cd645872e68d0abf",
+      "name" : "断言内容",
+      "source" : "cd645872e68d0abf.txt",
+      "type" : "text/plain",
+      "size" : 12
+    }, {
+      "uid" : "c8e0a24c78be20ed",
+      "name" : "返回结果",
+      "source" : "c8e0a24c78be20ed.txt",
+      "type" : "text/plain",
+      "size" : 5547
+    }, {
+      "uid" : "e7ea9f8327c1c26",
+      "name" : "log",
+      "source" : "e7ea9f8327c1c26.txt",
+      "type" : "text/plain",
+      "size" : 11260
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Room_Companycustomer2_onlineroom未解决入会.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "导出在线的授权用户"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de4152b9e1b43703.json",
+  "parameterValues" : [ ]
+}

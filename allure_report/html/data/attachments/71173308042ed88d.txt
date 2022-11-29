@@ -1,0 +1,1 @@
+{"areaCode":"+371","departmentId":"${department}","type":1,"userName":"$<random.randint(23330000,23339999)>","password":"123456","displayName":"修改海外手机号","userLevel":0,"status":1}

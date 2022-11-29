@@ -1,0 +1,7 @@
+{
+  "areaCode": "+33",
+  "smsCode": "${code1}",
+  "mobile": "644631731",
+  "password": "$<common.RSA_encrypt.crack_pwd('123456','${cipher1}')>",
+  "name": "autopy海外手机注册"
+}

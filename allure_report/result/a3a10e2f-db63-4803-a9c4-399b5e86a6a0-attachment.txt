@@ -1,0 +1,1 @@
+INFO     root:test_api_all.py:83 roomid为其他企业会议室，新增成功是否自动化： NO

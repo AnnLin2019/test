@@ -1,0 +1,10 @@
+INFO     root:test_api_all.py:83 查询可用的会议服务是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 查询可用的会议服务**********
+INFO     root:test_api_all.py:216 请求方法GET，请求头{'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'bearer cdd2a5df-e441-4bda-a36c-737d2b2903cf'},请求接口https://bss-api.haoshitong.com/api/v1/product/meetings
+INFO     root:test_api_all.py:217 请求参数:
+{},
+请求文件None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "GET /api/v1/product/meetings HTTP/1.1" 200 None
+INFO     root:test_api_all.py:220 返回:
+ {"result":[{"id":0,"serviceId":35,"name":"超清产品1080P","layout":"W1,W2,WVT,WVP,WVA,WV1,WV2,WV3,WV4,WV6,WV9,WV12,WV16","scope":"company"}],"resCode":0,"resMessage":"success"}

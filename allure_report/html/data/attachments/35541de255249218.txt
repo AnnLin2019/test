@@ -1,0 +1,8 @@
+DELETE t_roominfo,t_apiservice,t_userinfo,t_department,t_businessinfo,t_user_binding_info FROM t_userinfo
+        left join t_user_binding_info ON t_user_binding_info.userId = t_userinfo.UserID 
+  left join t_businessinfo on t_userinfo.CompanyId=t_businessinfo.ID
+  left join t_department on t_businessinfo.ID=t_department.CompanyId
+  left join t_roominfo on t_businessinfo.ID=t_roominfo.CompanyId
+  left join t_apiservice on t_roominfo.CompanyId=t_apiservice.BusinessID
+WHERE
+     UserName='644631731';

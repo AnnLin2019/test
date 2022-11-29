@@ -1,0 +1,1 @@
+{"id":"${ID20}","password":"$<common.RSA_encrypt.crack_pwd('123456','${cipher20}')>"}

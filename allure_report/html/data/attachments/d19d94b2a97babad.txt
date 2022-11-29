@@ -1,0 +1,10 @@
+INFO     root:test_api_all.py:83 海外手机验证码登录是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 海外手机验证码登录**********
+INFO     root:test_api_all.py:216 请求方法POST，请求头{'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'Basic aDUtY2xpZW50OjczNzlkYjFhLWUxNzMtNGM4ZS04OTVkLTNiNGMzOTMzOWU1OA=='},请求接口https://oauth.haoshitong.com/oauth2/token
+INFO     root:test_api_all.py:217 请求参数:
+{"grant_type":"sms_code","username":"+33644631731","password":"713044"},
+请求文件None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): oauth.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://oauth.haoshitong.com:443 "POST /oauth2/token HTTP/1.1" 200 None
+INFO     root:test_api_all.py:220 返回:
+ {"scope":"","access_token":"ab5ab8e2-ce37-4d3f-a473-f350afa590fd","token_type":"bearer","expires_in":86396,"refresh_token":"384dba89-5c1b-47f9-90f7-2b933a45ebc2"}

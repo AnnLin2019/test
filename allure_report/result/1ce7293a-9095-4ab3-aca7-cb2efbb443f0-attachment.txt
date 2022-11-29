@@ -1,0 +1,1 @@
+https://bss-api.haoshitong.com/open/image/verification?data=testpy@hst.com&type=rebind

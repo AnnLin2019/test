@@ -1,0 +1,142 @@
+{
+  "uid" : "6d2089ed61137631",
+  "name" : "验证短信验证码",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "1d94d2423be6e4408140b4f1f10290e0",
+  "time" : {
+    "start" : 1669345821386,
+    "stop" : 1669345821519,
+    "duration" : 133
+  },
+  "description" : "请求方法是 GET，请求url是 /open/verification/${ID}?code=${code},请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 GET，请求url是 /open/verification/${ID}?code=${code},请求头是 {&quot;content-type&quot;:&quot;application/x-www-form-urlencoded&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 GET，请求url是 /open/verification/${ID}?code=${code},请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ea84c9d41b592dab",
+      "name" : "请求参数",
+      "source" : "ea84c9d41b592dab.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "3f94d3264d7c23ae",
+      "name" : "请求方法",
+      "source" : "3f94d3264d7c23ae.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "395c6eed1f4f2833",
+      "name" : "请求url",
+      "source" : "395c6eed1f4f2833.txt",
+      "type" : "text/plain",
+      "size" : 93
+    }, {
+      "uid" : "9ca86e7459d34d04",
+      "name" : "请求头",
+      "source" : "9ca86e7459d34d04.txt",
+      "type" : "text/plain",
+      "size" : 117
+    }, {
+      "uid" : "114080596858b6bf",
+      "name" : "提取参数",
+      "source" : "114080596858b6bf.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "ebf1c9fc63634fb8",
+      "name" : "关联参数",
+      "source" : "ebf1c9fc63634fb8.txt",
+      "type" : "text/plain",
+      "size" : 2273
+    }, {
+      "uid" : "784abc0189adbc07",
+      "name" : "断言内容",
+      "source" : "784abc0189adbc07.txt",
+      "type" : "text/plain",
+      "size" : 11
+    }, {
+      "uid" : "b0680d326dd611af",
+      "name" : "返回结果",
+      "source" : "b0680d326dd611af.txt",
+      "type" : "text/plain",
+      "size" : 50
+    }, {
+      "uid" : "cf5d1884d5c79d16",
+      "name" : "log",
+      "source" : "cf5d1884d5c79d16.txt",
+      "type" : "text/plain",
+      "size" : 1267
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "profile_Trialcustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "个人客户-修改邮箱"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d2089ed61137631.json",
+  "parameterValues" : [ ]
+}

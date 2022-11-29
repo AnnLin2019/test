@@ -1,0 +1,1 @@
+INFO     root:test_api_all.py:83 终端序列号已激活未绑定4K，终端续费产品4K生效成功是否自动化： NO

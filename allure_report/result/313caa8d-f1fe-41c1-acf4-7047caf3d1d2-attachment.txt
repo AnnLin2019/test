@@ -1,0 +1,1 @@
+{"areaCode":"+86","departmentId":"${department}","type":2,"userName":"editemail001@hst.com","password":"123456","displayName":"修改邮箱","userLevel":0,"status":1}

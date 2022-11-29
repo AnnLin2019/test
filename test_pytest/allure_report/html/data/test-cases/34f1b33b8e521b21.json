@@ -1,0 +1,136 @@
+{
+  "uid" : "34f1b33b8e521b21",
+  "name" : "重置密码成功",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "d5fd1f74b932cdd3288facf28468ecd4",
+  "time" : {
+    "start" : 1667807244381,
+    "stop" : 1667807244518,
+    "duration" : 137
+  },
+  "description" : "请求方法是PATCH，请求url是/open/v1/user/password,请求头是{\"content-type\":\"application/json\",\"Authorization\":\"Basic aDUtY2xpZW50OjczNzlkYjFhLWUxNzMtNGM4ZS04OTVkLTNiNGMzOTMzOWU1OA==\"}",
+  "descriptionHtml" : "<p>请求方法是PATCH，请求url是/open/v1/user/password,请求头是{&quot;content-type&quot;:&quot;application/json&quot;,&quot;Authorization&quot;:&quot;Basic aDUtY2xpZW50OjczNzlkYjFhLWUxNzMtNGM4ZS04OTVkLTNiNGMzOTMzOWU1OA==&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1667807229409,
+      "stop" : 1667807229581,
+      "duration" : 172
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "请求方法是PATCH，请求url是/open/v1/user/password,请求头是{\"content-type\":\"application/json\",\"Authorization\":\"Basic aDUtY2xpZW50OjczNzlkYjFhLWUxNzMtNGM4ZS04OTVkLTNiNGMzOTMzOWU1OA==\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2618226d0f09cdf2",
+      "name" : "请求参数",
+      "source" : "2618226d0f09cdf2.txt",
+      "type" : "text/plain",
+      "size" : 85
+    }, {
+      "uid" : "8f40c06593429b9d",
+      "name" : "请求方法",
+      "source" : "8f40c06593429b9d.txt",
+      "type" : "text/plain",
+      "size" : 5
+    }, {
+      "uid" : "b51389ca6c85adb4",
+      "name" : "请求url",
+      "source" : "b51389ca6c85adb4.txt",
+      "type" : "text/plain",
+      "size" : 52
+    }, {
+      "uid" : "a9bc70e554b2323f",
+      "name" : "请求头",
+      "source" : "a9bc70e554b2323f.txt",
+      "type" : "text/plain",
+      "size" : 127
+    }, {
+      "uid" : "9a6bcf98a4e8571b",
+      "name" : "提取参数",
+      "source" : "9a6bcf98a4e8571b.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "c6d98cbf9775c6f3",
+      "name" : "关联参数",
+      "source" : "c6d98cbf9775c6f3.txt",
+      "type" : "text/plain",
+      "size" : 1928
+    }, {
+      "uid" : "14afefc928945984",
+      "name" : "断言内容",
+      "source" : "14afefc928945984.txt",
+      "type" : "text/plain",
+      "size" : 11
+    }, {
+      "uid" : "52fae76803ddd25c",
+      "name" : "返回结果",
+      "source" : "52fae76803ddd25c.txt",
+      "type" : "text/plain",
+      "size" : 36
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 8,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "BeforeLogin_customer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "忘记密码"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "34876-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34f1b33b8e521b21.json",
+  "parameterValues" : [ ]
+}

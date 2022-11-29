@@ -1,0 +1,6 @@
+{
+  "name": "",
+  "terminalIds": [
+  "${terminalid}"
+  ]
+}

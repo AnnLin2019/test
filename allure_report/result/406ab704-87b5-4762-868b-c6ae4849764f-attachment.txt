@@ -1,0 +1,1 @@
+INFO     root:test_api_all.py:83 GetRoomModeSettings2，默认讨论-会控316581是否自动化： NO

@@ -1,0 +1,10 @@
+INFO     root:test_api_all.py:83 查询会议指定部门的授权信息，查询成功是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 查询会议指定部门的授权信息，查询成功**********
+INFO     root:test_api_all.py:216 请求方法GET，请求头{'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'bearer cdd2a5df-e441-4bda-a36c-737d2b2903cf'},请求接口https://bss-api.haoshitong.com/api/meetings/335237/authorizations?id=335237&userRight=&page=1&size=10&departmentId=557091
+INFO     root:test_api_all.py:217 请求参数:
+{},
+请求文件None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "GET /api/meetings/335237/authorizations?id=335237&userRight=&page=1&size=10&departmentId=557091 HTTP/1.1" 200 None
+INFO     root:test_api_all.py:220 返回:
+ {"result":{"data":[{"name":"admin@hst.com","displayName":"授权信息-勿动","depName":"授权部门-勿动","userRight":1,"departmentId":557091,"userId":3054941,"seatNum":900}],"count":1},"resCode":0,"resMessage":"success"}

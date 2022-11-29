@@ -1,0 +1,142 @@
+{
+  "uid" : "1b1f155841377ee1",
+  "name" : "验证坐标点",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "02ca991d297357357b38028f85b0972f",
+  "time" : {
+    "start" : 1669345827103,
+    "stop" : 1669345827329,
+    "duration" : 226
+  },
+  "description" : "请求方法是 POST，请求url是 /open/image/verification,请求头是 {\"content-type\":\"application/json\"}",
+  "descriptionHtml" : "<p>请求方法是 POST，请求url是 /open/image/verification,请求头是 {&quot;content-type&quot;:&quot;application/json&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 POST，请求url是 /open/image/verification,请求头是 {\"content-type\":\"application/json\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f4930dd38a956694",
+      "name" : "请求参数",
+      "source" : "f4930dd38a956694.txt",
+      "type" : "text/plain",
+      "size" : 66
+    }, {
+      "uid" : "dd573d6e095061ff",
+      "name" : "请求方法",
+      "source" : "dd573d6e095061ff.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "8a5bcdd93fa41150",
+      "name" : "请求url",
+      "source" : "8a5bcdd93fa41150.txt",
+      "type" : "text/plain",
+      "size" : 54
+    }, {
+      "uid" : "bc35b18b5985fbd5",
+      "name" : "请求头",
+      "source" : "bc35b18b5985fbd5.txt",
+      "type" : "text/plain",
+      "size" : 36
+    }, {
+      "uid" : "f6bde62f8a92d820",
+      "name" : "提取参数",
+      "source" : "f6bde62f8a92d820.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "514f8bf189f38d37",
+      "name" : "关联参数",
+      "source" : "514f8bf189f38d37.txt",
+      "type" : "text/plain",
+      "size" : 3109
+    }, {
+      "uid" : "39a57f60f9edcf81",
+      "name" : "断言内容",
+      "source" : "39a57f60f9edcf81.txt",
+      "type" : "text/plain",
+      "size" : 11
+    }, {
+      "uid" : "6bdb01c2ada75b90",
+      "name" : "返回结果",
+      "source" : "6bdb01c2ada75b90.txt",
+      "type" : "text/plain",
+      "size" : 50
+    }, {
+      "uid" : "947c0da6b13ca08",
+      "name" : "log",
+      "source" : "947c0da6b13ca08.txt",
+      "type" : "text/plain",
+      "size" : 939
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "profile_Trialcustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "获取验证图片+验证坐标点"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b1f155841377ee1.json",
+  "parameterValues" : [ ]
+}

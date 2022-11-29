@@ -1,0 +1,11 @@
+INFO     root:test_api_all.py:83 验证坐标点是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 验证坐标点**********
+INFO     root:test_api_all.py:204 请求方法POST，
+请求头{'content-type': 'application/json'},
+请求接口https://bss-api.haoshitong.com/open/image/verification
+INFO     root:test_api_all.py:205 请求参数:
+{"id":"7d700167febf470fa5a2ea4d8df0ce44","data":"NLjaoJG46ITs97RHlmWhLl+1Y9eWn0Q07seTZfowQGNq0yTUR7g0EZuSXdzY6f/IVQvh0/GgNta2/pcmJ06725ncOZj3raCi/ft5127JHssXPXoiHX3OcgjhsSgXVwuU","send": "true","locale":""},
+请求文件:None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "POST /open/image/verification HTTP/1.1" 200 None
+INFO     root:test_api_all.py:210 返回{"result":true,"resCode":0,"resMessage":"success"}

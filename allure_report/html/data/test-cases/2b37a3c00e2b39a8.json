@@ -1,0 +1,142 @@
+{
+  "uid" : "2b37a3c00e2b39a8",
+  "name" : "查询会议授权的管理员信息，查询成功",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "97ff6d4b1691ccb02ea0946e8cc73099",
+  "time" : {
+    "start" : 1669345837848,
+    "stop" : 1669345837997,
+    "duration" : 149
+  },
+  "description" : "请求方法是 GET，请求url是 /api/meetings/335237/authorizations?id=335237&userRight=1&page=1&size=10,请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 GET，请求url是 /api/meetings/335237/authorizations?id=335237&amp;userRight=1&amp;page=1&amp;size=10,请求头是 {&quot;content-type&quot;:&quot;application/x-www-form-urlencoded&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 GET，请求url是 /api/meetings/335237/authorizations?id=335237&userRight=1&page=1&size=10,请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "333e16b72f9ccbd5",
+      "name" : "请求参数",
+      "source" : "333e16b72f9ccbd5.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "6bcf2acf8db8a549",
+      "name" : "请求方法",
+      "source" : "6bcf2acf8db8a549.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "1c197dd46071df10",
+      "name" : "请求url",
+      "source" : "1c197dd46071df10.txt",
+      "type" : "text/plain",
+      "size" : 102
+    }, {
+      "uid" : "e5ca9c4a3bfc0f0c",
+      "name" : "请求头",
+      "source" : "e5ca9c4a3bfc0f0c.txt",
+      "type" : "text/plain",
+      "size" : 117
+    }, {
+      "uid" : "9b32fb5a86342f67",
+      "name" : "提取参数",
+      "source" : "9b32fb5a86342f67.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "ea608eec7f722fab",
+      "name" : "关联参数",
+      "source" : "ea608eec7f722fab.txt",
+      "type" : "text/plain",
+      "size" : 3424
+    }, {
+      "uid" : "3e4c67869a05e583",
+      "name" : "断言内容",
+      "source" : "3e4c67869a05e583.txt",
+      "type" : "text/plain",
+      "size" : 16
+    }, {
+      "uid" : "c9dbbea37c41f66b",
+      "name" : "返回结果",
+      "source" : "c9dbbea37c41f66b.txt",
+      "type" : "text/plain",
+      "size" : 662
+    }, {
+      "uid" : "e61dff824b294dc4",
+      "name" : "log",
+      "source" : "e61dff824b294dc4.txt",
+      "type" : "text/plain",
+      "size" : 1594
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Room_Companycustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "企业会议授权信息全量查询"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b37a3c00e2b39a8.json",
+  "parameterValues" : [ ]
+}

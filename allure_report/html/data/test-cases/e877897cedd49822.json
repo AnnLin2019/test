@@ -1,0 +1,142 @@
+{
+  "uid" : "e877897cedd49822",
+  "name" : "授权为管理员，取消授权成功",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "ce7f0546af2564818d73d0d24596cf9c",
+  "time" : {
+    "start" : 1669345836022,
+    "stop" : 1669345836179,
+    "duration" : 157
+  },
+  "description" : "请求方法是 DELETE，请求url是 /api/meetings/335239/authorizations,请求头是 {\"content-type\":\"application/json\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 DELETE，请求url是 /api/meetings/335239/authorizations,请求头是 {&quot;content-type&quot;:&quot;application/json&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 DELETE，请求url是 /api/meetings/335239/authorizations,请求头是 {\"content-type\":\"application/json\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "db54ae03dbc82dac",
+      "name" : "请求参数",
+      "source" : "db54ae03dbc82dac.txt",
+      "type" : "text/plain",
+      "size" : 67
+    }, {
+      "uid" : "4a66377507018066",
+      "name" : "请求方法",
+      "source" : "4a66377507018066.txt",
+      "type" : "text/plain",
+      "size" : 6
+    }, {
+      "uid" : "133c6d442eade237",
+      "name" : "请求url",
+      "source" : "133c6d442eade237.txt",
+      "type" : "text/plain",
+      "size" : 65
+    }, {
+      "uid" : "60732e7f20aabf2a",
+      "name" : "请求头",
+      "source" : "60732e7f20aabf2a.txt",
+      "type" : "text/plain",
+      "size" : 100
+    }, {
+      "uid" : "cb1e40ff312afa8a",
+      "name" : "提取参数",
+      "source" : "cb1e40ff312afa8a.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "3a17ad202047b69f",
+      "name" : "关联参数",
+      "source" : "3a17ad202047b69f.txt",
+      "type" : "text/plain",
+      "size" : 3424
+    }, {
+      "uid" : "e97249deaf126d65",
+      "name" : "断言内容",
+      "source" : "e97249deaf126d65.txt",
+      "type" : "text/plain",
+      "size" : 11
+    }, {
+      "uid" : "faa3b1ee6d8bf3d0",
+      "name" : "返回结果",
+      "source" : "faa3b1ee6d8bf3d0.txt",
+      "type" : "text/plain",
+      "size" : 36
+    }, {
+      "uid" : "a39df366c83c1b96",
+      "name" : "log",
+      "source" : "a39df366c83c1b96.txt",
+      "type" : "text/plain",
+      "size" : 924
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Room_Companycustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "企业会议授权取消"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e877897cedd49822.json",
+  "parameterValues" : [ ]
+}

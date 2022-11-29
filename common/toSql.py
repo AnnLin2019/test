@@ -32,7 +32,7 @@ class Exesql:
                 FMSQL.closedb()
                 return result
         except Exception as e:
-            result="Error"
+            result="Error:{}".format(str(e))
             print(e)
             return result
 

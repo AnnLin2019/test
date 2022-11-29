@@ -1,0 +1,1 @@
+{"result":{"data":[{"name":"meete@hst.com","displayName":"参会人-勿动","depName":"auto_py勿动","userRight":0,"departmentId":556047,"userId":3054939,"seatNum":1000}],"count":1},"resCode":0,"resMessage":"success"}

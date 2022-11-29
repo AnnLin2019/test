@@ -1,0 +1,11 @@
+INFO     root:test_api_all.py:83 重置密码成功是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 重置密码成功**********
+INFO     root:test_api_all.py:204 请求方法PATCH，
+请求头{'content-type': 'application/json', 'Authorization': 'Basic aDUtY2xpZW50OjczNzlkYjFhLWUxNzMtNGM4ZS04OTVkLTNiNGMzOTMzOWU1OA=='},
+请求接口https://bss-api.haoshitong.com/open/v1/user/password
+INFO     root:test_api_all.py:205 请求参数:
+{"id":"6a8e7ec64f644979a250ffb43f2470f3","password":"V9qggxs1hkQWKn/8m8U05ucVCJaJD5cX5zOLe1T1apd0C3YgcQ54xYj4yFBMcPXz1HJ+t+HrDOUJvaIdYvY5nWsMWZaIvUbNYVG1US4v1KJk32lSs4Yldl+Ec41L6S0S"},
+请求文件:None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "PATCH /open/v1/user/password HTTP/1.1" 200 None
+INFO     root:test_api_all.py:210 返回{"resCode":0,"resMessage":"success"}

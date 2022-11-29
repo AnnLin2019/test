@@ -1,0 +1,4 @@
+INFO     root:test_api_all.py:283 3是否自动化： YES
+INFO     root:test_api_all.py:286 连接ssh None host 192.168.5.69, 执行sql语句: 
+  SELECT * FROM t_userinfo where UserID=1460586;......
+INFO     root:test_api_all.py:290 sql执行结果：((1460586, 'testRegiter8', 'AFDD0B4AD2EC172C586E2150770FBF9E', 365867, 'testRegiter8', '0', '1', None, '', '', '', None, '', '2', 2, '0', None, None, 0.0, 0.0, 0, 0, datetime.datetime(2021, 9, 9, 18, 7, 40), datetime.datetime(2021, 9, 9, 18, 7, 23), datetime.datetime(2021, 9, 9, 18, 7, 23), 1, '1', None, 41499),)

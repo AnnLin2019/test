@@ -1,0 +1,5 @@
+{
+  "details":[
+{"userId":3054939,"seatNum":1000}],
+  "userRight": 0
+}

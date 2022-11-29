@@ -1,0 +1,1 @@
+{"result":{"data":[{"name":"admin@hst.com","displayName":"授权信息-勿动","depName":"授权部门-勿动","userRight":1,"departmentId":557091,"userId":3054941,"seatNum":900}],"count":1},"resCode":0,"resMessage":"success"}

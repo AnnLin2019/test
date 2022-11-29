@@ -1,0 +1,1 @@
+SELECT userid FROM t_userinfo where companyid="55095";

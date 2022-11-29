@@ -1,0 +1,1 @@
+INFO     root:test_api_all.py:83 GetRoomModeSettings2，新即时讨论1000000042是否自动化： NO

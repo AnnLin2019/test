@@ -1,0 +1,106 @@
+{
+  "uid" : "5e8b3e7c102f030a",
+  "name" : "删除海外手机的数据",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "4aec2aed99ac5b428b33b91947a9db23",
+  "time" : {
+    "start" : 1669345801028,
+    "stop" : 1669345801833,
+    "duration" : 805
+  },
+  "description" : "数据库连接信息：ssh_address 120.24.43.28，host 127.0.0.1",
+  "descriptionHtml" : "<p>数据库连接信息：ssh_address 120.24.43.28，host 127.0.0.1</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "数据库连接信息：ssh_address 120.24.43.28，host 127.0.0.1",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "35541de255249218",
+      "name" : "sql语句",
+      "source" : "35541de255249218.txt",
+      "type" : "text/plain",
+      "size" : 503
+    }, {
+      "uid" : "93eeaa555dfdf6b4",
+      "name" : "执行结果",
+      "source" : "93eeaa555dfdf6b4.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "1c8645c84a9b6253",
+      "name" : "log",
+      "source" : "1c8645c84a9b6253.txt",
+      "type" : "text/plain",
+      "size" : 5989
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "BeforeLogin_customer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "PrepareSql"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e8b3e7c102f030a.json",
+  "parameterValues" : [ ]
+}

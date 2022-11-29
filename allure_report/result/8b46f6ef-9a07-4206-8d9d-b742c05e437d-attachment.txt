@@ -1,0 +1,1 @@
+{"resCode":20101,"resMessage":"roomId is not null","result":null}

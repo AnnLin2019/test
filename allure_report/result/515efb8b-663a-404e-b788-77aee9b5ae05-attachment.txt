@@ -1,0 +1,1 @@
+{"departmentId":"${parentid}","type":1,"userName":"$<random.randint(13600000000,13999999999)>","password":"123456","displayName":"修改为根部门管理员","userLevel":1,"status":1}

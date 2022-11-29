@@ -1,0 +1,98 @@
+{
+  "uid" : "45093544c049f4de",
+  "name" : "keycode错误新增部门",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "dd3b6fbaa0e5fa9ab701108fa3a4372c",
+  "time" : {
+    "start" : 1669345954296,
+    "stop" : 1669345954308,
+    "duration" : 12
+  },
+  "description" : "请求方法是 POST，请求url是 /companies/departments,请求头是 {\"content-type\":\"application/json\",\"Key-Code\":\"a0627b08e6adb8d9df67562e003ebcb9fd733e211ab63a6dd89ea0fb732c8c4618cb521d8f59ce6158dd68f4bede016359f991420ffe1ece7b0a21220ff0b44d445\"}",
+  "descriptionHtml" : "<p>请求方法是 POST，请求url是 /companies/departments,请求头是 {&quot;content-type&quot;:&quot;application/json&quot;,&quot;Key-Code&quot;:&quot;a0627b08e6adb8d9df67562e003ebcb9fd733e211ab63a6dd89ea0fb732c8c4618cb521d8f59ce6158dd68f4bede016359f991420ffe1ece7b0a21220ff0b44d445&quot;}</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: this test is skipped",
+  "statusTrace" : "('F:\\\\Test\\\\Interface\\\\Python自动化\\\\git_api\\\\test\\\\test_api_all.py', 85, 'Skipped: this test is skipped')",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 POST，请求url是 /companies/departments,请求头是 {\"content-type\":\"application/json\",\"Key-Code\":\"a0627b08e6adb8d9df67562e003ebcb9fd733e211ab63a6dd89ea0fb732c8c4618cb521d8f59ce6158dd68f4bede016359f991420ffe1ece7b0a21220ff0b44d445\"}",
+    "status" : "skipped",
+    "statusMessage" : "Skipped: this test is skipped",
+    "statusTrace" : "('F:\\\\Test\\\\Interface\\\\Python自动化\\\\git_api\\\\test\\\\test_api_all.py', 85, 'Skipped: this test is skipped')",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e1772f3204b7097f",
+      "name" : "log",
+      "source" : "e1772f3204b7097f.txt",
+      "type" : "text/plain",
+      "size" : 79
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "zzboss_会议模板权限ice.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "单个部门新增"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45093544c049f4de.json",
+  "parameterValues" : [ ]
+}

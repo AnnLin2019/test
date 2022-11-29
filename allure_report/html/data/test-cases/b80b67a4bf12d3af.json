@@ -1,0 +1,142 @@
+{
+  "uid" : "b80b67a4bf12d3af",
+  "name" : "换页数查询会议授权信息，查询成功",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "8f3ec3bfcd2e734129d7ac01067f5513",
+  "time" : {
+    "start" : 1669345838308,
+    "stop" : 1669345838482,
+    "duration" : 174
+  },
+  "description" : "请求方法是 GET，请求url是 /api/meetings/335237/authorizations?id=335237&userRight=&page=1&size=200,请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 GET，请求url是 /api/meetings/335237/authorizations?id=335237&amp;userRight=&amp;page=1&amp;size=200,请求头是 {&quot;content-type&quot;:&quot;application/x-www-form-urlencoded&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 GET，请求url是 /api/meetings/335237/authorizations?id=335237&userRight=&page=1&size=200,请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e7a1c3b20239b564",
+      "name" : "请求参数",
+      "source" : "e7a1c3b20239b564.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "430a3da9f90794a2",
+      "name" : "请求方法",
+      "source" : "430a3da9f90794a2.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "660fcbf274526e81",
+      "name" : "请求url",
+      "source" : "660fcbf274526e81.txt",
+      "type" : "text/plain",
+      "size" : 102
+    }, {
+      "uid" : "e885a945a68bfa0e",
+      "name" : "请求头",
+      "source" : "e885a945a68bfa0e.txt",
+      "type" : "text/plain",
+      "size" : 117
+    }, {
+      "uid" : "e2c2e50aa3da4ec8",
+      "name" : "提取参数",
+      "source" : "e2c2e50aa3da4ec8.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "5b759e6d76082aa2",
+      "name" : "关联参数",
+      "source" : "5b759e6d76082aa2.txt",
+      "type" : "text/plain",
+      "size" : 3424
+    }, {
+      "uid" : "a82636ffc14a4be2",
+      "name" : "断言内容",
+      "source" : "a82636ffc14a4be2.txt",
+      "type" : "text/plain",
+      "size" : 6
+    }, {
+      "uid" : "7f712f308e7b2dbb",
+      "name" : "返回结果",
+      "source" : "7f712f308e7b2dbb.txt",
+      "type" : "text/plain",
+      "size" : 6081
+    }, {
+      "uid" : "8e6aa11d3492b2f8",
+      "name" : "log",
+      "source" : "8e6aa11d3492b2f8.txt",
+      "type" : "text/plain",
+      "size" : 7007
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Room_Companycustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "企业会议授权信息全量查询"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b80b67a4bf12d3af.json",
+  "parameterValues" : [ ]
+}

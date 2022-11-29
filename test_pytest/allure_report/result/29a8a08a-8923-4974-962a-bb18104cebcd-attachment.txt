@@ -1,1 +1,0 @@
-{"code":"0000","message":"SUCCESS","result":[{"companyId":53231,"depId":550509,"displayName":"AutoTest","password":"E10ADC3949BA59ABBE56E057F20F883E","permission":3,"userId":2594195,"userLevel":"2","userName":"190H"}]}

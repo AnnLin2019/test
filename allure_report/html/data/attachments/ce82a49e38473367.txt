@@ -1,0 +1,1 @@
+{"result":{"userId":2843779,"userName":"test接口测试","userLevel":2,"companyId":54893,"departmentId":554497,"userStatus":"NORMAL","companyStatus":"NORMAL","customerType":"PERSONAL","companyName":"个人注册勿动","liveRecordMode":0,"accountNonExpired":true,"accountNonLocked":true,"credentialsNonExpired":true,"enabled":true,"notNormal":false,"normal":true},"resCode":0,"resMessage":"success"}

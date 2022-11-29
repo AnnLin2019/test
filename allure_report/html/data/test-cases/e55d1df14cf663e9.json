@@ -1,0 +1,142 @@
+{
+  "uid" : "e55d1df14cf663e9",
+  "name" : "GetRoomModeSettings2，新自定义全 317617 ",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "4807903b59acaf6ffd65659ca3afd883",
+  "time" : {
+    "start" : 1669345950797,
+    "stop" : 1669345950951,
+    "duration" : 154
+  },
+  "description" : "请求方法是 ICE，请求url是 ',请求头是 {}",
+  "descriptionHtml" : "<p>请求方法是 ICE，请求url是 ',请求头是 {}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 ICE，请求url是 ',请求头是 {}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "490b2a27e67f36c9",
+      "name" : "请求参数",
+      "source" : "490b2a27e67f36c9.txt",
+      "type" : "text/plain",
+      "size" : 37
+    }, {
+      "uid" : "2512321c52bfda96",
+      "name" : "请求方法",
+      "source" : "2512321c52bfda96.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "3c24c5eed9890963",
+      "name" : "请求url",
+      "source" : "3c24c5eed9890963.txt",
+      "type" : "text/plain",
+      "size" : 14
+    }, {
+      "uid" : "7a2cf18f11d33521",
+      "name" : "请求头",
+      "source" : "7a2cf18f11d33521.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "14e4850ae3142d9a",
+      "name" : "提取参数",
+      "source" : "14e4850ae3142d9a.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "1924c9c9c50e89bf",
+      "name" : "关联参数",
+      "source" : "1924c9c9c50e89bf.txt",
+      "type" : "text/plain",
+      "size" : 3907
+    }, {
+      "uid" : "964e590603c28e8d",
+      "name" : "断言内容",
+      "source" : "964e590603c28e8d.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "90579e7c712ee2fc",
+      "name" : "返回结果",
+      "source" : "90579e7c712ee2fc.txt",
+      "type" : "text/plain",
+      "size" : 22533
+    }, {
+      "uid" : "9e648f5fae3a8839",
+      "name" : "log",
+      "source" : "9e648f5fae3a8839.txt",
+      "type" : "text/plain",
+      "size" : 22990
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "zzboss_会议模板权限ice.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "roomService"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e55d1df14cf663e9.json",
+  "parameterValues" : [ ]
+}

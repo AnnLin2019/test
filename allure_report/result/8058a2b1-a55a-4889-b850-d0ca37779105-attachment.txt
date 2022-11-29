@@ -1,0 +1,1 @@
+{"available":true,"enableServerRecord":true,"config":{"autoRecord":0,"start":null,"end":null,"resolution":"1920*1080","recordMode":0,"userIds":null,"videoMode":1,"dataMode":2,"sliceTime":60,"autoCloseTime":60,"timestampInfo":"{\"switch\":0,\"location\":2}","liveRecordMode":0,"width":1920,"high":1080,"recordUser":false}}

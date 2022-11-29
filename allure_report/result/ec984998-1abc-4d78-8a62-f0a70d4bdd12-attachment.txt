@@ -1,0 +1,1 @@
+{"type":2,"roomId":"${roomId1}","jsonValue":"{\"ID\":1,\"Name\":\"py修改本地轮巡\",\"Interval\":15000,\"Screen\":0,\"Window\":0,\"Status\":2,\"UserList\":[{\"UserID\":10003,\"NickName\":\"fs01\"},{\"UserID\":1610612935,\"NickName\":\"x00\"}]}"}

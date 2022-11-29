@@ -1,0 +1,1 @@
+INFO     root:test_api_all.py:83 获取在线的授权用户是否自动化： NO

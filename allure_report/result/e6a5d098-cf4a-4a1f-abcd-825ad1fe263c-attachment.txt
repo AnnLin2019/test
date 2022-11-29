@@ -1,0 +1,1 @@
+{"areaCode": "+86","departmentId":"${parentid}","displayName": "test根部门管理员","password": "123456","status": 1,"type": 1,"userLevel": 1,"userName":"$<random.randint(13000000000,13999999999)>"}

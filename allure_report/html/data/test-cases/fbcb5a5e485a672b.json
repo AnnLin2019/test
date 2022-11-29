@@ -1,0 +1,142 @@
+{
+  "uid" : "fbcb5a5e485a672b",
+  "name" : "刷新邀请码，刷新成功",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "3e4b76cdd825b67ff00f709a213169eb",
+  "time" : {
+    "start" : 1669345833944,
+    "stop" : 1669345834097,
+    "duration" : 153
+  },
+  "description" : "请求方法是 PATCH，请求url是 /api/meetings/948287/invitation,请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 PATCH，请求url是 /api/meetings/948287/invitation,请求头是 {&quot;content-type&quot;:&quot;application/x-www-form-urlencoded&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 PATCH，请求url是 /api/meetings/948287/invitation,请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7922ca5be6faa816",
+      "name" : "请求参数",
+      "source" : "7922ca5be6faa816.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "b33adf9373d1b2fc",
+      "name" : "请求方法",
+      "source" : "b33adf9373d1b2fc.txt",
+      "type" : "text/plain",
+      "size" : 5
+    }, {
+      "uid" : "dbbd7d46f6810958",
+      "name" : "请求url",
+      "source" : "dbbd7d46f6810958.txt",
+      "type" : "text/plain",
+      "size" : 61
+    }, {
+      "uid" : "20ee77cffd89bcd9",
+      "name" : "请求头",
+      "source" : "20ee77cffd89bcd9.txt",
+      "type" : "text/plain",
+      "size" : 117
+    }, {
+      "uid" : "b977126443864bf3",
+      "name" : "提取参数",
+      "source" : "b977126443864bf3.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "6e0d8ac162a17741",
+      "name" : "关联参数",
+      "source" : "6e0d8ac162a17741.txt",
+      "type" : "text/plain",
+      "size" : 3424
+    }, {
+      "uid" : "599cb78ed1e66764",
+      "name" : "断言内容",
+      "source" : "599cb78ed1e66764.txt",
+      "type" : "text/plain",
+      "size" : 11
+    }, {
+      "uid" : "3d38b9e229daea61",
+      "name" : "返回结果",
+      "source" : "3d38b9e229daea61.txt",
+      "type" : "text/plain",
+      "size" : 36
+    }, {
+      "uid" : "69f9a15ac096a7e6",
+      "name" : "log",
+      "source" : "69f9a15ac096a7e6.txt",
+      "type" : "text/plain",
+      "size" : 848
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Room_Companycustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "邀请码刷新"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fbcb5a5e485a672b.json",
+  "parameterValues" : [ ]
+}

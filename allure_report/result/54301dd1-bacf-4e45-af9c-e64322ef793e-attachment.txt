@@ -1,0 +1,1 @@
+"sliceTime":30,"autoCloseTime":10;"liveRecordMode":1

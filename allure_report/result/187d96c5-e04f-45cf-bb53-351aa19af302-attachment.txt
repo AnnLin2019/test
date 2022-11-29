@@ -1,0 +1,1 @@
+{"result":{"id":555765,"name":"test自动化企业","parentId":0,"children":[{"id":570367,"name":"testpyautotest","parentId":555765,"children":null}]},"resCode":0,"resMessage":"success"}

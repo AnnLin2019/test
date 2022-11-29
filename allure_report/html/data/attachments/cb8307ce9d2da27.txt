@@ -1,0 +1,1 @@
+https://bss-api.haoshitong.com/open/v1/user/password

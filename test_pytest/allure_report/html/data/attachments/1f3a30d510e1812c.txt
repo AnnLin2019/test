@@ -1,0 +1,57 @@
+{
+    "orderId": "$<uuid.uuid1().hex>", 
+    "crmOrderNo":"DD20221025$<random.randint(1000,9999)>",
+    "operatorId":98517,
+    "orderType": 1, 
+    "stockpileFlag": 0, 
+    "customerId": "612ca053869f9b0001284e9f", 
+    "partnerId": "6079501621ccd800016a5276", 
+    "hstCompanyId": 55485, 
+    "mobile": "13655544412", 
+    "bizReg":0,
+    "payPrice":"408",
+    "totalMoney":"309",
+    "products": [
+        {
+            "itemId": "$<uuid.uuid1().hex>", 
+            "category": "HARDWARE:ADDITION",  "code":"meeting_storage_5", 
+            "quantity":1, 
+             "unit":3,
+             "points":5,
+             "duration":1,
+             "amount":0,
+             "productPrice":138,
+             "productTotalPrice":148,
+             "gdTotalPrice":50
+           
+        },
+         {
+            "itemId": "$<uuid.uuid1().hex>", 
+            "category": "HARDWARE:ADDITION", 
+            "code":"live_standard_package", 
+            "quantity":1, 
+             "unit":3,
+             "points":5,
+             "duration":1,
+             "amount":0,
+             "productPrice":138,
+             "productTotalPrice":148,
+             "gdTotalPrice":51
+           
+        },
+         {
+            "itemId": "$<uuid.uuid1().hex>", 
+            "category": "HARDWARE:ADDITION", 
+            "code":"10_users_hd", 
+            "quantity":1, 
+             "unit":3,
+             "points":5,
+             "duration":1,
+             "amount":0,
+             "productPrice":138,
+             "productTotalPrice":148,
+             "gdTotalPrice":100
+           
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+INFO     root:test_api_all.py:83 开发者client列表是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 开发者client列表**********
+INFO     root:test_api_all.py:216 请求方法GET，请求头{'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'bearer 1b1533ca-a8b9-43a2-9b6c-9741f19376ac'},请求接口https://bss-api.haoshitong.com/api/developer/clients?page=1&size=10
+INFO     root:test_api_all.py:217 请求参数:
+{},
+请求文件None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "GET /api/developer/clients?page=1&size=10 HTTP/1.1" 200 None
+INFO     root:test_api_all.py:220 返回:
+ {"result":{"data":[{"id":2505293,"createTime":"2022-11-24 19:42:14","clientId":"4071133d-f75d-485c-a073-66bc3675001e","secret":"5ed588b9-cc06-41eb-9d4a-02633a129abb","clientName":"py自动化应用","status":true},{"id":2505294,"createTime":"2022-11-25 10:10:51","clientId":"5218c57e-c4d9-4f34-a82c-e2f01a6d90f2","secret":"c4fb455b-5cbe-4245-857d-f14cb156785c","clientName":"py自动化应用","status":true},{"id":2505295,"createTime":"2022-11-25 10:18:08","clientId":"2e814033-e097-4f18-a0b6-ebc4706d236e","secret":"49bf26e4-936b-4291-a32a-ce81acc51ab3","clientName":"py自动化应用","status":true},{"id":2505296,"createTime":"2022-11-25 10:25:06","clientId":"9f07e66e-3c35-4076-8de2-6495d59a06b8","secret":"7fe46075-f690-4d04-ab68-8ab2af906f16","clientName":"py自动化应用","status":true},{"id":2505297,"createTime":"2022-11-25 11:10:17","clientId":"765eb2c5-4d39-4132-a054-1607f95c25db","secret":"6c192438-23cf-4f50-9081-b0f614519e20","clientName":"py自动化应用","status":true}],"count":5},"resCode":0,"resMessage":"success"}

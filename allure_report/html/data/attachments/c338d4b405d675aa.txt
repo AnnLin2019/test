@@ -1,0 +1,1 @@
+{"result":{"data":[{"userId":2866251,"userName":"testpy@hst.com","displayName":"test334","authType":1,"authTypeDisplay":"授权"}],"count":1},"resCode":0,"resMessage":"success"}

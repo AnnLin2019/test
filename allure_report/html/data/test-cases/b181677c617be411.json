@@ -1,0 +1,148 @@
+{
+  "uid" : "b181677c617be411",
+  "name" : "删除部门，删除成功",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "ebbe47f289e5d33483b89832db4d3e0f",
+  "time" : {
+    "start" : 1669345921810,
+    "stop" : 1669345940255,
+    "duration" : 18445
+  },
+  "description" : "请求方法是 DELETE，请求url是 /api/customer/departments/${department2},请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 DELETE，请求url是 /api/customer/departments/${department2},请求头是 {&quot;content-type&quot;:&quot;application/x-www-form-urlencoded&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 DELETE，请求url是 /api/customer/departments/${department2},请求头是 {\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8e514c5dfb77a85d",
+      "name" : "请求参数",
+      "source" : "8e514c5dfb77a85d.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "4ac9838f48c22d86",
+      "name" : "上传文件",
+      "source" : "4ac9838f48c22d86.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "10d1c88e6c9cc68b",
+      "name" : "请求方法",
+      "source" : "10d1c88e6c9cc68b.txt",
+      "type" : "text/plain",
+      "size" : 6
+    }, {
+      "uid" : "ccdc9a3aefb33245",
+      "name" : "请求url",
+      "source" : "ccdc9a3aefb33245.txt",
+      "type" : "text/plain",
+      "size" : 62
+    }, {
+      "uid" : "39ccfaa8a8dbc18b",
+      "name" : "请求头",
+      "source" : "39ccfaa8a8dbc18b.txt",
+      "type" : "text/plain",
+      "size" : 117
+    }, {
+      "uid" : "a60af67766b91f92",
+      "name" : "提取参数",
+      "source" : "a60af67766b91f92.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "d9e9df89c2952555",
+      "name" : "关联参数",
+      "source" : "d9e9df89c2952555.txt",
+      "type" : "text/plain",
+      "size" : 3803
+    }, {
+      "uid" : "38ce036f08e1fc1e",
+      "name" : "断言内容",
+      "source" : "38ce036f08e1fc1e.txt",
+      "type" : "text/plain",
+      "size" : 11
+    }, {
+      "uid" : "3dd7e3afcf271ec1",
+      "name" : "返回结果",
+      "source" : "3dd7e3afcf271ec1.txt",
+      "type" : "text/plain",
+      "size" : 36
+    }, {
+      "uid" : "7aec89ccae839bcd",
+      "name" : "log",
+      "source" : "7aec89ccae839bcd.txt",
+      "type" : "text/plain",
+      "size" : 846
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 10,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "user_Companycustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "企业客户-导入用户"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b181677c617be411.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,11 @@
+INFO     root:test_api_all.py:83 32位密码是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 32位密码**********
+INFO     root:test_api_all.py:204 请求方法POST，
+请求头{'content-type': 'application/json', 'Authorization': 'bearer e983dcb9-7966-4193-8622-a35615e5a3db'},
+请求接口https://bss-api.haoshitong.com/api/customer/user
+INFO     root:test_api_all.py:205 请求参数:
+{"areaCode": "+86","departmentId":"570367","displayName": "test32位密码","password": "abcdefghijklm1234567890123456789","status": 1,"type": 1,"userLevel":0,"userName":"13931882857"},
+请求文件:None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "POST /api/customer/user HTTP/1.1" 200 None
+INFO     root:test_api_all.py:210 返回{"resCode":0,"resMessage":"success"}

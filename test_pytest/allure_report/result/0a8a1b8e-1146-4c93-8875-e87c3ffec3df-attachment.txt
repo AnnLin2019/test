@@ -1,0 +1,1 @@
+{"areaCode":"+86","departmentId":"${department}","type":1,"userName":"$<random.randint(13600000000,13999999999)>","password":"123456","displayName":"修改昵称大于32位修改昵称大于32位修改昵称大于32位修改昵称大于32位","userLevel":0,"status":1}

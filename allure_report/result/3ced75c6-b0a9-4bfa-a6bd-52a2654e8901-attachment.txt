@@ -1,0 +1,1 @@
+${ID20}=[result][id];${cipher20}=[result][cipher]

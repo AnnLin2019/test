@@ -1,0 +1,10 @@
+INFO     root:test_api_all.py:83 翻页查询成功是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 翻页查询成功**********
+INFO     root:test_api_all.py:216 请求方法GET，请求头{'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'bearer cdd2a5df-e441-4bda-a36c-737d2b2903cf'},请求接口https://bss-api.haoshitong.com/api/meetings?page=2&size=10
+INFO     root:test_api_all.py:217 请求参数:
+{},
+请求文件None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "GET /api/meetings?page=2&size=10 HTTP/1.1" 200 None
+INFO     root:test_api_all.py:220 返回:
+ {"result":{"data":[{"roomId":1015999,"roomName":"py管理员未进入会议室不允许其他参会人加入会议","status":"1","inviteCode":"657666880","inviteStatus":true,"showMeetingControl":true},{"roomId":1015997,"roomName":"py启用管理员密码","status":"1","inviteCode":"623254486","inviteStatus":true,"showMeetingControl":true},{"roomId":1015995,"roomName":"py不启用管理员密码","status":"1","inviteCode":"929792294","inviteStatus":true,"showMeetingControl":true},{"roomId":1015993,"roomName":"py启用会议密码","status":"1","inviteCode":"604119397","inviteStatus":true,"showMeetingControl":true},{"roomId":1015991,"roomName":"py不启用会议密码","status":"1","inviteCode":"216273305","inviteStatus":true,"showMeetingControl":true},{"roomId":1015989,"roomName":"py123","status":"1","inviteCode":"703681697","inviteStatus":true,"showMeetingControl":true},{"roomId":1015429,"roomName":"py123_部门556047","status":"1","inviteCode":"599988121","inviteStatus":true,"showMeetingControl":true},{"roomId":1015427,"roomName":"py123","status":"1","inviteCode":"796123055","inviteStatus":true,"showMeetingControl":true},{"roomId":1015425,"roomName":"py123","status":"1","inviteCode":"825519457","inviteStatus":true,"showMeetingControl":true},{"roomId":1015423,"roomName":"py123","status":"1","inviteCode":"789167766","inviteStatus":true,"showMeetingControl":true}],"count":213},"resCode":0,"resMessage":"success"}

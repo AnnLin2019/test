@@ -1,0 +1,1 @@
+INFO     root:test_api_all.py:83 GetRoomModeSettings2，默认培训-历史自定义无 316271是否自动化： NO

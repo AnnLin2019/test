@@ -1,0 +1,1 @@
+{"result":{"data":[{"id":7388337,"userName":"13310668414","displayName":"test32位密码","mobile":"13310668414","departmentId":569953,"departmentName":"testpyautotest","status":1,"level":0}],"count":1},"resCode":0,"resMessage":"success"}

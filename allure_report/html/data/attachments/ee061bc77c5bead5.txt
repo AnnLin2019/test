@@ -1,0 +1,7 @@
+INFO     root:test_api_all.py:83 record服务_切片时长120分钟，关闭录制时间设置120分钟是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 record服务_切片时长120分钟，关闭录制时间设置120分钟**********
+INFO     root:test_api_all.py:193 请求方法 ICE，ip 47.113.118.87,端口 33001，接口 invoke，
+INFO     root:test_api_all.py:194 请求参数 
+("RecordConfig","GET","915933")
+INFO     root:test_api_all.py:198 返回
+{"available":false,"enableServerRecord":true,"config":{"autoRecord":2,"start":"2022-06-15 19:45:30","end":"2022-06-15 19:55:30","resolution":"1920*1080","recordMode":0,"userIds":null,"videoMode":1,"dataMode":2,"sliceTime":120,"autoCloseTime":120,"timestampInfo":"{\"switch\":0,\"location\":2}","liveRecordMode":1,"width":1920,"high":1080,"recordUser":false}}

@@ -1,0 +1,10 @@
+INFO     root:test_api_all.py:83 刷新邀请码，刷新成功是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 刷新邀请码，刷新成功**********
+INFO     root:test_api_all.py:216 请求方法PATCH，请求头{'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'bearer cdd2a5df-e441-4bda-a36c-737d2b2903cf'},请求接口https://bss-api.haoshitong.com/api/meetings/948287/invitation
+INFO     root:test_api_all.py:217 请求参数:
+{},
+请求文件None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "PATCH /api/meetings/948287/invitation HTTP/1.1" 200 None
+INFO     root:test_api_all.py:220 返回:
+ {"resCode":0,"resMessage":"success"}

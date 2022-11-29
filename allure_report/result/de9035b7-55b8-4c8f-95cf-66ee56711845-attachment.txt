@@ -1,0 +1,15 @@
+INFO     root:test_api_all.py:83 授权为管理员，授权成功是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 授权为管理员，授权成功**********
+INFO     root:test_api_all.py:204 请求方法POST，
+请求头{'content-type': 'application/json', 'Authorization': 'bearer cdd2a5df-e441-4bda-a36c-737d2b2903cf'},
+请求接口https://bss-api.haoshitong.com/api/meetings/335239/authorizations
+INFO     root:test_api_all.py:205 请求参数:
+{
+  "details":[{"userId":3054941,"seatNum":1000},
+{"userId":3054939,"seatNum":1000}],
+  "userRight": 1
+},
+请求文件:None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "POST /api/meetings/335239/authorizations HTTP/1.1" 200 None
+INFO     root:test_api_all.py:210 返回{"resCode":0,"resMessage":"success"}

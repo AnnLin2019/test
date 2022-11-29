@@ -1,0 +1,1 @@
+INFO     root:test_api_all.py:83 type为无效类型，新增失败是否自动化： NO

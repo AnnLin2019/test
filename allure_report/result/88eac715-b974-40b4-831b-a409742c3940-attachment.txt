@@ -1,0 +1,10 @@
+INFO     root:test_api_all.py:83 验证重置密码的验证码是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 验证重置密码的验证码**********
+INFO     root:test_api_all.py:216 请求方法GET，请求头{},请求接口https://bss-api.haoshitong.com/open/verification/6a8e7ec64f644979a250ffb43f2470f3?code=311899
+INFO     root:test_api_all.py:217 请求参数:
+{},
+请求文件None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "GET /open/verification/6a8e7ec64f644979a250ffb43f2470f3?code=311899 HTTP/1.1" 200 None
+INFO     root:test_api_all.py:220 返回:
+ {"result":true,"resCode":0,"resMessage":"success"}

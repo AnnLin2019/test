@@ -1,1 +1,0 @@
-{"code":"0000","message":"SUCCESS","result":{"currentPage":1,"items":[],"pageSize":15,"totalRowsAmount":0}}

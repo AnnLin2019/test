@@ -1,0 +1,1 @@
+{"areaCode": "+86","departmentId":"${department}","displayName": "test停用状态","password": "123456","status": 2,"type": 2,"userLevel": 0,"userName":""}

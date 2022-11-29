@@ -1,1 +1,0 @@
-{"code":"0000","message":"SUCCESS","result":{"curUserCount":0,"roomId":235015,"roomName":"勿删"}}

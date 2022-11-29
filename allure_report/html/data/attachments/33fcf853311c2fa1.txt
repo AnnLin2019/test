@@ -1,0 +1,4 @@
+{
+  "ids": [ ${terminalid}],
+  "command": "UPLOAD_LOG"
+}

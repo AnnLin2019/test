@@ -1,0 +1,1 @@
+{"available":false,"enableServerRecord":true,"config":{"autoRecord":2,"start":"2022-06-16 19:45:30","end":"2022-06-16 19:55:30","resolution":"1280*720","recordMode":1,"userIds":null,"videoMode":2,"dataMode":1,"sliceTime":60,"autoCloseTime":60,"timestampInfo":"{\"switch\":0,\"location\":2}","liveRecordMode":1,"width":1280,"high":720,"recordUser":false}}

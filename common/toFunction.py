@@ -9,6 +9,14 @@ import importlib,re
 from functools import wraps
 
 class Func:
+    def param_type(self,func,param):
+        if isinstance(param,tuple):
+            return func(*param)
+        elif isinstance(param,dict):
+            return func(**param)
+        else:
+            return func(param)
+
     def DoFun(self,funcs):
         Isfunction = funcs.find('.')
         if Isfunction > 0:
@@ -36,7 +44,8 @@ class Func:
                             Excfun = function(*eval(params))
                         except Exception:
                             function = getattr(module, search_param.group(1))  # 函数
-                            Excfun = function(*eval(params))
+                            # Excfun = function(*eval(params)) 20221108y优化函数执行
+                            Excfun=self.param_type(function,eval(params))
                             print(Exception)
 
                     else:
@@ -207,6 +216,23 @@ if __name__ == '__main__':
     funcs = "$<common.RSA_encrypt.crack_pwd('123456','MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAJlF0u37iq0aK1kwF+YO9xYrf2SGL8MDtYARczE8LxFt3aIOL0M1hsaKDSDXrwV5M+4F4tAz4ZVHoNWKjB1IN3Xp3KHHKaVMdqMTYQ/VhBbRkEs3y1n/j1gedeISAiYymwIDAQAB')>"
     f3=func.ExcuteFunction2(funcs)
     print(f3)
+    f4='$<config.config.data_path3("data")>'
+    f5=func.ExcuteFunction2(f4)
+    print('---f5---',f5)
+    file='F:\\Test\\Interface\\Python自动化\\git_api\\test\\data\\员工导入2.xlsx'
+    dd=repr("{'file':file}")
+    p=eval(dd)
+    import os
+
+    print("curdir",os.path.abspath(os.path.curdir))
+    pp=os.path.abspath('F:\\Test\\Interface\\Python自动化\\git_api\test\\data\\员工导入2.xlsx')
+    pat='\\'
+    a=r'{}'.format(repr('F:\\Test\\Interface\\Python自动化\\git_api\test\\data\\员工导入2.xlsx'))
+    print(p)
+    ff=open(p,'rb')
+    ff.close()
+
+
 
     # import importlib
     # m=importlib.import_module("common")

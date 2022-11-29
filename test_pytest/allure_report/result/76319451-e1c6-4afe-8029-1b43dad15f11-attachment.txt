@@ -1,8 +1,0 @@
-{
-  "userPermissions": [
-    {
-      "userId": 2594195,
-      "permission": ""
-    }
-  ]
-}

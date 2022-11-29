@@ -1,0 +1,6 @@
+(0, 
+{
+    onlines = 0
+    maxCount = 100
+    curDevID = fsp2-as3
+})

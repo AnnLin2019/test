@@ -1,0 +1,10 @@
+INFO     root:test_api_all.py:83 个人会议查询是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 个人会议查询**********
+INFO     root:test_api_all.py:216 请求方法GET，请求头{'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'bearer e88cade0-7d41-460d-a06d-85a1bef87a3e'},请求接口https://bss-api.haoshitong.com/api/meeting/personal
+INFO     root:test_api_all.py:217 请求参数:
+{},
+请求文件None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "GET /api/meeting/personal HTTP/1.1" 200 None
+INFO     root:test_api_all.py:220 返回:
+ {"result":{"id":306359,"name":"10方会议室测试接口","link":"https://ws.haoshitong.com/room/4AupvSMXiC","inviteCode":"987854850","enablePassword":false,"password":null,"enableChairPassword":false,"chairPassword":null,"menteeAdvance":true,"verifyMode":3,"maxUserCount":30,"autoRecord":null,"status":1,"serviceId":48},"resCode":0,"resMessage":"success"}

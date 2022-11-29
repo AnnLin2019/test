@@ -1,0 +1,1 @@
+{"result":{"url":"https://mc.haoshitong.com/meetingcontrol/index.html?aa=kkCZ+BK2tCIEQd3+RyVpNMvBFBtoS0GEOOkzTeqahvP0t8uZYws67S4BWHdCUqS7bePMjNBR56gm6LGmQxq1d+icLRHM6WrucopJCvHwiWNHcK920Fmdbf8H7AQb9tw2jgLYDYFIO3x1Oza/FLboVLhPhJoph6m+17iKnw2uAm0eGMiAkxfMrJKc1ATQ+SFvXFVeOTg3Z5NLg1mIO3QFQB6RIeb/z+M4xrMJ8UdwBmS4KCsR4OERTNIoDpDn7uDW"},"resCode":0,"resMessage":"success"}

@@ -1,59 +1,48 @@
 {
-  "total" : 5,
+  "total" : 4,
   "items" : [ {
-    "uid" : "f0087bd288fea5c5a962075ba0e53a8e",
-    "name" : "boss_api_Room_testcase.xlsx",
+    "uid" : "9058c4a83a2e3d3bb0edbceed8d4c24d",
+    "name" : "user_Companycustomer.xlsx",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 2,
-      "passed" : 15,
+      "skipped" : 3,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 17
+      "total" : 14
     }
   }, {
-    "uid" : "12b27cd0588143d230286e68d819025b",
-    "name" : "boss_api_User_testcase.xlsx",
+    "uid" : "2748115a8bd418fed3c66bdb3a571edd",
+    "name" : "BeforeLogin_customer.xlsx",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 1,
-      "passed" : 10,
-      "unknown" : 0,
-      "total" : 11
-    }
-  }, {
-    "uid" : "45c842e0f9b0963778cb61032dcec0b1",
-    "name" : "boss_api_Department_testcase.xlsx",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 1,
-      "passed" : 8,
-      "unknown" : 0,
-      "total" : 9
-    }
-  }, {
-    "uid" : "230842f11c25b41f4109ffae744cbfec",
-    "name" : "boss_api_Record_testcase-未完成.xlsx",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 2,
       "passed" : 5,
       "unknown" : 0,
-      "total" : 7
+      "total" : 6
     }
   }, {
-    "uid" : "e2301caacffdd3d3bb56decd92cc1022",
-    "name" : "boss_api_新增多个部门和用户.xlsx",
+    "uid" : "c8048fad6c318a6b8718d2fb2383c1d5",
+    "name" : "Room_1.xlsx",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 2,
+      "skipped" : 0,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 3
+      "total" : 4
+    }
+  }, {
+    "uid" : "169da81b40144a9d825efd4d55941dcd",
+    "name" : "boss_ice_1.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
     }
   } ]
 }

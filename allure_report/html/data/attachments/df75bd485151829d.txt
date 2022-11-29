@@ -1,0 +1,3 @@
+INFO     root:test_api_all.py:83 VerifyRoomUser服务
+unameType:0 匿名用户
+1 注册用户,匿名用户不需要密码是否自动化： NO

@@ -1,0 +1,142 @@
+{
+  "uid" : "c2e2b3f1cbcec60d",
+  "name" : "验证重置密码的验证码",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "ad94e46cacd12a2a7eb5bc19759e896f",
+  "time" : {
+    "start" : 1669345812944,
+    "stop" : 1669345813076,
+    "duration" : 132
+  },
+  "description" : "请求方法是 GET，请求url是 /open/verification/${ID20}?code=${code20},请求头是 {}",
+  "descriptionHtml" : "<p>请求方法是 GET，请求url是 /open/verification/${ID20}?code=${code20},请求头是 {}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 GET，请求url是 /open/verification/${ID20}?code=${code20},请求头是 {}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cc4d8751cd4e4591",
+      "name" : "请求参数",
+      "source" : "cc4d8751cd4e4591.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "935e052ede132247",
+      "name" : "请求方法",
+      "source" : "935e052ede132247.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "7234225a31c3a83b",
+      "name" : "请求url",
+      "source" : "7234225a31c3a83b.txt",
+      "type" : "text/plain",
+      "size" : 93
+    }, {
+      "uid" : "3e15a74357de0e87",
+      "name" : "请求头",
+      "source" : "3e15a74357de0e87.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "73adfea7417f58fb",
+      "name" : "提取参数",
+      "source" : "73adfea7417f58fb.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "5d0847f0d920965d",
+      "name" : "关联参数",
+      "source" : "5d0847f0d920965d.txt",
+      "type" : "text/plain",
+      "size" : 1928
+    }, {
+      "uid" : "1e01bb6e1c1e5606",
+      "name" : "断言内容",
+      "source" : "1e01bb6e1c1e5606.txt",
+      "type" : "text/plain",
+      "size" : 11
+    }, {
+      "uid" : "6e6aa466a72b71f8",
+      "name" : "返回结果",
+      "source" : "6e6aa466a72b71f8.txt",
+      "type" : "text/plain",
+      "size" : 50
+    }, {
+      "uid" : "fb615c3b9f79c47f",
+      "name" : "log",
+      "source" : "fb615c3b9f79c47f.txt",
+      "type" : "text/plain",
+      "size" : 807
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "BeforeLogin_customer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "忘记密码"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2e2b3f1cbcec60d.json",
+  "parameterValues" : [ ]
+}

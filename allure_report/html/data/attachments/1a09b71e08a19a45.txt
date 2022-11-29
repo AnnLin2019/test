@@ -1,0 +1,1 @@
+{"result":{"name":null,"link":null,"inviteCode":null,"creator":null},"resCode":0,"resMessage":"success"}

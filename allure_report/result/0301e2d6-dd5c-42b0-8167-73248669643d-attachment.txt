@@ -1,0 +1,14 @@
+INFO     root:test_api_all.py:83 发送关机命令，发送成功是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 发送关机命令，发送成功**********
+INFO     root:test_api_all.py:204 请求方法POST，
+请求头{'content-type': 'application/json', 'Authorization': 'bearer 9769cc95-a67e-469d-94b9-583c7f2083b0'},
+请求接口https://bss-api.haoshitong.com/api/v1/terminal/command
+INFO     root:test_api_all.py:205 请求参数:
+{
+  "ids": [ 75],
+  "command": "SHUTDOWN"
+},
+请求文件:None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "POST /api/v1/terminal/command HTTP/1.1" 200 None
+INFO     root:test_api_all.py:210 返回{"result":null,"resCode":0,"resMessage":"success"}

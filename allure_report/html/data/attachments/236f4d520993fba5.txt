@@ -1,0 +1,1 @@
+${department2}=[result][children:0][id];${department3}=[result][children:1][id]

@@ -1,0 +1,6 @@
+{'ip':'47.113.118.87',
+'port':2201,
+'username':'fsmeeting',
+'password':'fsmeeting123',
+'cmd':["tac /fsmeeting/logs/dal.log |grep -E 'id .*? input data should be .*?'"],
+'pattern':['input data should be (.*)']}

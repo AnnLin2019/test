@@ -1,0 +1,15 @@
+INFO     root:test_api_all.py:83 查询会议室本地轮巡的数据是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 查询会议室本地轮巡的数据**********
+INFO     root:test_api_all.py:216 请求方法GET，请求头{'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'bearer b0e6fdd3-5ddd-4072-8aba-2ea1f15946ee'},请求接口https://interface.haoshitong.com/security/meeting/data?type=0&roomId=317823
+INFO     root:test_api_all.py:217 请求参数:
+None,
+请求文件None
+INFO     root:test_api_all.py:225 请求方法 GET，
+请求头 {'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'bearer b0e6fdd3-5ddd-4072-8aba-2ea1f15946ee'},
+请求接口 https://interface.haoshitong.com/security/meeting/data?type=0&roomId=317823
+INFO     root:test_api_all.py:226 请求参数 None,
+请求文件 None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): interface.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://interface.haoshitong.com:443 "GET /security/meeting/data?type=0&roomId=317823 HTTP/1.1" 200 None
+INFO     root:test_api_all.py:230 返回:
+ {"resCode":1,"resMessage":"success","result":{"id":635,"type":0,"roomId":317823,"jsonValue":"{\"ID\":1,\"Name\":\"py本地轮巡\",\"Interval\":15000,\"Screen\":0,\"Window\":0,\"Status\":2,\"UserList\":[{\"UserID\":10003,\"NickName\":\"fs01\"},{\"UserID\":1610612935,\"NickName\":\"x00\"}]}"}}

@@ -1,7 +1,0 @@
-{
-  "roomName": "",
-  "hopeStartTime": "2022-06-20 00:00:00",
-  "hopeEndTime":"",
-  "departmentName": "",
-  "roomType":""
-}

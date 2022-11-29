@@ -1,0 +1,1 @@
+{"result":{"id":55303,"name":"test自动化企业","telephone":"-","address":"","siteUrl":null,"logo":null,"content":null},"resCode":0,"resMessage":"success"}

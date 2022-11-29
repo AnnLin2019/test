@@ -1,0 +1,1 @@
+{"scope":"","access_token":"16a67590-2d1b-453a-aba1-09f1c2ba8767","token_type":"bearer","expires_in":86396,"refresh_token":"35539ad4-f858-4a38-9f3f-5b1a9491d1ef"}

@@ -1,0 +1,84 @@
+INFO     root:test_api_all.py:83 新增会议，新增成功是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 新增会议，新增成功**********
+INFO     root:test_api_all.py:204 请求方法POST，
+请求头{'content-type': 'application/json', 'Authorization': 'bearer cdd2a5df-e441-4bda-a36c-737d2b2903cf'},
+请求接口https://bss-api.haoshitong.com/api/meetings
+INFO     root:test_api_all.py:205 请求参数:
+{
+ "name":"py123",
+ "password":
+ {
+  "enablePassword":false,
+  "enableChairPassword":false,
+  "chairPassword":"123456"
+  
+ },
+ "menteeAdvance":true,
+ "verifyMode":1,
+ "departmentId":556047,
+ "templateSetting":
+ {
+  "id":3,
+  "name":"讨论",
+  "code":"discussion",
+  "version":"2.0",
+  "defaultTemplate":1,
+  "roles":
+  [{
+   "name":"参会人",
+   "code":"mentee",
+   "businessId":0,
+   "type":0,
+   "visible":false,
+   "enable":false,
+   "defaultRole":false,
+   "permissions":[{
+    "functionCode":"auto_broadcast_own_audio"
+   },
+   {
+    "functionCode":"auto_broadcast_own_video"
+   },
+   {
+    "functionCode":"operate_public_chat"
+   },
+   {
+    "functionCode":"operate_private_chat"
+   },
+   {
+    "functionCode":"operate_meeting_record"
+   },
+   {
+    "functionCode":"file_share"
+   },
+   {
+    "functionCode":"broadcast_own_audio"
+   },
+   {
+    "functionCode":"broadcast_own_video"
+   }]}],
+   "params":
+   [{
+    "attrCode":"reserve_presenter_video",
+    "parent":"",
+    "value":true
+   }],
+   "custom":false
+ },
+ "layout":"layout_flex",
+ "status":1,
+ "maxUserCount":30,
+ "product":
+ {
+  "id":0,
+  "serviceId":35,
+  "name":"超清产品1080P",
+  "layout":"W1,W2,WVT,WVP,WVA,WV1,WV2,WV3,WV4,WV6,WV9,WV12,WV16",
+  "scope":"company"
+
+  
+ }
+},
+请求文件:None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "POST /api/meetings HTTP/1.1" 200 None
+INFO     root:test_api_all.py:210 返回{"resCode":0,"resMessage":"success"}

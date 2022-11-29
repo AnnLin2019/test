@@ -1,0 +1,7 @@
+(0, 
+{
+    roomID = 235015
+    verifyMode = 3
+    userRight = 2
+    result = 0
+})

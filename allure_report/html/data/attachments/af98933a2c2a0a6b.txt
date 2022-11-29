@@ -1,0 +1,1 @@
+INFO     root:test_api_all.py:83 room服务_会控,注册用户会议管理员获取会控地址是否自动化： NO

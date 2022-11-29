@@ -1,0 +1,1 @@
+${roomid1}=[result][data:0][roomId];${roomid2}=[result][data:1][roomId];${roomid3}=[result][data:2][roomId];${roomid4}=[result][data:3][roomId];${roomid5}=[result][data:4][roomId];${roomid6}=[result][data:5][roomId];${roomid7}=[result][data:6][roomId];${roomid8}=[result][data:7][roomId]

@@ -1,0 +1,1 @@
+{"result":{"data":[{"roomId":317823,"roomName":"本地轮巡勿动","status":"1","inviteCode":"712709993","inviteStatus":true,"showMeetingControl":true}],"count":1},"resCode":0,"resMessage":"success"}

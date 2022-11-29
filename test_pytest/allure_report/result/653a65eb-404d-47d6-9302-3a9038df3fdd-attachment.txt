@@ -1,0 +1,1 @@
+{"result":{"data":[{"id":7388341,"userName":"13189425972","displayName":"test停用状态","mobile":"13189425972","departmentId":569953,"departmentName":"testpyautotest","status":2,"level":0}],"count":1},"resCode":0,"resMessage":"success"}

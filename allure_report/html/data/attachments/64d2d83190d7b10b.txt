@@ -1,0 +1,1 @@
+UPDATE t_user_binding_info SET bindingValue='testbossauto0001@hst.com' where userId=2843779 and type=2;

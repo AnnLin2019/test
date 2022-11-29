@@ -1,0 +1,79 @@
+{
+  "uid" : "47cad6e9992503d9",
+  "name" : "预置数据：查询根部门id",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "92a04ad8c475845f063724e95a8427a6",
+  "time" : {
+    "start" : 1667807248798,
+    "stop" : 1667807248798,
+    "duration" : 0
+  },
+  "description" : "请求方法是GET，请求url是/api/customer/departments,请求头是{\"content-type\":\"application/x-www-form-urlencoded\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是GET，请求url是/api/customer/departments,请求头是{&quot;content-type&quot;:&quot;application/x-www-form-urlencoded&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: this test is skipped",
+  "statusTrace" : "('F:\\\\Test\\\\Interface\\\\Python自动化\\\\git_api\\\\test\\\\test_pytest\\\\test_api_all.py', 79, 'Skipped: this test is skipped')",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1667807229409,
+      "stop" : 1667807229581,
+      "duration" : 172
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Room_1.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "企业会议增加"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "34876-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47cad6e9992503d9.json",
+  "parameterValues" : [ ]
+}

@@ -1,1 +1,0 @@
-{"code":"0000","message":"SUCCESS","result":[{"companyId":53231,"depId":569871,"depName":"修改","parentDepId":550857}]}

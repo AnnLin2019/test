@@ -1,0 +1,10 @@
+INFO     root:test_api_all.py:83 登录，获取token是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 登录，获取token**********
+INFO     root:test_api_all.py:216 请求方法POST，请求头{'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'Basic aDUtY2xpZW50OjczNzlkYjFhLWUxNzMtNGM4ZS04OTVkLTNiNGMzOTMzOWU1OA=='},请求接口https://oauth.haoshitong.com/oauth2/token
+INFO     root:test_api_all.py:217 请求参数:
+{"grant_type":"password","username":"auto@hst.com","password":"123456"},
+请求文件None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): oauth.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://oauth.haoshitong.com:443 "POST /oauth2/token HTTP/1.1" 200 None
+INFO     root:test_api_all.py:220 返回:
+ {"scope":"","access_token":"e983dcb9-7966-4193-8622-a35615e5a3db","token_type":"bearer","expires_in":86396,"refresh_token":"7f6a0803-bb29-4d90-abf9-01e8ca34e537"}

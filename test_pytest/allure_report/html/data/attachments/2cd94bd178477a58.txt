@@ -1,0 +1,1 @@
+{"result":{"data":[{"id":7388329,"userName":"testemail001@hst.com","displayName":"test邮箱类型","mobile":null,"departmentId":569953,"departmentName":"testpyautotest","status":1,"level":0}],"count":1},"resCode":0,"resMessage":"success"}

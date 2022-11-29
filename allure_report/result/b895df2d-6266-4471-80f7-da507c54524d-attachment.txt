@@ -1,0 +1,1 @@
+${editdepartment1}=[result][children:0][id]

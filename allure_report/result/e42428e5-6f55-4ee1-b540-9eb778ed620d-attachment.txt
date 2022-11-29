@@ -1,0 +1,1 @@
+${parentId}=[result][data:0][departmentId]

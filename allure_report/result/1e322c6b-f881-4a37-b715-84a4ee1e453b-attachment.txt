@@ -1,0 +1,1 @@
+{"grant_type":"password","username":"auto@hst.com","password":"123456"}

@@ -1,0 +1,5121 @@
+[ {
+  "uid" : "4799a06b2074b7e7",
+  "name" : "room服务_会控,匿名用户参会人不能获取会控地址",
+  "time" : {
+    "start" : 1669345953179,
+    "stop" : 1669345953179,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "aa069f0be551b223",
+  "name" : "GetRoomModeSettings2，新即时讨论1000000003",
+  "time" : {
+    "start" : 1669345950953,
+    "stop" : 1669345950954,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "87c4038a4ae7e3cc",
+  "name" : "部门不为本企业部门，导入失败",
+  "time" : {
+    "start" : 1669345863482,
+    "stop" : 1669345863627,
+    "duration" : 145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4df1707505d8a18",
+  "name" : "名称查询用户",
+  "time" : {
+    "start" : 1669345854039,
+    "stop" : 1669345854205,
+    "duration" : 166
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12a569bdf2d3e319",
+  "name" : "record服务",
+  "time" : {
+    "start" : 1669345953199,
+    "stop" : 1669345953374,
+    "duration" : 175
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c05b0262ad140ff",
+  "name" : "record服务_关闭入会自动录制，仅录音频，视频和数据平铺显示",
+  "time" : {
+    "start" : 1669345952025,
+    "stop" : 1669345952169,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1b23ef58efd33ba",
+  "name" : "没有父ID新增部门",
+  "time" : {
+    "start" : 1669345954255,
+    "stop" : 1669345954262,
+    "duration" : 7
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ca0b8d9cc49bf570",
+  "name" : "导入企业管理员，导入失败",
+  "time" : {
+    "start" : 1669345864206,
+    "stop" : 1669345864356,
+    "duration" : 150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "868e7a387c4bf955",
+  "name" : "新增快速签到数据，新增成功",
+  "time" : {
+    "start" : 1669345945105,
+    "stop" : 1669345945246,
+    "duration" : 141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec2d0d6b29f3f1f1",
+  "name" : "GetRoomModeSettings2，历史自定义-音视频自己 316239",
+  "time" : {
+    "start" : 1669345949445,
+    "stop" : 1669345949589,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fba52f6100c0916c",
+  "name" : "登录，获取token",
+  "time" : {
+    "start" : 1669345844147,
+    "stop" : 1669345844311,
+    "duration" : 164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "287c20ceccad6a6",
+  "name" : "record服务_剩余存储少于100M返回不允许返回录制文件",
+  "time" : {
+    "start" : 1669345952456,
+    "stop" : 1669345952604,
+    "duration" : 148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d5e802dca168f18",
+  "name" : "导入大于2000条数据，导入失败",
+  "time" : {
+    "start" : 1669345921483,
+    "stop" : 1669345921661,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9bf8c63059e5b27",
+  "name" : "导出指定用户",
+  "time" : {
+    "start" : 1669345861056,
+    "stop" : 1669345861252,
+    "duration" : 196
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bac10b7cc103788",
+  "name" : "更新邀请码为永久，更新成功",
+  "time" : {
+    "start" : 1669345833654,
+    "stop" : 1669345833789,
+    "duration" : 135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a982f6a6e1541b87",
+  "name" : "终端序列号为空，修改失败",
+  "time" : {
+    "start" : 1669345845862,
+    "stop" : 1669345846029,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24f6256312300503",
+  "name" : "登录，获取token",
+  "time" : {
+    "start" : 1669345941685,
+    "stop" : 1669345944908,
+    "duration" : 3223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee384f1aaef9ffde",
+  "name" : "GetRoomModeSettings2，默认培训-新预约讨论316361",
+  "time" : {
+    "start" : 1669345950539,
+    "stop" : 1669345950539,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3fd51a2b20dc08c0",
+  "name" : "获取会议模板",
+  "time" : {
+    "start" : 1669345832797,
+    "stop" : 1669345832941,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "155e312e208464c1",
+  "name" : "删除部门，删除成功",
+  "time" : {
+    "start" : 1669345816604,
+    "stop" : 1669345816764,
+    "duration" : 160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c47eb70e113e2e84",
+  "name" : "启用会议密码，长度小于6位，新增失败",
+  "time" : {
+    "start" : 1669345828657,
+    "stop" : 1669345828814,
+    "duration" : 157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0688e84300ad0f8",
+  "name" : "获取验证图片，获取id",
+  "time" : {
+    "start" : 1669345801839,
+    "stop" : 1669345802137,
+    "duration" : 298
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "922543687e62143c",
+  "name" : "查询未来时间，会议日程查询成功",
+  "time" : {
+    "start" : 1669345840709,
+    "stop" : 1669345840857,
+    "duration" : 148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9672f138d59e59a6",
+  "name" : "测试1",
+  "time" : {
+    "start" : 1669345816766,
+    "stop" : 1669345816767,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "98fc00a4d92e35b1",
+  "name" : "注册，获取验证图片",
+  "time" : {
+    "start" : 1669345821884,
+    "stop" : 1669345822111,
+    "duration" : 227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6728befb117c9857",
+  "name" : "登录dal服务器，从log获取验证验证码接口所需的code",
+  "time" : {
+    "start" : 1669345805810,
+    "stop" : 1669345806319,
+    "duration" : 509
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b237ee1d1817831a",
+  "name" : "修改会议室本地轮巡的数据",
+  "time" : {
+    "start" : 1669345946681,
+    "stop" : 1669345946825,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d09673454cae0383",
+  "name" : "3",
+  "time" : {
+    "start" : 1669345816772,
+    "stop" : 1669345816773,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2f4ba24a5f5d611d",
+  "name" : "查询会议室快速签到的数据",
+  "time" : {
+    "start" : 1669345946415,
+    "stop" : 1669345946536,
+    "duration" : 121
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd6c9ddce7022fc7",
+  "name" : "GetRoomModeSettings2，新培训 317147 ",
+  "time" : {
+    "start" : 1669345950640,
+    "stop" : 1669345950640,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "94aa7563fe4868fd",
+  "name" : "修改绑定邮箱",
+  "time" : {
+    "start" : 1669345818025,
+    "stop" : 1669345818849,
+    "duration" : 824
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a10a399e5eb9768",
+  "name" : "修改为其他企业部门，修改失败",
+  "time" : {
+    "start" : 1669345857680,
+    "stop" : 1669345857828,
+    "duration" : 148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1cb8e99c88f95a22",
+  "name" : "GetRoomModeSettings2，历史自定义-录制文件界面 316251 ",
+  "time" : {
+    "start" : 1669345950327,
+    "stop" : 1669345950470,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58329ac1641530c2",
+  "name" : "GetRoomModeSettings2，默认讨论-自录制文件316575",
+  "time" : {
+    "start" : 1669345950597,
+    "stop" : 1669345950597,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f30ab895a01c00f2",
+  "name" : "无效状态，用户添加失败",
+  "time" : {
+    "start" : 1669345852819,
+    "stop" : 1669345852967,
+    "duration" : 148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a097f08367586a1",
+  "name" : "GetRoomModeSettings2，新培训 316313 ",
+  "time" : {
+    "start" : 1669345950475,
+    "stop" : 1669345950475,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b270cb4af1ded82a",
+  "name" : "类型为空，修改失败",
+  "time" : {
+    "start" : 1669345857988,
+    "stop" : 1669345858130,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7b7a9585f74ee01",
+  "name" : "删除会议数据，删除成功",
+  "time" : {
+    "start" : 1669345948224,
+    "stop" : 1669345948362,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e104c7917b5e85ae",
+  "name" : "2",
+  "time" : {
+    "start" : 1669345941651,
+    "stop" : 1669345941651,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1b1f155841377ee1",
+  "name" : "验证坐标点",
+  "time" : {
+    "start" : 1669345827103,
+    "stop" : 1669345827329,
+    "duration" : 226
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46cbca8a82c38f49",
+  "name" : "获取录制配置，关闭录制",
+  "time" : {
+    "start" : 1669345842342,
+    "stop" : 1669345842492,
+    "duration" : 150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52d389766f08704d",
+  "name" : "GetRoomModeSettings2，历史会控316233",
+  "time" : {
+    "start" : 1669345948936,
+    "stop" : 1669345949106,
+    "duration" : 170
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea2d963892365996",
+  "name" : "会议日程",
+  "time" : {
+    "start" : 1669345840380,
+    "stop" : 1669345840545,
+    "duration" : 165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35a4fe73b7142ff9",
+  "name" : "删除其他企业的会议数据，删除失败",
+  "time" : {
+    "start" : 1669345948506,
+    "stop" : 1669345948506,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "561acfc9cf49d367",
+  "name" : "record服务_切片时长120分钟，关闭录制时间设置120分钟",
+  "time" : {
+    "start" : 1669345953931,
+    "stop" : 1669345954077,
+    "duration" : 146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "686dbe6097f07c11",
+  "name" : "jsonvalue为非json格式字符串，新增失败",
+  "time" : {
+    "start" : 1669345945801,
+    "stop" : 1669345946282,
+    "duration" : 481
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1bbd430889e2dd9",
+  "name" : "GetRoomModeSettings2，新讨论316311",
+  "time" : {
+    "start" : 1669345950472,
+    "stop" : 1669345950473,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "caa425f43924bfd2",
+  "name" : "查询产品概要信息",
+  "time" : {
+    "start" : 1669345940480,
+    "stop" : 1669345940648,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "473f901e64f5aae8",
+  "name" : "jsonvalue为空，修改失败",
+  "time" : {
+    "start" : 1669345947687,
+    "stop" : 1669345947813,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcc0f3fe8f2b4824",
+  "name" : "导入2000条数据，导入成功",
+  "time" : {
+    "start" : 1669345864815,
+    "stop" : 1669345921481,
+    "duration" : 56666
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aab85104849a4391",
+  "name" : "重置密码，获取验证图片",
+  "time" : {
+    "start" : 1669345821881,
+    "stop" : 1669345821881,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "adb8772e2df5816b",
+  "name" : "3",
+  "time" : {
+    "start" : 1669345948514,
+    "stop" : 1669345948514,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fa9a562a4c88f66a",
+  "name" : "密码为空，修改成功",
+  "time" : {
+    "start" : 1669345858783,
+    "stop" : 1669345858984,
+    "duration" : 201
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2f0b4aa5b153c64",
+  "name" : "测试1",
+  "time" : {
+    "start" : 1669345827332,
+    "stop" : 1669345827332,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "260a0c62d39460d7",
+  "name" : "删除部门，删除成功",
+  "time" : {
+    "start" : 1669345940803,
+    "stop" : 1669345940804,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "207213187ab5e7ef",
+  "name" : "启用管理员密码，长度超过32位，新增失败",
+  "time" : {
+    "start" : 1669345829566,
+    "stop" : 1669345829747,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b221a74e36182a10",
+  "name" : "密码为空，添加成功",
+  "time" : {
+    "start" : 1669345852429,
+    "stop" : 1669345852615,
+    "duration" : 186
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a08c55f10334fbb",
+  "name" : "终端序列号已激活端口服务已过期，终端续费4K产品生效成功",
+  "time" : {
+    "start" : 1669345847315,
+    "stop" : 1669345847315,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8c03a36e780458f3",
+  "name" : "2",
+  "time" : {
+    "start" : 1669345827335,
+    "stop" : 1669345827335,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "51f5351eaef7ebcb",
+  "name" : "record服务_enableServerRecord字段（写死）",
+  "time" : {
+    "start" : 1669345952763,
+    "stop" : 1669345952891,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f29ffb82a69fe9a7",
+  "name" : "部门管理员登录",
+  "time" : {
+    "start" : 1669345830716,
+    "stop" : 1669345830854,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b181677c617be411",
+  "name" : "删除部门，删除成功",
+  "time" : {
+    "start" : 1669345921810,
+    "stop" : 1669345940255,
+    "duration" : 18445
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fbcb5a5e485a672b",
+  "name" : "刷新邀请码，刷新成功",
+  "time" : {
+    "start" : 1669345833944,
+    "stop" : 1669345834097,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff2fc0eb18e6ea3c",
+  "name" : "换每页数查询成功",
+  "time" : {
+    "start" : 1669345832322,
+    "stop" : 1669345832501,
+    "duration" : 179
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c862725e9509e5dc",
+  "name" : "32位密码",
+  "time" : {
+    "start" : 1669345852242,
+    "stop" : 1669345852426,
+    "duration" : 184
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b6d9d1466cbec78",
+  "name" : "GetRoomModeSettings2，自定义-聊天 316249",
+  "time" : {
+    "start" : 1669345950184,
+    "stop" : 1669345950325,
+    "duration" : 141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2e674d52494628a",
+  "name" : "修改手机号，修改成功",
+  "time" : {
+    "start" : 1669345856489,
+    "stop" : 1669345856670,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3423ca44073fbd37",
+  "name" : "测试1",
+  "time" : {
+    "start" : 1669345948508,
+    "stop" : 1669345948509,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "93408d60426de320",
+  "name" : "room服务_会控,注册用户未授权获取会控地址",
+  "time" : {
+    "start" : 1669345953193,
+    "stop" : 1669345953193,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a86b98b7e504ff93",
+  "name" : "GetRoomModeSettings2，新自定义无 317619",
+  "time" : {
+    "start" : 1669345950646,
+    "stop" : 1669345950794,
+    "duration" : 148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f55985435c76c943",
+  "name" : "修改所属部门，修改成功",
+  "time" : {
+    "start" : 1669345845681,
+    "stop" : 1669345845859,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8bb2955e09f680e",
+  "name" : "2",
+  "time" : {
+    "start" : 1669345816769,
+    "stop" : 1669345816770,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2d3715fa2bce4deb",
+  "name" : "开发者client列表",
+  "time" : {
+    "start" : 1669345817257,
+    "stop" : 1669345817401,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e2a5f8d7e46a5d6",
+  "name" : "昵称大于32位，添加失败",
+  "time" : {
+    "start" : 1669345851509,
+    "stop" : 1669345851654,
+    "duration" : 145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4de0a97dc2230c7a",
+  "name" : "jsonvalue为空，新增失败",
+  "time" : {
+    "start" : 1669345945660,
+    "stop" : 1669345945798,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "209cea008f3f45f",
+  "name" : "record服务_传参自定义入会自动录制时间，完整录制（有主讲），视频和数据等比完整显示",
+  "time" : {
+    "start" : 1669345953521,
+    "stop" : 1669345953665,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f04f800d052fc9a",
+  "name" : "GetRoomModeSettings2，默认讨论-讨论316565",
+  "time" : {
+    "start" : 1669345950571,
+    "stop" : 1669345950575,
+    "duration" : 4
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "887454ad6a40a125",
+  "name" : "登录，获取token",
+  "time" : {
+    "start" : 1669345840244,
+    "stop" : 1669345840377,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fa19b4d384447b0",
+  "name" : "名称查询用户",
+  "time" : {
+    "start" : 1669345854208,
+    "stop" : 1669345854347,
+    "duration" : 139
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e103f9998c47f176",
+  "name" : "会议名称为空，新增失败",
+  "time" : {
+    "start" : 1669345828117,
+    "stop" : 1669345828241,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78940eed791dd983",
+  "name" : "查询会议授权的不存在角色",
+  "time" : {
+    "start" : 1669345839878,
+    "stop" : 1669345840024,
+    "duration" : 146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "431a3afb84ed0fc6",
+  "name" : "获取验证图片，获取id",
+  "time" : {
+    "start" : 1669345804817,
+    "stop" : 1669345805071,
+    "duration" : 254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2657bbff0db5fc5",
+  "name" : "发送上传日志命令，发送成功",
+  "time" : {
+    "start" : 1669345847581,
+    "stop" : 1669345847781,
+    "duration" : 200
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7c61aa04dc1b25",
+  "name" : "record服务",
+  "time" : {
+    "start" : 1669345951592,
+    "stop" : 1669345951735,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ff64db0ad84609d",
+  "name" : "注册大陆手机号，注册成功",
+  "time" : {
+    "start" : 1669345803447,
+    "stop" : 1669345804814,
+    "duration" : 1367
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e79f49a4233d92ee",
+  "name" : "获取终端信息",
+  "time" : {
+    "start" : 1669345846031,
+    "stop" : 1669345846169,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a0da8a445d8a5da",
+  "name" : "查询会议名称，查询成功",
+  "time" : {
+    "start" : 1669345831767,
+    "stop" : 1669345831905,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85a3c104fb3f2cb9",
+  "name" : "GetRoomModeSettings2，新即时讨论1000000042",
+  "time" : {
+    "start" : 1669345950490,
+    "stop" : 1669345950490,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a27494e88f17fc5",
+  "name" : "部门名称超过64位，新增部门失败",
+  "time" : {
+    "start" : 1669345814319,
+    "stop" : 1669345814442,
+    "duration" : 123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2e2b3f1cbcec60d",
+  "name" : "验证重置密码的验证码",
+  "time" : {
+    "start" : 1669345812944,
+    "stop" : 1669345813076,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12141390ee95975c",
+  "name" : "GetRoomModeSettings2，默认会控-历史讨论316255",
+  "time" : {
+    "start" : 1669345950503,
+    "stop" : 1669345950503,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cbc466b14ec88b61",
+  "name" : "新增本地轮巡数据，新增成功",
+  "time" : {
+    "start" : 1669345944911,
+    "stop" : 1669345945103,
+    "duration" : 192
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a35ec120a551dc71",
+  "name" : "邮箱格式错误，修改失败",
+  "time" : {
+    "start" : 1669345860385,
+    "stop" : 1669345860517,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a9a8f3ce70de810",
+  "name" : "昵称大于32位，添加失败",
+  "time" : {
+    "start" : 1669345858987,
+    "stop" : 1669345859112,
+    "duration" : 125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51250ff9e9f18b65",
+  "name" : "2",
+  "time" : {
+    "start" : 1669345818852,
+    "stop" : 1669345818852,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "38bb869835f499cb",
+  "name" : "验证坐标点",
+  "time" : {
+    "start" : 1669345822672,
+    "stop" : 1669345822911,
+    "duration" : 239
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9f94f667bacfa41",
+  "name" : "取消授权用户不为当前企业，提示正确",
+  "time" : {
+    "start" : 1669345836699,
+    "stop" : 1669345836845,
+    "duration" : 146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "beb9c90de9a9b252",
+  "name" : "授权为参会人，授权成功",
+  "time" : {
+    "start" : 1669345834417,
+    "stop" : 1669345834618,
+    "duration" : 201
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98e0a844026aa836",
+  "name" : "修改合法手机号，修改成功",
+  "time" : {
+    "start" : 1669345819776,
+    "stop" : 1669345819955,
+    "duration" : 179
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ca572973c35a859",
+  "name" : "会议名称大于64位，新增失败",
+  "time" : {
+    "start" : 1669345827851,
+    "stop" : 1669345827984,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2e12b7f097a4879",
+  "name" : "默认会控-培训316803",
+  "time" : {
+    "start" : 1669345950624,
+    "stop" : 1669345950624,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "95c4ae8af868a958",
+  "name" : "用户名格式错误，导入失败",
+  "time" : {
+    "start" : 1669345862984,
+    "stop" : 1669345863134,
+    "duration" : 150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad0bef7c8d018ef5",
+  "name" : "登录dal服务器，从log获取验证坐标点接口所需的data",
+  "time" : {
+    "start" : 1669345824193,
+    "stop" : 1669345824730,
+    "duration" : 537
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fc35d43f88b0b76",
+  "name" : "海外手机验证码登录",
+  "time" : {
+    "start" : 1669345811227,
+    "stop" : 1669345811367,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b98e0e523564f14",
+  "name" : "邮箱类型用户，添加成功",
+  "time" : {
+    "start" : 1669345849311,
+    "stop" : 1669345849541,
+    "duration" : 230
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17e924064d1171a",
+  "name" : "终端序列号不存在，续费产品生效失败",
+  "time" : {
+    "start" : 1669345847336,
+    "stop" : 1669345847336,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ae73341faa6b043f",
+  "name" : "导出授权未入会用户，导出成功",
+  "time" : {
+    "start" : 1669345843933,
+    "stop" : 1669345844133,
+    "duration" : 200
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64d612015b8a6d36",
+  "name" : "登录dal服务器，从log获取验证验证码接口所需的code",
+  "time" : {
+    "start" : 1669345820860,
+    "stop" : 1669345821384,
+    "duration" : 524
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3c245a94c2ab70",
+  "name" : "type为空，新增失败",
+  "time" : {
+    "start" : 1669345945251,
+    "stop" : 1669345945378,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1dd3a88445b98c4",
+  "name" : "登录，获取token",
+  "time" : {
+    "start" : 1669345845042,
+    "stop" : 1669345845208,
+    "duration" : 166
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e20a48d02410990b",
+  "name" : "查询会议授权信息，查询成功",
+  "time" : {
+    "start" : 1669345837498,
+    "stop" : 1669345837683,
+    "duration" : 185
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d8ac7fa0fb7b09c",
+  "name" : "修改client停用，修改成功",
+  "time" : {
+    "start" : 1669345817568,
+    "stop" : 1669345817701,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "712715c304893b49",
+  "name" : "会议概要信息-首页展示",
+  "time" : {
+    "start" : 1669345844813,
+    "stop" : 1669345845030,
+    "duration" : 217
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c91c24013edf523",
+  "name" : "GetRoomModeSettings2，默认讨论-自定义无316579",
+  "time" : {
+    "start" : 1669345950602,
+    "stop" : 1669345950602,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9e7d8382e4ac0d08",
+  "name" : "VerifyRoomUser3服务注册用户",
+  "time" : {
+    "start" : 1669345948541,
+    "stop" : 1669345948541,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "92e7c78dd28db017",
+  "name" : "启用管理员密码，长度小于6位，新增失败",
+  "time" : {
+    "start" : 1669345829750,
+    "stop" : 1669345829913,
+    "duration" : 163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ca2e238b91c4321",
+  "name" : "测试1",
+  "time" : {
+    "start" : 1669345940806,
+    "stop" : 1669345941649,
+    "duration" : 843
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76a0504011c1f5d8",
+  "name" : "登录dal服务器，从log获取验证验证码接口所需的code",
+  "time" : {
+    "start" : 1669345802878,
+    "stop" : 1669345803443,
+    "duration" : 565
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "801c57010bcdbb6c",
+  "name" : "邮箱格式错误，添加失败",
+  "time" : {
+    "start" : 1669345853265,
+    "stop" : 1669345853409,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9acc8fdd7b9c8afb",
+  "name" : "GetRoomCurDevID服务",
+  "time" : {
+    "start" : 1669345951435,
+    "stop" : 1669345951582,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5df4657c6067067",
+  "name" : "历史会议换页数查询，查询成功",
+  "time" : {
+    "start" : 1669345841160,
+    "stop" : 1669345841292,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63066ae556cb7dcb",
+  "name" : "修改密码成功",
+  "time" : {
+    "start" : 1669345819308,
+    "stop" : 1669345819444,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f966fadd75ddf49",
+  "name" : "修改邮箱，修改成功",
+  "time" : {
+    "start" : 1669345821521,
+    "stop" : 1669345821702,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50b6e963eecefe90",
+  "name" : "订单id不存在，续费产品生效失败",
+  "time" : {
+    "start" : 1669345847318,
+    "stop" : 1669345847318,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "26317b3df4237ec2",
+  "name" : "GetRoomModeSettings2，默认讨论-新新自定义全316377",
+  "time" : {
+    "start" : 1669345950562,
+    "stop" : 1669345950563,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6311bb3cc07fe56",
+  "name" : "查询会议室本地轮巡的数据",
+  "time" : {
+    "start" : 1669345946285,
+    "stop" : 1669345946412,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bbf55271e7f54831",
+  "name" : "查询其他企业会议室的快速签到数据",
+  "time" : {
+    "start" : 1669345946538,
+    "stop" : 1669345946538,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5e36c5392c42f3da",
+  "name" : "GetRoomCurDevIDAsync服务",
+  "time" : {
+    "start" : 1669345951584,
+    "stop" : 1669345951585,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f0ede1c6dfe88163",
+  "name" : "启用会议密码，新增成功",
+  "time" : {
+    "start" : 1669345828441,
+    "stop" : 1669345828654,
+    "duration" : 213
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7fb1fd2039dd880",
+  "name" : "获取验证图片，获取id",
+  "time" : {
+    "start" : 1669345819958,
+    "stop" : 1669345820236,
+    "duration" : 278
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "765e69f37c62f6ba",
+  "name" : "GetRoomModeSettings2，历史自定义-禁止名称 316243 ",
+  "time" : {
+    "start" : 1669345949722,
+    "stop" : 1669345949887,
+    "duration" : 165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1fc05dc0ff8e23",
+  "name" : "GetRoomModeSettings2，默认培训-新预约培训316323",
+  "time" : {
+    "start" : 1669345950533,
+    "stop" : 1669345950533,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "42f03015f1bc7e30",
+  "name" : "状态为停用，修改成功",
+  "time" : {
+    "start" : 1669345859741,
+    "stop" : 1669345859934,
+    "duration" : 193
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50315c145af298f1",
+  "name" : "修改会议室快速签到的数据",
+  "time" : {
+    "start" : 1669345946828,
+    "stop" : 1669345947005,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "599d1c4014ea19c9",
+  "name" : "父部门ID不属于本企业，新增部门失败",
+  "time" : {
+    "start" : 1669345814710,
+    "stop" : 1669345814847,
+    "duration" : 137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c115688d4f4e887",
+  "name" : "会控地址查询，信息返回正确",
+  "time" : {
+    "start" : 1669345842495,
+    "stop" : 1669345842649,
+    "duration" : 154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3141b78629e310cc",
+  "name" : "3",
+  "time" : {
+    "start" : 1669345848445,
+    "stop" : 1669345848445,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f0909efb12283cc9",
+  "name" : "启用会议密码，会议密码为空，新增失败",
+  "time" : {
+    "start" : 1669345828987,
+    "stop" : 1669345829131,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36b7185602cfeee1",
+  "name" : "获取验证图片，获取id",
+  "time" : {
+    "start" : 1669345811369,
+    "stop" : 1669345811654,
+    "duration" : 285
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "966467478839652b",
+  "name" : "32位密码，修改成功",
+  "time" : {
+    "start" : 1669345858574,
+    "stop" : 1669345858780,
+    "duration" : 206
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5bf5e4192dccf6f",
+  "name" : "授权用户为空，提示正确",
+  "time" : {
+    "start" : 1669345834883,
+    "stop" : 1669345834883,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "971c53cfa9bff034",
+  "name" : "删除用户，删除成功",
+  "time" : {
+    "start" : 1669345862020,
+    "stop" : 1669345862219,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ec1245e47b4872a",
+  "name" : "无效类型用户，添加失败",
+  "time" : {
+    "start" : 1669345849544,
+    "stop" : 1669345849678,
+    "duration" : 134
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21a2f8e556ad245d",
+  "name" : "昵称为空，添加失败",
+  "time" : {
+    "start" : 1669345859272,
+    "stop" : 1669345859445,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae9b67e3618faa01",
+  "name" : "父部门ID为空，新增部门失败",
+  "time" : {
+    "start" : 1669345814582,
+    "stop" : 1669345814708,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6cfc947578938116",
+  "name" : "名称查询用户",
+  "time" : {
+    "start" : 1669345854350,
+    "stop" : 1669345854504,
+    "duration" : 154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ffce33d56f10b50",
+  "name" : "授权为参会人",
+  "time" : {
+    "start" : 1669345836182,
+    "stop" : 1669345836372,
+    "duration" : 190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a747c0ea9845c29",
+  "name" : "区号不存在，修改失败",
+  "time" : {
+    "start" : 1669345857059,
+    "stop" : 1669345857217,
+    "duration" : 158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7617572203a6505d",
+  "name" : "不启用会议密码，新增成功",
+  "time" : {
+    "start" : 1669345828243,
+    "stop" : 1669345828438,
+    "duration" : 195
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "439178f5de33c1a4",
+  "name" : "删除部门，删除成功",
+  "time" : {
+    "start" : 1669345940257,
+    "stop" : 1669345940478,
+    "duration" : 221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46286b6ec8ba72e4",
+  "name" : "密码大于32位，修改失败",
+  "time" : {
+    "start" : 1669345858448,
+    "stop" : 1669345858571,
+    "duration" : 123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "900a785fe2d628ba",
+  "name" : "验证坐标点，发送短信验证码",
+  "time" : {
+    "start" : 1669345808772,
+    "stop" : 1669345809008,
+    "duration" : 236
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed3506330be2e879",
+  "name" : "登录dal服务器，从log获取验证坐标点接口所需的data",
+  "time" : {
+    "start" : 1669345811657,
+    "stop" : 1669345812189,
+    "duration" : 532
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aff0042f1c63fa35",
+  "name" : "record服务_存储不足",
+  "time" : {
+    "start" : 1669345953023,
+    "stop" : 1669345953176,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f006b17d7e482b92",
+  "name" : "登录，获取token",
+  "time" : {
+    "start" : 1669345842663,
+    "stop" : 1669345842812,
+    "duration" : 149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d924161ac52f6e24",
+  "name" : "record服务_录制时间是否显示",
+  "time" : {
+    "start" : 1669345952607,
+    "stop" : 1669345952760,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "470a3408e3670963",
+  "name" : "GetRoomModeSettings2，默认培训-新自定义昵称禁止316369",
+  "time" : {
+    "start" : 1669345950554,
+    "stop" : 1669345950554,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3ede386b68e8c90e",
+  "name" : "终端序列号已激活4K已过期，终端续费4K产品生效成功",
+  "time" : {
+    "start" : 1669345847312,
+    "stop" : 1669345847312,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9a668b8aeb2e6308",
+  "name" : "获取录制配置，自定义时间录制",
+  "time" : {
+    "start" : 1669345841696,
+    "stop" : 1669345841843,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8bba3a48607eb372",
+  "name" : "record服务_传参开启入会自动录制，完整录制，视频和数据等比裁剪显示，分辨率1920*1080",
+  "time" : {
+    "start" : 1669345951737,
+    "stop" : 1669345951880,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe89b4dbd08f30e2",
+  "name" : "翻页查询成功",
+  "time" : {
+    "start" : 1669345832183,
+    "stop" : 1669345832319,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "601129bf747b138d",
+  "name" : "手机号类型用户，添加成功",
+  "time" : {
+    "start" : 1669345849109,
+    "stop" : 1669345849308,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "781dde371dcb85e7",
+  "name" : "部门id为空，添加失败",
+  "time" : {
+    "start" : 1669345850842,
+    "stop" : 1669345850987,
+    "duration" : 145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45f43f899bcb86f4",
+  "name" : "DevUpdate服务",
+  "time" : {
+    "start" : 1669345951587,
+    "stop" : 1669345951587,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "62073b2f1ff69cd5",
+  "name" : "record服务_剩余存储少于100M返回不允许返回录制文件",
+  "time" : {
+    "start" : 1669345954079,
+    "stop" : 1669345954219,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8eb07e9a182a1630",
+  "name" : "查询用户详情",
+  "time" : {
+    "start" : 1669345855304,
+    "stop" : 1669345855438,
+    "duration" : 134
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21cd6b49916204c9",
+  "name" : "修改绑定邮箱，获取验证图片",
+  "time" : {
+    "start" : 1669345823930,
+    "stop" : 1669345824190,
+    "duration" : 260
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c78ad2add6f5c115",
+  "name" : "父部门ID为空，修改失败",
+  "time" : {
+    "start" : 1669345816153,
+    "stop" : 1669345816318,
+    "duration" : 165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5998cae1dbf30f15",
+  "name" : "个人资料展示正确",
+  "time" : {
+    "start" : 1669345819027,
+    "stop" : 1669345819160,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "334bed784d83b5cb",
+  "name" : "换每页数，查询成功",
+  "time" : {
+    "start" : 1669345843279,
+    "stop" : 1669345843433,
+    "duration" : 154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac175f6300581c72",
+  "name" : "授权为管理员，授权成功",
+  "time" : {
+    "start" : 1669345834099,
+    "stop" : 1669345834273,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58e9aebd8a0275ff",
+  "name" : "部门名称过长新增部门",
+  "time" : {
+    "start" : 1669345954343,
+    "stop" : 1669345954355,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4036df17f7ba5557",
+  "name" : "重置密码成功",
+  "time" : {
+    "start" : 1669345813078,
+    "stop" : 1669345813212,
+    "duration" : 134
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "474924bb7c723abf",
+  "name" : "订单id为空，续费产品生效失败",
+  "time" : {
+    "start" : 1669345847321,
+    "stop" : 1669345847321,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "509224630e0f24d9",
+  "name" : "导出终端，导出成功",
+  "time" : {
+    "start" : 1669345847341,
+    "stop" : 1669345847578,
+    "duration" : 237
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98173a4bd0c14656",
+  "name" : "名称查询用户",
+  "time" : {
+    "start" : 1669345855004,
+    "stop" : 1669345855147,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9286b376b14e427b",
+  "name" : "导入非指定模板内容，导入失败",
+  "time" : {
+    "start" : 1669345864510,
+    "stop" : 1669345864659,
+    "duration" : 149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b61363de7183a94",
+  "name" : "GetRoomModeSettings2，默认讨论-培训316585",
+  "time" : {
+    "start" : 1669345950581,
+    "stop" : 1669345950581,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "934673f2dedfac53",
+  "name" : "GetRoomModeSettings2，历史自定义无316237",
+  "time" : {
+    "start" : 1669345949263,
+    "stop" : 1669345949442,
+    "duration" : 179
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33e5a260290eab94",
+  "name" : "登录dal服务器，从log获取验证坐标点接口所需的data",
+  "time" : {
+    "start" : 1669345823179,
+    "stop" : 1669345823693,
+    "duration" : 514
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7338e0cd84bd59e9",
+  "name" : "GetRoomModeSettings2，默认会控-历史会控316103",
+  "time" : {
+    "start" : 1669345950492,
+    "stop" : 1669345950497,
+    "duration" : 5
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b2bf481161162c45",
+  "name" : "验证坐标点，发送短信验证码",
+  "time" : {
+    "start" : 1669345805606,
+    "stop" : 1669345805808,
+    "duration" : 202
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68f685f464168bb3",
+  "name" : "获取keycode",
+  "time" : {
+    "start" : 1669345954225,
+    "stop" : 1669345954230,
+    "duration" : 5
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "749a36f06795af38",
+  "name" : "邮箱密码登录，获取token",
+  "time" : {
+    "start" : 1669345807747,
+    "stop" : 1669345807903,
+    "duration" : 156
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d7579a04e3735d8",
+  "name" : "修改client名称长度大于32位，修改失败",
+  "time" : {
+    "start" : 1669345817704,
+    "stop" : 1669345817831,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7916ee0c07395fb",
+  "name" : "手机号为空，修改失败",
+  "time" : {
+    "start" : 1669345860520,
+    "stop" : 1669345860658,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3f962e93ef8083",
+  "name" : "GetRoomModeSettings2，默认讨论-自定义聊天316573",
+  "time" : {
+    "start" : 1669345950594,
+    "stop" : 1669345950594,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b80b67a4bf12d3af",
+  "name" : "换页数查询会议授权信息，查询成功",
+  "time" : {
+    "start" : 1669345838308,
+    "stop" : 1669345838482,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fc37ba1bb9a1c4f",
+  "name" : "room服务_会控,匿名用户会议管理员不能获取会控地址",
+  "time" : {
+    "start" : 1669345953182,
+    "stop" : 1669345953182,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b86a60b1d522f15e",
+  "name" : "区号为空，添加成功",
+  "time" : {
+    "start" : 1669345849680,
+    "stop" : 1669345849879,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e365d21ddf676ae3",
+  "name" : "type为无效类型，修改失败",
+  "time" : {
+    "start" : 1669345947007,
+    "stop" : 1669345947150,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "508c0d0849fcee43",
+  "name" : "会议名称不符合要求的字符，新增失败",
+  "time" : {
+    "start" : 1669345827987,
+    "stop" : 1669345828114,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ea1b7189d214fb4",
+  "name" : "GetRoomModeSettings2，新自定义全 316319 ",
+  "time" : {
+    "start" : 1669345950484,
+    "stop" : 1669345950484,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9db50b1a2be4396c",
+  "name" : "发送关机命令，发送成功",
+  "time" : {
+    "start" : 1669345847783,
+    "stop" : 1669345848000,
+    "duration" : 217
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50574277257f8ec2",
+  "name" : "获取在线的授权用户",
+  "time" : {
+    "start" : 1669345843436,
+    "stop" : 1669345843580,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56af4aefa9b41a18",
+  "name" : "record服务_切片时长120分钟，关闭录制时间设置120分钟",
+  "time" : {
+    "start" : 1669345952328,
+    "stop" : 1669345952453,
+    "duration" : 125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e45c62c2eb631a58",
+  "name" : "roomid为其他企业会议室，新增成功",
+  "time" : {
+    "start" : 1669345945380,
+    "stop" : 1669345945381,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f5c654585a96d07f",
+  "name" : "GetRoomModeSettings2，默认培训-历史自定义全 316269",
+  "time" : {
+    "start" : 1669345950523,
+    "stop" : 1669345950527,
+    "duration" : 4
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "183772db6b4da156",
+  "name" : "验证坐标点",
+  "time" : {
+    "start" : 1669345825679,
+    "stop" : 1669345825918,
+    "duration" : 239
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "715f25b9d2b30b31",
+  "name" : "GetRoomModeSettings2，默认会控-历史自定义无 316259",
+  "time" : {
+    "start" : 1669345950509,
+    "stop" : 1669345950509,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7aa92339fe4c8435",
+  "name" : "查询会议指定部门的授权信息，查询成功",
+  "time" : {
+    "start" : 1669345838000,
+    "stop" : 1669345838158,
+    "duration" : 158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e46aab3c3dae1a0",
+  "name" : "新增其他企业会议室，新增失败",
+  "time" : {
+    "start" : 1669345827707,
+    "stop" : 1669345827849,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed6610df9323a59b",
+  "name" : "授权不存在角色",
+  "time" : {
+    "start" : 1669345839710,
+    "stop" : 1669345839875,
+    "duration" : 165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce7ffc1030cb6de0",
+  "name" : "查询部门下的会议室，查询成功",
+  "time" : {
+    "start" : 1669345832048,
+    "stop" : 1669345832180,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1795370d08a61a13",
+  "name" : "GetRoomModeSettings2，默认培训-新会控316367",
+  "time" : {
+    "start" : 1669345950550,
+    "stop" : 1669345950551,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6f92678d7c909bb3",
+  "name" : "下载导入模板成功",
+  "time" : {
+    "start" : 1669345862223,
+    "stop" : 1669345862436,
+    "duration" : 213
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8566339558f9241",
+  "name" : "企业会议信息查询",
+  "time" : {
+    "start" : 1669345831444,
+    "stop" : 1669345831593,
+    "duration" : 149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54da49d0c5c3e81e",
+  "name" : "编辑个人会议室，编辑成功",
+  "time" : {
+    "start" : 1669345844654,
+    "stop" : 1669345844810,
+    "duration" : 156
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a88a16d610381013",
+  "name" : "查询会议室名称，查询成功",
+  "time" : {
+    "start" : 1669345843125,
+    "stop" : 1669345843276,
+    "duration" : 151
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fcc59b5028dafb8",
+  "name" : "区号为空，修改成功",
+  "time" : {
+    "start" : 1669345856865,
+    "stop" : 1669345857056,
+    "duration" : 191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e96b5ba5be79902",
+  "name" : "查询指定账号用户",
+  "time" : {
+    "start" : 1669345853730,
+    "stop" : 1669345853881,
+    "duration" : 151
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "706b1adabd431d10",
+  "name" : "查询客户",
+  "time" : {
+    "start" : 1669345813880,
+    "stop" : 1669345814031,
+    "duration" : 151
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e534b7b3705dac07",
+  "name" : "不启用管理员密码，新增成功",
+  "time" : {
+    "start" : 1669345829134,
+    "stop" : 1669345829358,
+    "duration" : 224
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b57762ac273623f2",
+  "name" : "部门名称为空，新增部门失败",
+  "time" : {
+    "start" : 1669345814186,
+    "stop" : 1669345814316,
+    "duration" : 130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb7705cda29baada",
+  "name" : "GetRoomModeSettings2，新会控 317149 ",
+  "time" : {
+    "start" : 1669345950643,
+    "stop" : 1669345950643,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cbf85ea0f33f87ad",
+  "name" : "GetRoomModeSettings2，自定义-远程音频 316245",
+  "time" : {
+    "start" : 1669345949889,
+    "stop" : 1669345950041,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af46b3f944492ab6",
+  "name" : "查询可用的会议服务",
+  "time" : {
+    "start" : 1669345832639,
+    "stop" : 1669345832794,
+    "duration" : 155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2d6bac7e8a2eedc",
+  "name" : "登录dal服务器，从log获取验证坐标点接口所需的data",
+  "time" : {
+    "start" : 1669345825112,
+    "stop" : 1669345825677,
+    "duration" : 565
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf96d383c17a5d70",
+  "name" : "默认会控-会控316795",
+  "time" : {
+    "start" : 1669345950618,
+    "stop" : 1669345950618,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "668ae62556c60e89",
+  "name" : "导出会议日志，导出成功",
+  "time" : {
+    "start" : 1669345841295,
+    "stop" : 1669345841501,
+    "duration" : 206
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "baed93c94e7289d3",
+  "name" : "导入非excel格式，导入失败",
+  "time" : {
+    "start" : 1669345864358,
+    "stop" : 1669345864508,
+    "duration" : 150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c2d60b5c0ed7200",
+  "name" : "查询会议授权的参会人信息，查询成功",
+  "time" : {
+    "start" : 1669345834620,
+    "stop" : 1669345834748,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cf920a07c9a111a",
+  "name" : "客户信息返回正确",
+  "time" : {
+    "start" : 1669345813736,
+    "stop" : 1669345813878,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ce6bdbc48c17ec6",
+  "name" : "3",
+  "time" : {
+    "start" : 1669345941655,
+    "stop" : 1669345941682,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68d25e6ce1b4281f",
+  "name" : "GetRoomModeSettings2，默认会控-历史培训316253",
+  "time" : {
+    "start" : 1669345950500,
+    "stop" : 1669345950501,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d32271af1714288e",
+  "name" : "身份为空，添加失败",
+  "time" : {
+    "start" : 1669345851151,
+    "stop" : 1669345851294,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "388ae681b694bf17",
+  "name" : "邀请码获取，信息返回正确",
+  "time" : {
+    "start" : 1669345833250,
+    "stop" : 1669345833372,
+    "duration" : 122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7957cd8e92369ad3",
+  "name" : "添加无效身份，添加失败",
+  "time" : {
+    "start" : 1669345850703,
+    "stop" : 1669345850839,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d2089ed61137631",
+  "name" : "验证短信验证码",
+  "time" : {
+    "start" : 1669345821386,
+    "stop" : 1669345821519,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6784ef075e6bef6b",
+  "name" : "会议信息查看",
+  "time" : {
+    "start" : 1669345832504,
+    "stop" : 1669345832636,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9de26cc5a60b6ff",
+  "name" : "注销大陆手机号用户",
+  "time" : {
+    "start" : 1669345813215,
+    "stop" : 1669345813387,
+    "duration" : 172
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b7b2756cdf0850e",
+  "name" : "授权参会人",
+  "time" : {
+    "start" : 1669345838791,
+    "stop" : 1669345838981,
+    "duration" : 190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5b0ac6fe27cf23f",
+  "name" : "type为无效类型，新增失败",
+  "time" : {
+    "start" : 1669345945248,
+    "stop" : 1669345945249,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1df78863ab92cf38",
+  "name" : "修改client，修改成功",
+  "time" : {
+    "start" : 1669345817404,
+    "stop" : 1669345817565,
+    "duration" : 161
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "321f31550f13bd75",
+  "name" : "预置数据：查询新增的部门id",
+  "time" : {
+    "start" : 1669345921664,
+    "stop" : 1669345921807,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5327fa862355917",
+  "name" : "名称字符包含特殊字符，导入失败",
+  "time" : {
+    "start" : 1669345863313,
+    "stop" : 1669345863480,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8834da4609d4249",
+  "name" : "3",
+  "time" : {
+    "start" : 1669345818855,
+    "stop" : 1669345818855,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2e65cfeb399a35c3",
+  "name" : "获取终端续费产品列表",
+  "time" : {
+    "start" : 1669345847164,
+    "stop" : 1669345847301,
+    "duration" : 137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "944db76a79faf737",
+  "name" : "GetRoomModeSettings2，历史自定义-音视频自动 316241",
+  "time" : {
+    "start" : 1669345949592,
+    "stop" : 1669345949720,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7831f1b21f3db9f1",
+  "name" : "GetRoomModeSettings2，自定义-白板 316247",
+  "time" : {
+    "start" : 1669345950044,
+    "stop" : 1669345950181,
+    "duration" : 137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac5116cf58e1d3f3",
+  "name" : "获取在线的授权用户",
+  "time" : {
+    "start" : 1669345842660,
+    "stop" : 1669345842660,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ca0d1ab626ac16af",
+  "name" : "修改邮箱，修改成功",
+  "time" : {
+    "start" : 1669345856271,
+    "stop" : 1669345856486,
+    "duration" : 215
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a65121d14e0eb795",
+  "name" : "权限为空，提示正确",
+  "time" : {
+    "start" : 1669345835665,
+    "stop" : 1669345835665,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c4bbe158d4155d9f",
+  "name" : "room服务_会控,注册用户获取会控地址",
+  "time" : {
+    "start" : 1669345953196,
+    "stop" : 1669345953196,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5a9b5198bb05f22e",
+  "name" : "验证坐标点",
+  "time" : {
+    "start" : 1669345824733,
+    "stop" : 1669345824861,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35c7ff6e7f52f5b5",
+  "name" : "父部门ID不属于本企业，修改失败",
+  "time" : {
+    "start" : 1669345816320,
+    "stop" : 1669345816462,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0c5da1fe9de7c30",
+  "name" : "注销海外手机号用户",
+  "time" : {
+    "start" : 1669345813390,
+    "stop" : 1669345813561,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd9021d8f4ffc2f9",
+  "name" : "GetRoomModeSettings2，默认培训-历史自定义无 316271",
+  "time" : {
+    "start" : 1669345950530,
+    "stop" : 1669345950530,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "11feeab4ecde7a34",
+  "name" : "昵称包含特殊字符，添加失败",
+  "time" : {
+    "start" : 1669345851656,
+    "stop" : 1669345851811,
+    "duration" : 155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1266fee71171a62",
+  "name" : "预置数据：查询根部门id",
+  "time" : {
+    "start" : 1669345848587,
+    "stop" : 1669345848776,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a09f1ba27b991fb",
+  "name" : "GetRoomModeSettings2，默认培训-历史讨论316265",
+  "time" : {
+    "start" : 1669345950518,
+    "stop" : 1669345950518,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "de75f1a9bed8b4bd",
+  "name" : "历史会议查询，查询成功",
+  "time" : {
+    "start" : 1669345840859,
+    "stop" : 1669345841019,
+    "duration" : 160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cf01792ca792f68",
+  "name" : "GetRoomModeSettings2，默认培训-新讨论316365",
+  "time" : {
+    "start" : 1669345950546,
+    "stop" : 1669345950546,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1eb2a8da78f145f3",
+  "name" : "GetRoomModeSettings2，默认会控-历史 自定义-无昵称远程 316261 ",
+  "time" : {
+    "start" : 1669345950512,
+    "stop" : 1669345950512,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5c335f722359e100",
+  "name" : "GetRoomModeSettings2，默认讨论-培训316561",
+  "time" : {
+    "start" : 1669345950566,
+    "stop" : 1669345950566,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "120561d58c03cca",
+  "name" : "登录，获取token",
+  "time" : {
+    "start" : 1669345818858,
+    "stop" : 1669345819025,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40a578c15c517f11",
+  "name" : "修改无效身份，修改失败",
+  "time" : {
+    "start" : 1669345859448,
+    "stop" : 1669345859599,
+    "duration" : 151
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8b6ab54b7c1ad71",
+  "name" : "授权为管理员",
+  "time" : {
+    "start" : 1669345835808,
+    "stop" : 1669345836020,
+    "duration" : 212
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6bdcbdc257c016db",
+  "name" : "手机号为空，添加失败",
+  "time" : {
+    "start" : 1669345853412,
+    "stop" : 1669345853565,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1617abfef4d60c2",
+  "name" : "登录dal服务器，从log获取验证坐标点接口所需的data",
+  "time" : {
+    "start" : 1669345809933,
+    "stop" : 1669345810494,
+    "duration" : 561
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fe6a70eb88067b8",
+  "name" : "终端序列号已激活已绑定4K，终端续费4K产品生效成功",
+  "time" : {
+    "start" : 1669345847309,
+    "stop" : 1669345847309,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8188f33767834185",
+  "name" : "密码不符合长度，修改失败",
+  "time" : {
+    "start" : 1669345855841,
+    "stop" : 1669345855984,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33d084db5ed7fd0b",
+  "name" : "修改绑定手机号，获取验证图片",
+  "time" : {
+    "start" : 1669345822913,
+    "stop" : 1669345823176,
+    "duration" : 263
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d76d9fcb3c110531",
+  "name" : "手机号格式错误，修改失败",
+  "time" : {
+    "start" : 1669345860228,
+    "stop" : 1669345860382,
+    "duration" : 154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90e621b4a48d691",
+  "name" : "导入空文件，导入失败",
+  "time" : {
+    "start" : 1669345864662,
+    "stop" : 1669345864812,
+    "duration" : 150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bae9bf3e3b6719b",
+  "name" : "默认会控-讨论316799",
+  "time" : {
+    "start" : 1669345950612,
+    "stop" : 1669345950612,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e5c8ac7829baef95",
+  "name" : "昵称包含特殊字符，添加失败",
+  "time" : {
+    "start" : 1669345859115,
+    "stop" : 1669345859269,
+    "duration" : 154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d511cc3bf6f0640a",
+  "name" : "登录crm获取token",
+  "time" : {
+    "start" : 1669345846172,
+    "stop" : 1669345846302,
+    "duration" : 130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "475149552ba32edd",
+  "name" : "验证坐标点，发送短信验证码",
+  "time" : {
+    "start" : 1669345820731,
+    "stop" : 1669345820858,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eaaa89a43065be9f",
+  "name" : "GetRoomModeSettings2，默认讨论-音视频自动316567",
+  "time" : {
+    "start" : 1669345950584,
+    "stop" : 1669345950584,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c4f3896c8fb571c7",
+  "name" : "GetRoomModeSettings2，新预约讨论316321 ",
+  "time" : {
+    "start" : 1669345950487,
+    "stop" : 1669345950487,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "65a7d94e0d6f9a9e",
+  "name" : "登录，获取验证图片",
+  "time" : {
+    "start" : 1669345824864,
+    "stop" : 1669345825109,
+    "duration" : 245
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93125cee8fa2eb5e",
+  "name" : "部门名称包含特殊字符，新增部门失败",
+  "time" : {
+    "start" : 1669345814444,
+    "stop" : 1669345814580,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60e7de76ba165689",
+  "name" : "GetRoomModeSettings2，默认培训-历史会控316267",
+  "time" : {
+    "start" : 1669345950520,
+    "stop" : 1669345950521,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "37cd52037a093e11",
+  "name" : "GetRoomModeSettings2，默认会控-历史自定义全 316257",
+  "time" : {
+    "start" : 1669345950506,
+    "stop" : 1669345950506,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5024bef17f439725",
+  "name" : "会议加入限制为“参会人登录账号可加入\"，新增成功",
+  "time" : {
+    "start" : 1669345830306,
+    "stop" : 1669345830517,
+    "duration" : 211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5f27d73c9e86149",
+  "name" : "修改绑定邮箱，获取验证图片",
+  "time" : {
+    "start" : 1669345821875,
+    "stop" : 1669345821875,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1af42b00bf9d4908",
+  "name" : "获取在线会议室，查询成功",
+  "time" : {
+    "start" : 1669345842815,
+    "stop" : 1669345842977,
+    "duration" : 162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dad5b688249744e6",
+  "name" : "会议加入限制为“匿名用户登录\"，新增成功",
+  "time" : {
+    "start" : 1669345830520,
+    "stop" : 1669345830713,
+    "duration" : 193
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45115ee405283e9",
+  "name" : "名称查询用户",
+  "time" : {
+    "start" : 1669345854507,
+    "stop" : 1669345855001,
+    "duration" : 494
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5fd8863ed718cbb",
+  "name" : "测试1",
+  "time" : {
+    "start" : 1669345842651,
+    "stop" : 1669345842652,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ac4525407fd80574",
+  "name" : "查询企业信息",
+  "time" : {
+    "start" : 1669345940651,
+    "stop" : 1669345940798,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61b776d5044fb534",
+  "name" : "3",
+  "time" : {
+    "start" : 1669345845039,
+    "stop" : 1669345845039,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "470b054bccb445a6",
+  "name" : "测试1",
+  "time" : {
+    "start" : 1669345845033,
+    "stop" : 1669345845033,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c5c26846378aa8ca",
+  "name" : "登录dal服务器，从log获取验证坐标点接口所需的data",
+  "time" : {
+    "start" : 1669345808254,
+    "stop" : 1669345808770,
+    "duration" : 516
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90275646dcfbfa9f",
+  "name" : "终端序列号已激活未绑定4K，终端续费产品4K生效成功",
+  "time" : {
+    "start" : 1669345847303,
+    "stop" : 1669345847304,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b05d1a3f035ded1",
+  "name" : "record服务_关闭入会自动录制，仅录音频，视频和数据平铺显示",
+  "time" : {
+    "start" : 1669345953668,
+    "stop" : 1669345953793,
+    "duration" : 125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "441101936d756ce4",
+  "name" : "主键id与type不匹配，修改失败",
+  "time" : {
+    "start" : 1669345947942,
+    "stop" : 1669345948088,
+    "duration" : 146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44d3c52674ef5613",
+  "name" : "登录dal服务器，从log获取验证坐标点接口所需的data",
+  "time" : {
+    "start" : 1669345805075,
+    "stop" : 1669345805603,
+    "duration" : 528
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61e4f809cbfb2ff9",
+  "name" : "密码长度超过6-32位范围，导入失败",
+  "time" : {
+    "start" : 1669345863137,
+    "stop" : 1669345863311,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "380414f59d36fdd2",
+  "name" : "查询会议授权的参会人信息，查询成功",
+  "time" : {
+    "start" : 1669345839282,
+    "stop" : 1669345839422,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e616c414292e3607",
+  "name" : "修改密码成功",
+  "time" : {
+    "start" : 1669345819447,
+    "stop" : 1669345819597,
+    "duration" : 150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3de26190020f3eeb",
+  "name" : "登录dal服务器，从log获取验证验证码接口所需的code",
+  "time" : {
+    "start" : 1669345812433,
+    "stop" : 1669345812940,
+    "duration" : 507
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c71b0e799e6fa1c",
+  "name" : "登录，获取token",
+  "time" : {
+    "start" : 1669345848448,
+    "stop" : 1669345848584,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9a5d7db1510305f",
+  "name" : "获取验证图片，获取id",
+  "time" : {
+    "start" : 1669345809693,
+    "stop" : 1669345809930,
+    "duration" : 237
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31b24846bca36e4",
+  "name" : "record服务_传参自定义入会自动录制时间，完整录制（有主讲），视频和数据等比完整显示",
+  "time" : {
+    "start" : 1669345951883,
+    "stop" : 1669345952022,
+    "duration" : 139
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5375710296945cf4",
+  "name" : "修改其他企业用户，修改失败",
+  "time" : {
+    "start" : 1669345855647,
+    "stop" : 1669345855838,
+    "duration" : 191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f40f1f1289443089",
+  "name" : "无效区号，添加失败",
+  "time" : {
+    "start" : 1669345850066,
+    "stop" : 1669345850248,
+    "duration" : 182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa7788e9944929bf",
+  "name" : "发送升级命令，发送成功",
+  "time" : {
+    "start" : 1669345848205,
+    "stop" : 1669345848435,
+    "duration" : 230
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2596250b24dce9cb",
+  "name" : "订单id重复生效，续费产品生效失败",
+  "time" : {
+    "start" : 1669345847323,
+    "stop" : 1669345847324,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "830f1e0a92976eb7",
+  "name" : "默认会控-自定义无316809",
+  "time" : {
+    "start" : 1669345950633,
+    "stop" : 1669345950633,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d495f5c50b9496ac",
+  "name" : "普通员工登录",
+  "time" : {
+    "start" : 1669345831148,
+    "stop" : 1669345831288,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcbd8ea58c09e6c1",
+  "name" : "roomid为空，新增失败",
+  "time" : {
+    "start" : 1669345945384,
+    "stop" : 1669345945508,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b05130d517e1a6ac",
+  "name" : "type为空，修改失败",
+  "time" : {
+    "start" : 1669345947153,
+    "stop" : 1669345947274,
+    "duration" : 121
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7940f4e600e12f1",
+  "name" : "GetRoomModeSettings2，历史讨论316229",
+  "time" : {
+    "start" : 1669345948544,
+    "stop" : 1669345948766,
+    "duration" : 222
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e3097ca68a16033",
+  "name" : "roomid为其他企业会议室，修改成功",
+  "time" : {
+    "start" : 1669345947278,
+    "stop" : 1669345947418,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53baac4958d21786",
+  "name" : "昵称为空，添加失败",
+  "time" : {
+    "start" : 1669345851813,
+    "stop" : 1669345851958,
+    "duration" : 145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5b147b33c92876f",
+  "name" : "删除大陆手机的数据",
+  "time" : {
+    "start" : 1669345800188,
+    "stop" : 1669345801025,
+    "duration" : 837
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70feb942276ea939",
+  "name" : "查询会议授权的管理员信息，查询成功",
+  "time" : {
+    "start" : 1669345838637,
+    "stop" : 1669345838789,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc468c266d9c3312",
+  "name" : "record服务_传参开启入会自动录制，完整录制，视频和数据等比裁剪显示，分辨率1920*1080",
+  "time" : {
+    "start" : 1669345953376,
+    "stop" : 1669345953518,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e24365fab1454728",
+  "name" : "默认会控-讨论316805",
+  "time" : {
+    "start" : 1669345950621,
+    "stop" : 1669345950622,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8730bdb1e8b294ef",
+  "name" : "验证坐标点，发送短信验证码",
+  "time" : {
+    "start" : 1669345810497,
+    "stop" : 1669345810711,
+    "duration" : 214
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f04e743a75726edb",
+  "name" : "默认会控-自定义全316807",
+  "time" : {
+    "start" : 1669345950630,
+    "stop" : 1669345950630,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2d35bc940e74a73c",
+  "name" : "个人会议查询",
+  "time" : {
+    "start" : 1669345844479,
+    "stop" : 1669345844651,
+    "duration" : 172
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b29c05fec286b2df",
+  "name" : "GetCompanyLicenseCount服务",
+  "time" : {
+    "start" : 1669345954222,
+    "stop" : 1669345954222,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "255c9dc95371d1a2",
+  "name" : "默认会控-会控316801",
+  "time" : {
+    "start" : 1669345950627,
+    "stop" : 1669345950627,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8415f58d279676d7",
+  "name" : "查询会议授权的参会人信息，查询成功",
+  "time" : {
+    "start" : 1669345837686,
+    "stop" : 1669345837845,
+    "duration" : 159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7e978f57d2fa439",
+  "name" : "密码为空，修改失败",
+  "time" : {
+    "start" : 1669345855986,
+    "stop" : 1669345856139,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1621c40dd93438",
+  "name" : "roomid不存在，修改失败",
+  "time" : {
+    "start" : 1669345947556,
+    "stop" : 1669345947684,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98340a9b5cc36d3e",
+  "name" : "授权角色为空，默认为参会人",
+  "time" : {
+    "start" : 1669345839118,
+    "stop" : 1669345839279,
+    "duration" : 161
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8516f2e76b4f000d",
+  "name" : "查询指定会议室id，查询成功",
+  "time" : {
+    "start" : 1669345831596,
+    "stop" : 1669345831765,
+    "duration" : 169
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6deb5f22480435bf",
+  "name" : "查询不存在的数据",
+  "time" : {
+    "start" : 1669345946541,
+    "stop" : 1669345946678,
+    "duration" : 137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1a99c6c25b317ac",
+  "name" : "删除会议数据，删除成功",
+  "time" : {
+    "start" : 1669345948365,
+    "stop" : 1669345948503,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de4152b9e1b43703",
+  "name" : "导出在线的授权用户",
+  "time" : {
+    "start" : 1669345843582,
+    "stop" : 1669345843775,
+    "duration" : 193
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a5a1a521f825907",
+  "name" : "非授权用户排序失败",
+  "time" : {
+    "start" : 1669345835363,
+    "stop" : 1669345835507,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c4b7db2935ed310",
+  "name" : "GetRoomModeSettings2，默认讨论-禁止昵称316571",
+  "time" : {
+    "start" : 1669345950590,
+    "stop" : 1669345950591,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "430734784a50090",
+  "name" : "record服务_切片时长30分钟，关闭录制时间设置10分钟",
+  "time" : {
+    "start" : 1669345953796,
+    "stop" : 1669345953928,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29b5f3bfa393c308",
+  "name" : "修改合法手机号，修改成功",
+  "time" : {
+    "start" : 1669345819600,
+    "stop" : 1669345819774,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a845765a53e0474b",
+  "name" : "无效状态，修改失败",
+  "time" : {
+    "start" : 1669345859936,
+    "stop" : 1669345860097,
+    "duration" : 161
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72227c150e1c9103",
+  "name" : "手机号格式错误，添加失败",
+  "time" : {
+    "start" : 1669345853116,
+    "stop" : 1669345853263,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6be8d731970cff77",
+  "name" : "修改为企业管理员，修改失败",
+  "time" : {
+    "start" : 1669345857539,
+    "stop" : 1669345857677,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21fc43bcc3fb370d",
+  "name" : "预置数据：部门名称合法，新增部门成功",
+  "time" : {
+    "start" : 1669345848778,
+    "stop" : 1669345848926,
+    "duration" : 148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37d120cceb4ba1df",
+  "name" : "新增会议，新增成功",
+  "time" : {
+    "start" : 1669345827479,
+    "stop" : 1669345827705,
+    "duration" : 226
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d25e30cd69e62c31",
+  "name" : "订单id非绑定该终端，续费产品生效失败",
+  "time" : {
+    "start" : 1669345847326,
+    "stop" : 1669345847330,
+    "duration" : 4
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fb8389eabfc45529",
+  "name" : "删除用户，删除成功",
+  "time" : {
+    "start" : 1669345861850,
+    "stop" : 1669345862017,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf09e00732c4ac7e",
+  "name" : "大陆手机验证码登录",
+  "time" : {
+    "start" : 1669345809546,
+    "stop" : 1669345809690,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f510aa898306383",
+  "name" : "海外手机号，添加成功",
+  "time" : {
+    "start" : 1669345849882,
+    "stop" : 1669345850063,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2cbd12bf19b94d8",
+  "name" : "GetRoomModeSettings2，新讨论317615",
+  "time" : {
+    "start" : 1669345950959,
+    "stop" : 1669345951119,
+    "duration" : 160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e55d1df14cf663e9",
+  "name" : "GetRoomModeSettings2，新自定义全 317617 ",
+  "time" : {
+    "start" : 1669345950797,
+    "stop" : 1669345950951,
+    "duration" : 154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eaa0fa379bd7aeb8",
+  "name" : "部门名称合法，新增部门成功",
+  "time" : {
+    "start" : 1669345814033,
+    "stop" : 1669345814183,
+    "duration" : 150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a2a406df47c35ef",
+  "name" : "GetRoomModeSettings2，新预约讨论317159",
+  "time" : {
+    "start" : 1669345950956,
+    "stop" : 1669345950956,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fa0330eba23aa1b8",
+  "name" : "部门名称过长新增部门",
+  "time" : {
+    "start" : 1669345954327,
+    "stop" : 1669345954339,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6608f812238e8d1e",
+  "name" : "默认会控-培训316797",
+  "time" : {
+    "start" : 1669345950615,
+    "stop" : 1669345950615,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3e960fb226405a55",
+  "name" : "GetRoomModeSettings2，默认会控-新1000000043",
+  "time" : {
+    "start" : 1669345950560,
+    "stop" : 1669345950560,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e73669ef2f8f5066",
+  "name" : "room服务_会控,注册用户会议管理员获取会控地址",
+  "time" : {
+    "start" : 1669345953184,
+    "stop" : 1669345953185,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e877897cedd49822",
+  "name" : "授权为管理员，取消授权成功",
+  "time" : {
+    "start" : 1669345836022,
+    "stop" : 1669345836179,
+    "duration" : 157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b5c192df15d6c4d",
+  "name" : "2",
+  "time" : {
+    "start" : 1669345848441,
+    "stop" : 1669345848441,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a84cdd7e555b8e3f",
+  "name" : "VerifyRoomUser3服务注册用户",
+  "time" : {
+    "start" : 1669345948539,
+    "stop" : 1669345948539,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f213a3cbbfce0481",
+  "name" : "GetRoomModeSettings2，新培训 317613 ",
+  "time" : {
+    "start" : 1669345951121,
+    "stop" : 1669345951291,
+    "duration" : 170
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd1e9d2ec9a2e915",
+  "name" : "部门名称为空，修改失败",
+  "time" : {
+    "start" : 1669345815421,
+    "stop" : 1669345815573,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cee43152d0e71310",
+  "name" : "导入已存在用户，导入失败",
+  "time" : {
+    "start" : 1669345862829,
+    "stop" : 1669345862981,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de3a14be1666a7ac",
+  "name" : "获取终端列表",
+  "time" : {
+    "start" : 1669345845211,
+    "stop" : 1669345845529,
+    "duration" : 318
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4fa28517dcd0782",
+  "name" : "普通员工无法新增会议室",
+  "time" : {
+    "start" : 1669345831291,
+    "stop" : 1669345831441,
+    "duration" : 150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6f1608ede98ecbf",
+  "name" : "主键id与roomid不匹配，修改失败",
+  "time" : {
+    "start" : 1669345948091,
+    "stop" : 1669345948222,
+    "duration" : 131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a040d6bd163fb084",
+  "name" : "部门管理员无法新增其他同级部门的会议室",
+  "time" : {
+    "start" : 1669345830992,
+    "stop" : 1669345831145,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e2fa91f5982ff75",
+  "name" : "登录dal服务器，从log获取验证验证码接口所需的code",
+  "time" : {
+    "start" : 1669345809011,
+    "stop" : 1669345809543,
+    "duration" : 532
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ecd274710c66c5a7",
+  "name" : "输入错误的父ID新增部门",
+  "time" : {
+    "start" : 1669345954282,
+    "stop" : 1669345954292,
+    "duration" : 10
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "334e9da611374bb4",
+  "name" : "授权其他企业用户",
+  "time" : {
+    "start" : 1669345839425,
+    "stop" : 1669345839558,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70a994a1ab830aa8",
+  "name" : "修改为不存在的部门，修改失败",
+  "time" : {
+    "start" : 1669345857831,
+    "stop" : 1669345857986,
+    "duration" : 155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea4e53a5a6766767",
+  "name" : "修改终端名称，修改成功",
+  "time" : {
+    "start" : 1669345845532,
+    "stop" : 1669345845678,
+    "duration" : 146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1010557b6e633930",
+  "name" : "会议分享信息，信息返回正确",
+  "time" : {
+    "start" : 1669345833114,
+    "stop" : 1669345833247,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f22db5eac25de94e",
+  "name" : "查询过去时间，会议日程查询成功",
+  "time" : {
+    "start" : 1669345840548,
+    "stop" : 1669345840707,
+    "duration" : 159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c3f46b32661c3c9",
+  "name" : "GetRoomModeSettings2，新会控 316315 ",
+  "time" : {
+    "start" : 1669345950478,
+    "stop" : 1669345950478,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a2dcb950deab6db",
+  "name" : "修改为根部门的部门管理员，修改失败",
+  "time" : {
+    "start" : 1669345857362,
+    "stop" : 1669345857536,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87594b07efd51f56",
+  "name" : "部门名称包含特殊字符，修改失败",
+  "time" : {
+    "start" : 1669345815713,
+    "stop" : 1669345816151,
+    "duration" : 438
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6dc7dd2bd47850a3",
+  "name" : "room服务_会控,注册用户参会人获取会控地址",
+  "time" : {
+    "start" : 1669345953188,
+    "stop" : 1669345953190,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b064dae9657d6d22",
+  "name" : "2",
+  "time" : {
+    "start" : 1669345813576,
+    "stop" : 1669345813577,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6486a2e5f534e53b",
+  "name" : "修改海外手机号，修改成功",
+  "time" : {
+    "start" : 1669345856672,
+    "stop" : 1669345856863,
+    "duration" : 191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7da43c989c077cdc",
+  "name" : "用户名密码登录，获取token",
+  "time" : {
+    "start" : 1669345807429,
+    "stop" : 1669345807602,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87339cf2aaddbedf",
+  "name" : "3",
+  "time" : {
+    "start" : 1669345844144,
+    "stop" : 1669345844144,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a9264ab954c9c854",
+  "name" : "导出全部用户",
+  "time" : {
+    "start" : 1669345860828,
+    "stop" : 1669345861053,
+    "duration" : 225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6cb33ac714a28120",
+  "name" : "FindTerminal服务",
+  "time" : {
+    "start" : 1669345951589,
+    "stop" : 1669345951589,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "152aa66b95d86e6d",
+  "name" : "验证坐标点",
+  "time" : {
+    "start" : 1669345823696,
+    "stop" : 1669345823927,
+    "duration" : 231
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84973453974a66c4",
+  "name" : "record服务_切片时长30分钟，关闭录制时间设置10分钟",
+  "time" : {
+    "start" : 1669345952172,
+    "stop" : 1669345952325,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81b94d979516d8c7",
+  "name" : "查询授权未入会用户",
+  "time" : {
+    "start" : 1669345843778,
+    "stop" : 1669345843931,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffee97b08a05ba4a",
+  "name" : "终端序列号为空，续费产品生效失败",
+  "time" : {
+    "start" : 1669345847333,
+    "stop" : 1669345847333,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "18445535cc0b8a57",
+  "name" : "测试1",
+  "time" : {
+    "start" : 1669345813573,
+    "stop" : 1669345813573,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "abdc10133fa4409a",
+  "name" : "状态为空，修改失败",
+  "time" : {
+    "start" : 1669345860100,
+    "stop" : 1669345860225,
+    "duration" : 125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "862327d1e59faa6c",
+  "name" : "查询邀请码，查询成功",
+  "time" : {
+    "start" : 1669345831908,
+    "stop" : 1669345832045,
+    "duration" : 137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9063c9bcf486387f",
+  "name" : "查询客户",
+  "time" : {
+    "start" : 1669345813570,
+    "stop" : 1669345813570,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2893b1179fd93967",
+  "name" : "修改录制配置为关闭录制",
+  "time" : {
+    "start" : 1669345842167,
+    "stop" : 1669345842340,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e69cf2d871497758",
+  "name" : "修改录制配置为开启录制",
+  "time" : {
+    "start" : 1669345841845,
+    "stop" : 1669345842024,
+    "duration" : 179
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c463905e7733fe35",
+  "name" : "后台登录前-获取sessionid",
+  "time" : {
+    "start" : 1669345813564,
+    "stop" : 1669345813565,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "403626267773f1a0",
+  "name" : "GetRoomModeSettings2，默认讨论-会控316563",
+  "time" : {
+    "start" : 1669345950568,
+    "stop" : 1669345950568,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5a0d3b8db8dd5bb6",
+  "name" : "更新邀请码为7天，更新成功",
+  "time" : {
+    "start" : 1669345833509,
+    "stop" : 1669345833652,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c9b278853796d07",
+  "name" : "查询会议授权的管理员信息，查询成功",
+  "time" : {
+    "start" : 1669345834276,
+    "stop" : 1669345834415,
+    "duration" : 139
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b93ee2f762499c6e",
+  "name" : "查询会议授权的其他企业用户信息",
+  "time" : {
+    "start" : 1669345839561,
+    "stop" : 1669345839707,
+    "duration" : 146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c83377726a89b6b1",
+  "name" : "GetRoomModeSettings2，默认培训-新自定义音视频316371",
+  "time" : {
+    "start" : 1669345950557,
+    "stop" : 1669345950557,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6ca414c180cc6f55",
+  "name" : "同角色排序",
+  "time" : {
+    "start" : 1669345834886,
+    "stop" : 1669345835037,
+    "duration" : 151
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71ded640846e4021",
+  "name" : "密码小于6位",
+  "time" : {
+    "start" : 1669345851961,
+    "stop" : 1669345852103,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8bbcd696303a1902",
+  "name" : "3",
+  "time" : {
+    "start" : 1669345842657,
+    "stop" : 1669345842657,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a9042f1a165987d",
+  "name" : "部门不存在则创建部门，导入成功",
+  "time" : {
+    "start" : 1669345863630,
+    "stop" : 1669345863814,
+    "duration" : 184
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6da684d77ada5a80",
+  "name" : "终端序列号未激活，终端续费4K产品生效成功",
+  "time" : {
+    "start" : 1669345847306,
+    "stop" : 1669345847307,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "75b3ed22748a0ffe",
+  "name" : "GetRoomModeSettings2，新讨论317145",
+  "time" : {
+    "start" : 1669345950636,
+    "stop" : 1669345950637,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c9c77d93686c2602",
+  "name" : "不设置“管理员未进入会议室，允许其他参会人加入会议”，新增成功",
+  "time" : {
+    "start" : 1669345830079,
+    "stop" : 1669345830303,
+    "duration" : 224
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7a5ab104eb61f57",
+  "name" : "查询某部门下的用户",
+  "time" : {
+    "start" : 1669345853884,
+    "stop" : 1669345854037,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6be53cb072d4ddb",
+  "name" : "添加无效身份，添加失败",
+  "time" : {
+    "start" : 1669345850990,
+    "stop" : 1669345851148,
+    "duration" : 158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8b37238691ce58",
+  "name" : "登录dal服务器，从log获取验证坐标点接口所需的data",
+  "time" : {
+    "start" : 1669345822114,
+    "stop" : 1669345822670,
+    "duration" : 556
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b37a3c00e2b39a8",
+  "name" : "查询会议授权的管理员信息，查询成功",
+  "time" : {
+    "start" : 1669345837848,
+    "stop" : 1669345837997,
+    "duration" : 149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29429661917e124a",
+  "name" : "删除client，删除成功",
+  "time" : {
+    "start" : 1669345817834,
+    "stop" : 1669345818022,
+    "duration" : 188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2bca360b13c878a9",
+  "name" : "授权为参会人，授权成功",
+  "time" : {
+    "start" : 1669345835040,
+    "stop" : 1669345835200,
+    "duration" : 160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69c91f3c87036cde",
+  "name" : "登录dal服务器，从log获取验证验证码接口所需的code",
+  "time" : {
+    "start" : 1669345810714,
+    "stop" : 1669345811224,
+    "duration" : 510
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58e2da2474550fff",
+  "name" : "邮箱为空，修改失败",
+  "time" : {
+    "start" : 1669345860661,
+    "stop" : 1669345860826,
+    "duration" : 165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eaebd56abe0e522f",
+  "name" : "roomid不存在，新增失败",
+  "time" : {
+    "start" : 1669345945511,
+    "stop" : 1669345945657,
+    "duration" : 146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18520e34a027399",
+  "name" : "GetRoomModeSettings2，默认讨论-自定义远程音频316569",
+  "time" : {
+    "start" : 1669345950587,
+    "stop" : 1669345950587,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c268767d46da5881",
+  "name" : "不同角色排序",
+  "time" : {
+    "start" : 1669345835203,
+    "stop" : 1669345835360,
+    "duration" : 157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e2c7326e787c212",
+  "name" : "record服务_指定录制",
+  "time" : {
+    "start" : 1669345952893,
+    "stop" : 1669345953021,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edaf30b57a0dceb0",
+  "name" : "历史会议查询",
+  "time" : {
+    "start" : 1669345844314,
+    "stop" : 1669345844476,
+    "duration" : 162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84acb44dcb6d72a6",
+  "name" : "GetRoomModeSettings2，默认讨论-即时1000000001",
+  "time" : {
+    "start" : 1669345950578,
+    "stop" : 1669345950578,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c936366b53752ed8",
+  "name" : "状态为停用，用户添加成功",
+  "time" : {
+    "start" : 1669345852617,
+    "stop" : 1669345852816,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de71e666eb1930e4",
+  "name" : "登录，获取token",
+  "time" : {
+    "start" : 1669345827341,
+    "stop" : 1669345827476,
+    "duration" : 135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "883f9fd305abe003",
+  "name" : "2",
+  "time" : {
+    "start" : 1669345845036,
+    "stop" : 1669345845036,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "dd2f63de54375c3",
+  "name" : "邮箱为空，添加失败",
+  "time" : {
+    "start" : 1669345853567,
+    "stop" : 1669345853727,
+    "duration" : 160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a489dae68b42267d",
+  "name" : "会议室详细信息",
+  "time" : {
+    "start" : 1669345832944,
+    "stop" : 1669345833111,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c33b8ce49b2e9cf",
+  "name" : "修改录制配置为自定义时间录制",
+  "time" : {
+    "start" : 1669345841504,
+    "stop" : 1669345841694,
+    "duration" : 190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd9f6c60f45da04",
+  "name" : "关闭会议室成功",
+  "time" : {
+    "start" : 1669345844135,
+    "stop" : 1669345844136,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "81c3f6de1bbbcd12",
+  "name" : "预置数据：查询部门信息，获取部门id",
+  "time" : {
+    "start" : 1669345848928,
+    "stop" : 1669345849106,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a6bf74f4a86fa00",
+  "name" : "登录，获取token",
+  "time" : {
+    "start" : 1669345819163,
+    "stop" : 1669345819305,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6dc249d68a91e319",
+  "name" : "验证坐标点，发送短信验证码",
+  "time" : {
+    "start" : 1669345802633,
+    "stop" : 1669345802874,
+    "duration" : 241
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f766d783b618e0d2",
+  "name" : "测试1",
+  "time" : {
+    "start" : 1669345848438,
+    "stop" : 1669345848438,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1471900909b9462",
+  "name" : "GetRoomModeSettings2，默认培训-新培训316363",
+  "time" : {
+    "start" : 1669345950541,
+    "stop" : 1669345950543,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c02e77c8b618e3ed",
+  "name" : "发送重启命令，发送成功",
+  "time" : {
+    "start" : 1669345848003,
+    "stop" : 1669345848202,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72948ffed47349d",
+  "name" : "3",
+  "time" : {
+    "start" : 1669345801836,
+    "stop" : 1669345801836,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "bc9bb3f7cc0a4f27",
+  "name" : "用户为空，提示正确",
+  "time" : {
+    "start" : 1669345835509,
+    "stop" : 1669345835662,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9da228468f155a18",
+  "name" : "获取验证图片，获取id",
+  "time" : {
+    "start" : 1669345807907,
+    "stop" : 1669345808251,
+    "duration" : 344
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "478f4aa319aeb82c",
+  "name" : "授权用户为空，提示正确",
+  "time" : {
+    "start" : 1669345834751,
+    "stop" : 1669345834881,
+    "duration" : 130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88c6fbb873a29264",
+  "name" : "keycode过期新增部门",
+  "time" : {
+    "start" : 1669345954311,
+    "stop" : 1669345954324,
+    "duration" : 13
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "99dfb23cdf5b2bf8",
+  "name" : "GetRoomModeSettings2，新会控 317611",
+  "time" : {
+    "start" : 1669345951293,
+    "stop" : 1669345951432,
+    "duration" : 139
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a86e2789d627c00c",
+  "name" : "登录，获取token",
+  "time" : {
+    "start" : 1669345813583,
+    "stop" : 1669345813733,
+    "duration" : 150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40bb27fa802f9057",
+  "name" : "批量修改密码成功",
+  "time" : {
+    "start" : 1669345855440,
+    "stop" : 1669345855644,
+    "duration" : 204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c6797912a89b276",
+  "name" : "全量查询会议授权信息，查询成功",
+  "time" : {
+    "start" : 1669345836847,
+    "stop" : 1669345837496,
+    "duration" : 649
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "681c5aa59c27ab25",
+  "name" : "排序为空，提示正确",
+  "time" : {
+    "start" : 1669345835667,
+    "stop" : 1669345835805,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ddbf5b7b4317cae3",
+  "name" : "GetRoomModeSettings2，默认讨论-自定义全316577",
+  "time" : {
+    "start" : 1669345950599,
+    "stop" : 1669345950599,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3adc8f0e35f0e84",
+  "name" : "终端序列号非本企业，续费产品生效失败",
+  "time" : {
+    "start" : 1669345847338,
+    "stop" : 1669345847339,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "efbb30b01b2074d9",
+  "name" : "修改身份为空，修改失败",
+  "time" : {
+    "start" : 1669345859601,
+    "stop" : 1669345859738,
+    "duration" : 137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee5c7dc804b3ca5e",
+  "name" : "测试1",
+  "time" : {
+    "start" : 1669345844138,
+    "stop" : 1669345844139,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4d6c3eda16b80d04",
+  "name" : "导出不存在用户",
+  "time" : {
+    "start" : 1669345861255,
+    "stop" : 1669345861847,
+    "duration" : 592
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e48adec8583b331d",
+  "name" : "启用会议密码，长度超过32位，新增失败",
+  "time" : {
+    "start" : 1669345828817,
+    "stop" : 1669345828984,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11c54e7b258fe09e",
+  "name" : "登录，获取验证图片",
+  "time" : {
+    "start" : 1669345821878,
+    "stop" : 1669345821879,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d0e345adc24a975d",
+  "name" : "2",
+  "time" : {
+    "start" : 1669345842654,
+    "stop" : 1669345842654,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "66ca493f8d0b7bd0",
+  "name" : "禁用邀请码，更新成功",
+  "time" : {
+    "start" : 1669345833792,
+    "stop" : 1669345833942,
+    "duration" : 150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad9c37fc436456",
+  "name" : "修改绑定手机号，获取验证图片",
+  "time" : {
+    "start" : 1669345821871,
+    "stop" : 1669345821872,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "67239a882adb1481",
+  "name" : "新增client名称长度大于32位，修改失败",
+  "time" : {
+    "start" : 1669345817098,
+    "stop" : 1669345817254,
+    "duration" : 156
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71f05b70302a5618",
+  "name" : "部门ID不属于本企业，修改失败",
+  "time" : {
+    "start" : 1669345816465,
+    "stop" : 1669345816601,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb28734eef8729b8",
+  "name" : "终端增值产品下单",
+  "time" : {
+    "start" : 1669345846304,
+    "stop" : 1669345847162,
+    "duration" : 858
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eec48eb121ed4b18",
+  "name" : "授权为参会人，取消授权成功",
+  "time" : {
+    "start" : 1669345836375,
+    "stop" : 1669345836542,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8be186420eb6d44b",
+  "name" : "GetRoomModeSettings2，默认讨论-会控316581",
+  "time" : {
+    "start" : 1669345950605,
+    "stop" : 1669345950606,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ed52f34d5288b5ff",
+  "name" : "3",
+  "time" : {
+    "start" : 1669345813580,
+    "stop" : 1669345813580,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7ed8fbe7530222d7",
+  "name" : "登录dal服务器，从log获取验证坐标点接口所需的data",
+  "time" : {
+    "start" : 1669345802140,
+    "stop" : 1669345802630,
+    "duration" : 490
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a25acb6973cf83c",
+  "name" : "GetRoomModeSettings2，历史自定义全316235",
+  "time" : {
+    "start" : 1669345949109,
+    "stop" : 1669345949261,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33fb7e6a13188af8",
+  "name" : "查询会议授权的参会人信息，查询成功",
+  "time" : {
+    "start" : 1669345838984,
+    "stop" : 1669345839115,
+    "duration" : 131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e1082a14cba966e",
+  "name" : "部门管理员无法新增根企业下的会议室",
+  "time" : {
+    "start" : 1669345830857,
+    "stop" : 1669345830990,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe14e7e35ff20536",
+  "name" : "注册，获取验证图片",
+  "time" : {
+    "start" : 1669345821868,
+    "stop" : 1669345821869,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "edf85f3291bbca33",
+  "name" : "3",
+  "time" : {
+    "start" : 1669345827338,
+    "stop" : 1669345827338,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7bca11aeb0eb0055",
+  "name" : "后台登录前-获取saltKey",
+  "time" : {
+    "start" : 1669345813567,
+    "stop" : 1669345813568,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cae40a7544b9a1f3",
+  "name" : "注册海外手机号，注册成功",
+  "time" : {
+    "start" : 1669345806322,
+    "stop" : 1669345807426,
+    "duration" : 1104
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ec0c28b14180064",
+  "name" : "批量删除会议，删除成功",
+  "time" : {
+    "start" : 1669345840027,
+    "stop" : 1669345840242,
+    "duration" : 215
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f5fccba079df4b9",
+  "name" : "取消授权用户为空，提示正确",
+  "time" : {
+    "start" : 1669345836544,
+    "stop" : 1669345836696,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70c1c47238f1ef09",
+  "name" : "授权管理员",
+  "time" : {
+    "start" : 1669345838485,
+    "stop" : 1669345838634,
+    "duration" : 149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6fa5118e2a3dccb1",
+  "name" : "部门层级未用/区分上下级",
+  "time" : {
+    "start" : 1669345863817,
+    "stop" : 1669345864043,
+    "duration" : 226
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9da76682e1ca73c",
+  "name" : "导入用户，导入成功",
+  "time" : {
+    "start" : 1669345862593,
+    "stop" : 1669345862826,
+    "duration" : 233
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45093544c049f4de",
+  "name" : "keycode错误新增部门",
+  "time" : {
+    "start" : 1669345954296,
+    "stop" : 1669345954308,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fba68456df27f5d3",
+  "name" : "登录dal机器，获取短信验证码、图形验证码",
+  "time" : {
+    "start" : 1669345954359,
+    "stop" : 1669345954370,
+    "duration" : 11
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b9b22ea351a2c4af",
+  "name" : "根部门添加部门管理员，添加失败",
+  "time" : {
+    "start" : 1669345850387,
+    "stop" : 1669345850549,
+    "duration" : 162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c02b313ae97a2ae",
+  "name" : "密码大于32位",
+  "time" : {
+    "start" : 1669345852106,
+    "stop" : 1669345852239,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d29b5e49ba68648",
+  "name" : "VerifyRoomUser2服务",
+  "time" : {
+    "start" : 1669345948525,
+    "stop" : 1669345948533,
+    "duration" : 8
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5ccb2f7f3ca20302",
+  "name" : "用户id为空修改失败",
+  "time" : {
+    "start" : 1669345856142,
+    "stop" : 1669345856269,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cac24fe4e875d85d",
+  "name" : "2",
+  "time" : {
+    "start" : 1669345844141,
+    "stop" : 1669345844141,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1c35e7564a75f30",
+  "name" : "不输入部门名称新增部门",
+  "time" : {
+    "start" : 1669345954268,
+    "stop" : 1669345954278,
+    "duration" : 10
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4af78384116a6095",
+  "name" : "禁用邀请码，信息返回正确",
+  "time" : {
+    "start" : 1669345833375,
+    "stop" : 1669345833507,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "377e7fef2afb9000",
+  "name" : "登录dal服务器，从log获取验证坐标点接口所需的data",
+  "time" : {
+    "start" : 1669345820239,
+    "stop" : 1669345820729,
+    "duration" : 490
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4588a31b8b5d428",
+  "name" : "2",
+  "time" : {
+    "start" : 1669345948511,
+    "stop" : 1669345948511,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9a3a12f95103dae7",
+  "name" : "登录，获取token",
+  "time" : {
+    "start" : 1669345816775,
+    "stop" : 1669345816928,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c00039513ff3e44",
+  "name" : "重置密码，获取验证图片",
+  "time" : {
+    "start" : 1669345825920,
+    "stop" : 1669345826519,
+    "duration" : 599
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1853efe2d48c5fb5",
+  "name" : "启用管理员密码，新增成功",
+  "time" : {
+    "start" : 1669345829360,
+    "stop" : 1669345829564,
+    "duration" : 204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "702eea7cb57c1e04",
+  "name" : "手机号密码登录，获取token",
+  "time" : {
+    "start" : 1669345807605,
+    "stop" : 1669345807745,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a86ce199769e0e6",
+  "name" : "预置数据：新增部门供导入用户使用",
+  "time" : {
+    "start" : 1669345862439,
+    "stop" : 1669345862439,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ff77cdb2e600de3a",
+  "name" : "有父id新增部门",
+  "time" : {
+    "start" : 1669345954235,
+    "stop" : 1669345954246,
+    "duration" : 11
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c9b9d25b25c731fd",
+  "name" : "部门id为空，修改失败",
+  "time" : {
+    "start" : 1669345857220,
+    "stop" : 1669345857359,
+    "duration" : 139
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "431a244c81390e2",
+  "name" : "类型为无效值，修改失败",
+  "time" : {
+    "start" : 1669345858132,
+    "stop" : 1669345858299,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "464383df91e803ac",
+  "name" : "roomid为空，修改失败",
+  "time" : {
+    "start" : 1669345947421,
+    "stop" : 1669345947554,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88aafccd402c367d",
+  "name" : "查询指定在线会议室，查询成功",
+  "time" : {
+    "start" : 1669345842979,
+    "stop" : 1669345843122,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9f0908fdfe091b4",
+  "name" : "新增client，新增成功",
+  "time" : {
+    "start" : 1669345816930,
+    "stop" : 1669345817095,
+    "duration" : 165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b73f528649ccdac3",
+  "name" : "部门名称超过64位，修改失败",
+  "time" : {
+    "start" : 1669345815575,
+    "stop" : 1669345815711,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e87cf70b91877181",
+  "name" : "状态为空，用户添加失败",
+  "time" : {
+    "start" : 1669345852969,
+    "stop" : 1669345853113,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ad242ea94a1b95d",
+  "name" : "CheckRoomRemainTime服务",
+  "time" : {
+    "start" : 1669345948520,
+    "stop" : 1669345948520,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e9b8595b53ec7e90",
+  "name" : "查询部门信息，返回正确",
+  "time" : {
+    "start" : 1669345814850,
+    "stop" : 1669345815253,
+    "duration" : 403
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9667b8907cdae748",
+  "name" : "历史会议翻页查询，查询成功",
+  "time" : {
+    "start" : 1669345841021,
+    "stop" : 1669345841157,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6fd6d2ae0d1340a9",
+  "name" : "预置数据：查询新增的部门id",
+  "time" : {
+    "start" : 1669345862442,
+    "stop" : 1669345862591,
+    "duration" : 149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5292f86f72a6a78e",
+  "name" : "jsonvalue为非json格式字符串，修改失败",
+  "time" : {
+    "start" : 1669345947816,
+    "stop" : 1669345947940,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2167e3f3b437fd31",
+  "name" : "部门名称合法字符，修改成功",
+  "time" : {
+    "start" : 1669345815256,
+    "stop" : 1669345815418,
+    "duration" : 162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "825de6ebf4de05bd",
+  "name" : "GetRoomModeSettings2，默认培训-新即时培训316323",
+  "time" : {
+    "start" : 1669345950536,
+    "stop" : 1669345950536,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "555f2da6a0f4c738",
+  "name" : "密码小于6位，修改失败",
+  "time" : {
+    "start" : 1669345858301,
+    "stop" : 1669345858445,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d522618efa0ab3",
+  "name" : "获取录制配置，开启录制",
+  "time" : {
+    "start" : 1669345842026,
+    "stop" : 1669345842164,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e8b3e7c102f030a",
+  "name" : "删除海外手机的数据",
+  "time" : {
+    "start" : 1669345801028,
+    "stop" : 1669345801833,
+    "duration" : 805
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84611dc6d6be1dac",
+  "name" : "添加32位昵称，添加成功",
+  "time" : {
+    "start" : 1669345851296,
+    "stop" : 1669345851507,
+    "duration" : 211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6832ac7c2de1a759",
+  "name" : "用其他企业的部门id添加员工，添加失败",
+  "time" : {
+    "start" : 1669345850251,
+    "stop" : 1669345850384,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c9877f23e666e10",
+  "name" : "名称查询用户",
+  "time" : {
+    "start" : 1669345855150,
+    "stop" : 1669345855301,
+    "duration" : 151
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb92cb650f1fbad2",
+  "name" : "VerifyRoomUser服务\nunameType:0 匿名用户\n1 注册用户,匿名用户不需要密码",
+  "time" : {
+    "start" : 1669345948523,
+    "stop" : 1669345948523,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "be4753a70566745c",
+  "name" : "验证坐标点，发送短信验证码",
+  "time" : {
+    "start" : 1669345812192,
+    "stop" : 1669345812430,
+    "duration" : 238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6638890507de259",
+  "name" : "GetRoomModeSettings2，默认培训-历史培训316263",
+  "time" : {
+    "start" : 1669345950515,
+    "stop" : 1669345950515,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1c8db15f8ebf06e3",
+  "name" : "翻页查询会议授权信息，查询成功",
+  "time" : {
+    "start" : 1669345838161,
+    "stop" : 1669345838305,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37018af68fec65cd",
+  "name" : "GetRoomModeSettings2，历史培训316231",
+  "time" : {
+    "start" : 1669345948769,
+    "stop" : 1669345948933,
+    "duration" : 164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67a973fc58e219c2",
+  "name" : "登录dal服务器，从log获取验证坐标点接口所需的data",
+  "time" : {
+    "start" : 1669345826522,
+    "stop" : 1669345827100,
+    "duration" : 578
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2865fd9cb117a87",
+  "name" : "GetRoomModeSettings2，默认讨论-讨论316583",
+  "time" : {
+    "start" : 1669345950609,
+    "stop" : 1669345950609,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "314928de8ef10818",
+  "name" : "添加企业管理员，添加失败",
+  "time" : {
+    "start" : 1669345850551,
+    "stop" : 1669345850700,
+    "duration" : 149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f28c7cd074548368",
+  "name" : "GetRoomModeSettings2，新自定义无 316317",
+  "time" : {
+    "start" : 1669345950481,
+    "stop" : 1669345950481,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f88530826dad2f44",
+  "name" : "启用管理员密码，管理员密码为空，新增失败",
+  "time" : {
+    "start" : 1669345829916,
+    "stop" : 1669345830076,
+    "duration" : 160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4347771563d830bd",
+  "name" : "修改昵称合法字符，修改成功",
+  "time" : {
+    "start" : 1669345821706,
+    "stop" : 1669345821866,
+    "duration" : 160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f2557438f2f35aa",
+  "name" : "身份不存在，导入失败",
+  "time" : {
+    "start" : 1669345864045,
+    "stop" : 1669345864203,
+    "duration" : 158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da4dc4ced245c0ca",
+  "name" : "UpdateRoomRouteInfo服务",
+  "time" : {
+    "start" : 1669345948517,
+    "stop" : 1669345948517,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "907252ce03fa707c",
+  "name" : "查询企业信息",
+  "time" : {
+    "start" : 1669345940800,
+    "stop" : 1669345940801,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

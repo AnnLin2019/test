@@ -1,0 +1,7 @@
+INFO     root:test_api_all.py:83 record服务_传参自定义入会自动录制时间，完整录制（有主讲），视频和数据等比完整显示是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 record服务_传参自定义入会自动录制时间，完整录制（有主讲），视频和数据等比完整显示**********
+INFO     root:test_api_all.py:193 请求方法 ICE，ip 47.113.118.87,端口 33001，接口 invoke，
+INFO     root:test_api_all.py:194 请求参数 
+("RecordConfig","GET","915927")
+INFO     root:test_api_all.py:198 返回
+{"available":false,"enableServerRecord":true,"config":{"autoRecord":2,"start":"2022-06-16 19:45:30","end":"2022-06-16 19:55:30","resolution":"1280*720","recordMode":1,"userIds":null,"videoMode":2,"dataMode":1,"sliceTime":60,"autoCloseTime":60,"timestampInfo":"{\"switch\":0,\"location\":2}","liveRecordMode":1,"width":1280,"high":720,"recordUser":false}}

@@ -1,0 +1,1 @@
+"autoRecord":0;recordMode":2;"videoMode":0;"dataMode":0;"liveRecordMode":1

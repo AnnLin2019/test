@@ -28,7 +28,7 @@ from collections import defaultdict
 # path='F:\\Test\\Interface\\Python自动化\\git_api\\test\\data\\boss_ice_1.xlsx'
 from common.toFunction import Func
 
-paths=File().file_path('data\\boss_api')
+paths=File().file_path('data\\1')
 # operationexcel=op.operationExcel()
 excels=op.Pathsexcel()
 get_all_values=excels.get_all_values(paths)

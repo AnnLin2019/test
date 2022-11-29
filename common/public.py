@@ -9,6 +9,8 @@
 
 import os
 import pathlib
+import os.path
+from pathlib import Path
 
 class File():
     def __int__(self):
@@ -18,6 +20,11 @@ class File():
     def file_dir(self,filename):
         path = pathlib.Path(filename)
         parent_path=path.cwd().parent
+        return parent_path.joinpath(filename)
+
+    def file_cwd_dir(self,filename):
+        path = pathlib.Path(filename)
+        parent_path=path.cwd()
         return parent_path.joinpath(filename)
     # Path(__file__).resolve().parent
 
@@ -47,6 +54,28 @@ class File():
         path=pathlib.Path(filepath)
         # print(path)
         return path.name
+
+
+
+def data_path(s):
+    base_dir = Path.cwd().absolute()
+    parent_path = base_dir.parent
+    datapath = base_dir / s
+    path = '/'.join(str(datapath).split('\\'))
+    # datapath=datapath.replace('\\','/')
+    return path
+
+def data_path2(s):
+    base_dir = Path.cwd()
+    parent_path = base_dir.parent
+    datapath = parent_path / s
+    return str(datapath)
+
+def data_path3(s):
+    base_dir = os.path.abspath(os.path.curdir)
+    path = os.path.join(base_dir, s)
+    return path
+
 
 if __name__ == '__main__':
     file=File()

@@ -1,1 +1,0 @@
-{"code":"0000","message":"SUCCESS","result":[{"curUserCount":0,"hopeEndTime":"2020-08-07 11:54:37.0","hopeStartTime":"2020-08-07 11:54:37.0","maxUserCount":10,"roomId":235271,"roomName":"1方会议室722","roomType":"0","verifyMode":"3"}]}

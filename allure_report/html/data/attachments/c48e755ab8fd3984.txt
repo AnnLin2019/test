@@ -1,0 +1,11 @@
+INFO     root:test_api_all.py:83 主键id与type不匹配，修改失败是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 主键id与type不匹配，修改失败**********
+INFO     root:test_api_all.py:204 请求方法PUT，
+请求头{'content-type': 'application/json', 'Authorization': 'bearer b0e6fdd3-5ddd-4072-8aba-2ea1f15946ee'},
+请求接口https://interface.haoshitong.com/security/meeting/data/635
+INFO     root:test_api_all.py:205 请求参数:
+{"type":1,"roomId":"317823","jsonValue":"{\"ID\":1,\"Name\":\"py修改本地轮巡\",\"Interval\":15000,\"Screen\":0,\"Window\":0,\"Status\":2,\"UserList\":[{\"UserID\":10003,\"NickName\":\"fs01\"},{\"UserID\":1610612935,\"NickName\":\"x00\"}]}"},
+请求文件:None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): interface.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://interface.haoshitong.com:443 "PUT /security/meeting/data/635 HTTP/1.1" 200 None
+INFO     root:test_api_all.py:210 返回{"resCode":10000,"resMessage":"common.illegal.parameter","result":null}

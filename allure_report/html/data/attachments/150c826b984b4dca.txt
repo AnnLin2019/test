@@ -1,0 +1,1 @@
+INFO     root:test_api_all.py:283 测试1是否自动化： NO

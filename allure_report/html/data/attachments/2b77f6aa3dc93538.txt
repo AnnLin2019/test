@@ -1,0 +1,1 @@
+"autoRecord":2,"start":"2022-06-16 19:45:30","end":"2022-06-16 19:55:30";"recordMode":1;"videoMode":2,"dataMode":1;"liveRecordMode":1

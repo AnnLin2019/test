@@ -1,0 +1,10 @@
+INFO     root:test_api_all.py:83 历史会议查询，查询成功是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 历史会议查询，查询成功**********
+INFO     root:test_api_all.py:216 请求方法GET，请求头{'content-type': 'application/x-www-form-urlencoded', 'Authorization': 'bearer 55cfeba2-80ec-4198-9205-9a91119b200b'},请求接口https://bss-api.haoshitong.com/api/meeting/logs?searchType=0&page=1&size=10
+INFO     root:test_api_all.py:217 请求参数:
+{},
+请求文件None
+DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): bss-api.haoshitong.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:437 https://bss-api.haoshitong.com:443 "GET /api/meeting/logs?searchType=0&page=1&size=10 HTTP/1.1" 200 None
+INFO     root:test_api_all.py:220 返回:
+ {"result":{"data":[{"id":122429,"roomId":317823,"roomName":"本地轮巡勿动","startTime":"2022-11-25 10:19:11","endTime":null},{"id":122421,"roomId":317823,"roomName":"本地轮巡勿动","startTime":"2022-11-25 09:59:31","endTime":"2022-11-25 10:19:03"},{"id":122415,"roomId":317823,"roomName":"本地轮巡勿动","startTime":"2022-11-25 09:49:56","endTime":"2022-11-25 09:50:19"},{"id":122413,"roomId":317823,"roomName":"本地轮巡勿动","startTime":"2022-11-25 09:47:42","endTime":"2022-11-25 09:48:03"},{"id":77887,"roomId":317823,"roomName":"本地轮巡勿动","startTime":"2022-06-21 11:40:21","endTime":"2022-06-21 11:41:26"},{"id":77809,"roomId":317823,"roomName":"本地轮巡勿动","startTime":"2022-06-21 09:49:50","endTime":"2022-06-21 10:54:04"},{"id":61735,"roomId":1000008170,"roomName":"test334的会议","startTime":"2022-05-20 11:54:44","endTime":null},{"id":61733,"roomId":1000008169,"roomName":"test334的会议","startTime":"2022-05-20 11:52:46","endTime":null},{"id":61731,"roomId":1000008168,"roomName":"test334的会议","startTime":"2022-05-20 11:52:23","endTime":null},{"id":61729,"roomId":1000008167,"roomName":"test334的会议","startTime":"2022-05-20 11:52:17","endTime":null}],"count":11},"resCode":0,"resMessage":"success"}

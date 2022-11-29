@@ -1,0 +1,1 @@
+{"file":"$<common.public.data_path("data")>\\会议授权模板参会人.xlsx"}

@@ -1,0 +1,98 @@
+{
+  "uid" : "d5bf5e4192dccf6f",
+  "name" : "授权用户为空，提示正确",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "35e81be175368b63ee9652464550ed3f",
+  "time" : {
+    "start" : 1669345834883,
+    "stop" : 1669345834883,
+    "duration" : 0
+  },
+  "description" : "请求方法是 POST，请求url是 /api/meetings/335239/authorizations,请求头是 {\"content-type\":\"application/json\",\"Authorization\":\"bearer ${access_token}\"}",
+  "descriptionHtml" : "<p>请求方法是 POST，请求url是 /api/meetings/335239/authorizations,请求头是 {&quot;content-type&quot;:&quot;application/json&quot;,&quot;Authorization&quot;:&quot;bearer ${access_token}&quot;}</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: this test is skipped",
+  "statusTrace" : "('F:\\\\Test\\\\Interface\\\\Python自动化\\\\git_api\\\\test\\\\test_api_all.py', 85, 'Skipped: this test is skipped')",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 POST，请求url是 /api/meetings/335239/authorizations,请求头是 {\"content-type\":\"application/json\",\"Authorization\":\"bearer ${access_token}\"}",
+    "status" : "skipped",
+    "statusMessage" : "Skipped: this test is skipped",
+    "statusTrace" : "('F:\\\\Test\\\\Interface\\\\Python自动化\\\\git_api\\\\test\\\\test_api_all.py', 85, 'Skipped: this test is skipped')",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c1e7fc947c1c734c",
+      "name" : "log",
+      "source" : "c1e7fc947c1c734c.txt",
+      "type" : "text/plain",
+      "size" : 87
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Room_Companycustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "企业会议授权"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5bf5e4192dccf6f.json",
+  "parameterValues" : [ ]
+}

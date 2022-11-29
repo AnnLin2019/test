@@ -1,0 +1,1 @@
+"autoRecord":1;"resolution":"1920*1080";"recordMode":0;"videoMode":1;"dataMode":1;"liveRecordMode":0

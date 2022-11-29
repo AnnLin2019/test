@@ -1,0 +1,7 @@
+INFO     root:test_api_all.py:83 record服务_enableServerRecord字段（写死）是否自动化： YES
+INFO     root:test_api_all.py:171 ********正在执行 record服务_enableServerRecord字段（写死）**********
+INFO     root:test_api_all.py:193 请求方法 ICE，ip 47.113.118.87,端口 33001，接口 invoke，
+INFO     root:test_api_all.py:194 请求参数 
+("RecordConfig","GET","948915")
+INFO     root:test_api_all.py:198 返回
+{"available":true,"enableServerRecord":true,"config":{"autoRecord":1,"start":null,"end":null,"resolution":"1920*1080","recordMode":0,"userIds":null,"videoMode":1,"dataMode":2,"sliceTime":60,"autoCloseTime":60,"timestampInfo":"{\"switch\":1,\"location\":2}","liveRecordMode":0,"width":1920,"high":1080,"recordUser":false}}

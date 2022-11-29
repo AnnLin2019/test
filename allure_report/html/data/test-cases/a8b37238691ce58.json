@@ -1,0 +1,148 @@
+{
+  "uid" : "a8b37238691ce58",
+  "name" : "登录dal服务器，从log获取验证坐标点接口所需的data",
+  "fullName" : "test_api_all#test_api_all",
+  "historyId" : "e2e30f2d9b1f7962cf49f418de26af7c",
+  "time" : {
+    "start" : 1669345822114,
+    "stop" : 1669345822670,
+    "duration" : 556
+  },
+  "description" : "请求方法是 None，请求url是 None,请求头是 {}",
+  "descriptionHtml" : "<p>请求方法是 None，请求url是 None,请求头是 {}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "login_token",
+    "time" : {
+      "start" : 1669345800091,
+      "stop" : 1669345800187,
+      "duration" : 96
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "请求方法是 None，请求url是 None,请求头是 {}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "31040c371659ecaf",
+      "name" : "请求参数",
+      "source" : "31040c371659ecaf.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "1f2a3a4ce0823692",
+      "name" : "ssh连接信息",
+      "source" : "1f2a3a4ce0823692.txt",
+      "type" : "text/plain",
+      "size" : 209
+    }, {
+      "uid" : "db2dcaa26361eca0",
+      "name" : "请求方法",
+      "source" : "db2dcaa26361eca0.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "8579be8290da1e10",
+      "name" : "请求url",
+      "source" : "8579be8290da1e10.txt",
+      "type" : "text/plain",
+      "size" : 8
+    }, {
+      "uid" : "63045750deaacdd3",
+      "name" : "请求头",
+      "source" : "63045750deaacdd3.txt",
+      "type" : "text/plain",
+      "size" : 2
+    }, {
+      "uid" : "9c73593461c3ba77",
+      "name" : "提取参数",
+      "source" : "9c73593461c3ba77.txt",
+      "type" : "text/plain",
+      "size" : 15
+    }, {
+      "uid" : "b739f2254400d504",
+      "name" : "关联参数",
+      "source" : "b739f2254400d504.txt",
+      "type" : "text/plain",
+      "size" : 2325
+    }, {
+      "uid" : "4373f4d9457f3621",
+      "name" : "断言内容",
+      "source" : "4373f4d9457f3621.txt",
+      "type" : "text/plain",
+      "size" : 6
+    }, {
+      "uid" : "9949836e7eca2c2b",
+      "name" : "返回结果",
+      "source" : "9949836e7eca2c2b.txt",
+      "type" : "text/plain",
+      "size" : 140
+    }, {
+      "uid" : "c9f61acea064a75f",
+      "name" : "log",
+      "source" : "c9f61acea064a75f.txt",
+      "type" : "text/plain",
+      "size" : 3736
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 10,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "profile_Trialcustomer.xlsx"
+  }, {
+    "name" : "story",
+    "value" : "获取验证图片+验证坐标点"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_all"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9ML3C"
+  }, {
+    "name" : "thread",
+    "value" : "27916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_api_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8b37238691ce58.json",
+  "parameterValues" : [ ]
+}

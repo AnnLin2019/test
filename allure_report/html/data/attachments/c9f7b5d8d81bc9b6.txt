@@ -1,0 +1,1 @@
+{"areaCode": "+86","departmentId":"${department}","displayName": "test32位密码","password": "abcdefghijklm1234567890123456789","status": 1,"type": 1,"userLevel":0,"userName":"$<random.randint(13000000000,13999999999)>"}

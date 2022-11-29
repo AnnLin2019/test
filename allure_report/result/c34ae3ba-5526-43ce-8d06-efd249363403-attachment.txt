@@ -1,0 +1,1 @@
+${department}=[result][children:0][id]

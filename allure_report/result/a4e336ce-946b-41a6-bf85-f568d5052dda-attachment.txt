@@ -1,0 +1,1 @@
+INFO     root:test_api_all.py:83 修改绑定邮箱，获取验证图片是否自动化： NO
